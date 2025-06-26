@@ -1,0 +1,45 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+37P_YT_YM
+37P_CC
+37P
+
+.........................
+        Stations
+.........................
+
+[station]
+28049
+0
+Yung Yat House Yat Tung Estate 37P
+198
+-1.116
+48.002
+48.002
+0.000
+
+[station]
+28065
+113
+E Wun Secondary School 37P
+388
+-5.950
+4099.194
+82.824
+60.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+10.000
+

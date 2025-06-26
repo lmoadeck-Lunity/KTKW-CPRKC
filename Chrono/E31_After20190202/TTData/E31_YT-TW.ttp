@@ -1,0 +1,205 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E31_YT-TW
+E31_Tsuen Wan
+E31
+
+.........................
+        Stations
+.........................
+
+[station]
+9288
+19
+E31 Yat Tung Estate
+197
+-1.336
+217.589
+9.199
+0.000
+
+[station]
+9270
+52
+North Lantau Hospital
+196
+-5.077
+601.150
+41.544
+0.000
+
+[station]
+9257
+76
+Mun Tung Estate
+201
+-5.648
+1699.238
+45.558
+0.000
+
+[station]
+9262
+88
+Fuk Yat House Yat Tung Estate
+201
+-0.244
+2100.694
+4.781
+0.000
+
+[station]
+9265
+93
+Yung Yat House Yat Tung Estate
+198
+-5.114
+2535.623
+49.710
+0.000
+
+[station]
+9244
+129
+LWB Tung Chung Fire Station
+192
+-5.666
+3602.839
+30.836
+0.000
+
+[station]
+9198
+154
+Tung Chung Cable Car Terminal
+187
+-6.132
+4174.821
+18.508
+0.000
+
+[station]
+9229
+184
+Fu Tung Plaza
+186
+-4.704
+4807.579
+0.536
+0.000
+
+[station]
+9238
+204
+LWB Yu Tung Court go
+192
+-4.851
+5181.448
+25.296
+0.000
+
+[station]
+9192
+363
+Lantau Link Toll Plaza
+108
+-3.385
+16332.919
+9.396
+30.000
+
+[station]
+9187
+488
+Ching Wah Court
+44
+-1.465
+22491.655
+-2.163
+12.000
+
+[station]
+9179
+507
+Cheung Hang Estate
+41
+-1.536
+23106.737
+20.811
+12.000
+
+[station]
+9178
+560
+Cheung On 
+33
+-2.030
+24411.986
+39.354
+15.000
+
+[station]
+9165
+699
+E31 Panda Hotel
+11
+-5.349
+27963.153
+1.508
+15.000
+
+[station]
+9159
+709
+E31 Bo Shek Mansion
+9
+-1.523
+28285.021
+30.577
+15.000
+
+[station]
+9154
+717
+E31 Chuen Lung Street
+6
+-1.497
+28543.609
+34.165
+20.000
+
+[station]
+9145
+753
+E31 Fu Wah Street
+5
+-1.534
+29249.236
+24.370
+15.000
+
+[station]
+9139
+791
+Discovery Park End
+0
+-1.076
+30278.760
+3.916
+15.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+65.000
+

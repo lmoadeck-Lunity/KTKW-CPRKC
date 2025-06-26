@@ -1,0 +1,85 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+38_TC-YTParkB
+38_Yat Tung
+38
+
+.........................
+        Stations
+.........................
+
+[station]
+9216
+0
+Tung Chung MTR Station
+187
+-0.618
+16.712
+16.712
+0.000
+
+[station]
+9235
+51
+LWB Yu Tung Court back
+192
+-4.989
+972.230
+-4.006
+0.000
+
+[station]
+9276
+83
+Mei Yat House, Yat Tung Estate
+196
+-5.190
+1969.362
+4.720
+25.000
+
+[station]
+9277
+96
+Kui Yat House Yat Tung Estate
+197
+-1.523
+2337.415
+9.053
+25.000
+
+[station]
+9279
+102
+Yat Tung Estate End
+198
+-1.200
+2520.075
+6.083
+50.000
+
+[station]
+40075
+123
+NLB Yat Tung Parking C2
+197
+-1.031
+2742.921
+24.697
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+8.000
+

@@ -1,0 +1,797 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+KMB 41M
+1023
+
+------------------------------------
+
+  Dep.: 6:10:0
+[addtrip]
+41M_TY-TW
+0
+370.000
+
+  Dep.: 6:45:0
+[addtrip]
+41M_TW-TY
+0
+405.000
+
+  Dep.: 7:20:0
+[addtrip]
+41M_TY-TW
+0
+440.000
+
+  Dep.: 7:55:0
+[addtrip]
+41M_TW-TY
+0
+475.000
+
+  Dep.: 8:30:0
+[addtrip]
+41M_TY-TW
+0
+510.000
+
+  Dep.: 9:5:0
+[addtrip]
+41M_TW-TY
+0
+545.000
+
+  Dep.: 9:40:0
+[addtrip]
+41M_TY-TW
+0
+580.000
+
+  Dep.: 10:15:0
+[addtrip]
+41M_TW-TY
+0
+615.000
+
+  Dep.: 10:50:0
+[addtrip]
+41M_TY-TW
+0
+650.000
+
+  Dep.: 11:25:0
+[addtrip]
+41M_TW-TY
+0
+685.000
+
+  Dep.: 12:0:0
+[addtrip]
+41M_TY-TW
+0
+720.000
+
+  Dep.: 12:35:0
+[addtrip]
+41M_TW-TY
+0
+755.000
+
+  Dep.: 13:10:0
+[addtrip]
+41M_TY-TW
+0
+790.000
+
+  Dep.: 13:45:0
+[addtrip]
+41M_TW-TY
+0
+825.000
+
+  Dep.: 14:20:0
+[addtrip]
+41M_TY-TW
+0
+860.000
+
+  Dep.: 14:55:0
+[addtrip]
+41M_TW-TY
+0
+895.000
+
+  Dep.: 15:30:0
+[addtrip]
+41M_TY-TW
+0
+930.000
+
+  Dep.: 16:5:0
+[addtrip]
+41M_TW-TY
+0
+965.000
+
+  Dep.: 16:40:0
+[addtrip]
+41M_TY-TW
+0
+1000.000
+
+  Dep.: 17:15:0
+[addtrip]
+41M_TW-TY
+0
+1035.000
+
+  Dep.: 17:50:0
+[addtrip]
+41M_TY-TW
+0
+1070.000
+
+  Dep.: 18:25:0
+[addtrip]
+41M_TW-TY
+0
+1105.000
+
+  Dep.: 19:0:0
+[addtrip]
+41M_TY-TW
+0
+1140.000
+
+  Dep.: 19:35:0
+[addtrip]
+41M_TW-TY
+0
+1175.000
+
+  Dep.: 20:10:0
+[addtrip]
+41M_TY-TW
+0
+1210.000
+
+  Dep.: 20:45:0
+[addtrip]
+41M_TW-TY
+0
+1245.000
+
+  Dep.: 21:20:0
+[addtrip]
+41M_TY-TW
+0
+1280.000
+
+  Dep.: 21:55:0
+[addtrip]
+41M_TW-TY
+0
+1315.000
+
+  Dep.: 22:30:0
+[addtrip]
+41M_TY-TW
+0
+1350.000
+
+  Dep.: 23:5:0
+[addtrip]
+41M_TW-TY
+0
+1385.000
+
+  Dep.: 23:40:0
+[addtrip]
+41M_TY-TW
+0
+1420.000
+
+  Dep.: 24:15:0
+[addtrip]
+41M_TW-TY
+0
+1455.000
+
+------------------------------------
+
+[newtour]
+2
+KMB 41M
+1023
+
+------------------------------------
+
+  Dep.: 5:35:0
+[addtrip]
+41M_TY-TW
+0
+335.000
+
+  Dep.: 6:10:0
+[addtrip]
+41M_TW-TY
+0
+370.000
+
+  Dep.: 6:45:0
+[addtrip]
+41M_TY-TW
+0
+405.000
+
+  Dep.: 7:20:0
+[addtrip]
+41M_TW-TY
+0
+440.000
+
+  Dep.: 7:55:0
+[addtrip]
+41M_TY-TW
+0
+475.000
+
+  Dep.: 8:30:0
+[addtrip]
+41M_TW-TY
+0
+510.000
+
+  Dep.: 9:5:0
+[addtrip]
+41M_TY-TW
+0
+545.000
+
+  Dep.: 9:40:0
+[addtrip]
+41M_TW-TY
+0
+580.000
+
+  Dep.: 10:15:0
+[addtrip]
+41M_TY-TW
+0
+615.000
+
+  Dep.: 10:50:0
+[addtrip]
+41M_TW-TY
+0
+650.000
+
+  Dep.: 11:25:0
+[addtrip]
+41M_TY-TW
+0
+685.000
+
+  Dep.: 12:0:0
+[addtrip]
+41M_TW-TY
+0
+720.000
+
+  Dep.: 12:35:0
+[addtrip]
+41M_TY-TW
+0
+755.000
+
+  Dep.: 13:10:0
+[addtrip]
+41M_TW-TY
+0
+790.000
+
+  Dep.: 13:45:0
+[addtrip]
+41M_TY-TW
+0
+825.000
+
+  Dep.: 14:20:0
+[addtrip]
+41M_TW-TY
+0
+860.000
+
+  Dep.: 14:55:0
+[addtrip]
+41M_TY-TW
+0
+895.000
+
+  Dep.: 15:30:0
+[addtrip]
+41M_TW-TY
+0
+930.000
+
+  Dep.: 16:5:0
+[addtrip]
+41M_TY-TW
+0
+965.000
+
+  Dep.: 16:40:0
+[addtrip]
+41M_TW-TY
+0
+1000.000
+
+  Dep.: 17:15:0
+[addtrip]
+41M_TY-TW
+0
+1035.000
+
+  Dep.: 17:50:0
+[addtrip]
+41M_TW-TY
+0
+1070.000
+
+  Dep.: 18:25:0
+[addtrip]
+41M_TY-TW
+0
+1105.000
+
+  Dep.: 19:0:0
+[addtrip]
+41M_TW-TY
+0
+1140.000
+
+  Dep.: 19:35:0
+[addtrip]
+41M_TY-TW
+0
+1175.000
+
+  Dep.: 20:10:0
+[addtrip]
+41M_TW-TY
+0
+1210.000
+
+  Dep.: 20:45:0
+[addtrip]
+41M_TY-TW
+0
+1245.000
+
+  Dep.: 21:20:0
+[addtrip]
+41M_TW-TY
+0
+1280.000
+
+  Dep.: 21:55:0
+[addtrip]
+41M_TY-TW
+0
+1315.000
+
+  Dep.: 22:30:0
+[addtrip]
+41M_TW-TY
+0
+1350.000
+
+  Dep.: 23:5:0
+[addtrip]
+41M_TY-TW
+0
+1385.000
+
+  Dep.: 23:40:0
+[addtrip]
+41M_TW-TY
+0
+1420.000
+
+------------------------------------
+
+[newtour]
+3
+KMB 41M
+1023
+
+------------------------------------
+
+  Dep.: 6:28:30
+[addtrip]
+41M_TY-TW
+0
+388.500
+
+  Dep.: 7:2:30
+[addtrip]
+41M_TW-TY
+0
+422.500
+
+  Dep.: 7:38:30
+[addtrip]
+41M_TY-TW
+0
+458.500
+
+  Dep.: 8:12:30
+[addtrip]
+41M_TW-TY
+0
+492.500
+
+  Dep.: 8:48:30
+[addtrip]
+41M_TY-TW
+0
+528.500
+
+  Dep.: 9:22:30
+[addtrip]
+41M_TW-TY
+0
+562.500
+
+  Dep.: 9:58:30
+[addtrip]
+41M_TY-TW
+0
+598.500
+
+  Dep.: 10:32:30
+[addtrip]
+41M_TW-TY
+0
+632.500
+
+  Dep.: 11:8:30
+[addtrip]
+41M_TY-TW
+0
+668.500
+
+  Dep.: 11:42:30
+[addtrip]
+41M_TW-TY
+0
+702.500
+
+  Dep.: 12:18:30
+[addtrip]
+41M_TY-TW
+0
+738.500
+
+  Dep.: 12:52:30
+[addtrip]
+41M_TW-TY
+0
+772.500
+
+  Dep.: 13:28:30
+[addtrip]
+41M_TY-TW
+0
+808.500
+
+  Dep.: 14:2:30
+[addtrip]
+41M_TW-TY
+0
+842.500
+
+  Dep.: 14:38:30
+[addtrip]
+41M_TY-TW
+0
+878.500
+
+  Dep.: 15:12:30
+[addtrip]
+41M_TW-TY
+0
+912.500
+
+  Dep.: 15:48:30
+[addtrip]
+41M_TY-TW
+0
+948.500
+
+  Dep.: 16:22:30
+[addtrip]
+41M_TW-TY
+0
+982.500
+
+  Dep.: 16:58:30
+[addtrip]
+41M_TY-TW
+0
+1018.500
+
+  Dep.: 17:32:30
+[addtrip]
+41M_TW-TY
+0
+1052.500
+
+  Dep.: 18:8:30
+[addtrip]
+41M_TY-TW
+0
+1088.500
+
+  Dep.: 18:42:30
+[addtrip]
+41M_TW-TY
+0
+1122.500
+
+  Dep.: 19:18:30
+[addtrip]
+41M_TY-TW
+0
+1158.500
+
+  Dep.: 19:52:30
+[addtrip]
+41M_TW-TY
+0
+1192.500
+
+  Dep.: 20:28:30
+[addtrip]
+41M_TY-TW
+0
+1228.500
+
+  Dep.: 21:2:30
+[addtrip]
+41M_TW-TY
+0
+1262.500
+
+  Dep.: 21:38:30
+[addtrip]
+41M_TY-TW
+0
+1298.500
+
+  Dep.: 22:12:30
+[addtrip]
+41M_TW-TY
+0
+1332.500
+
+  Dep.: 22:48:30
+[addtrip]
+41M_TY-TW
+0
+1368.500
+
+  Dep.: 23:22:30
+[addtrip]
+41M_TW-TY
+0
+1402.500
+
+------------------------------------
+
+[newtour]
+4
+KMB 41M
+1023
+
+------------------------------------
+
+  Dep.: 5:52:30
+[addtrip]
+41M_TY-TW
+0
+352.500
+
+  Dep.: 6:27:30
+[addtrip]
+41M_TW-TY
+0
+387.500
+
+  Dep.: 7:2:30
+[addtrip]
+41M_TY-TW
+0
+422.500
+
+  Dep.: 7:37:30
+[addtrip]
+41M_TW-TY
+0
+457.500
+
+  Dep.: 8:12:30
+[addtrip]
+41M_TY-TW
+0
+492.500
+
+  Dep.: 8:47:30
+[addtrip]
+41M_TW-TY
+0
+527.500
+
+  Dep.: 9:22:30
+[addtrip]
+41M_TY-TW
+0
+562.500
+
+  Dep.: 9:57:30
+[addtrip]
+41M_TW-TY
+0
+597.500
+
+  Dep.: 10:32:30
+[addtrip]
+41M_TY-TW
+0
+632.500
+
+  Dep.: 11:7:30
+[addtrip]
+41M_TW-TY
+0
+667.500
+
+  Dep.: 11:42:30
+[addtrip]
+41M_TY-TW
+0
+702.500
+
+  Dep.: 12:17:30
+[addtrip]
+41M_TW-TY
+0
+737.500
+
+  Dep.: 12:52:30
+[addtrip]
+41M_TY-TW
+0
+772.500
+
+  Dep.: 13:27:30
+[addtrip]
+41M_TW-TY
+0
+807.500
+
+  Dep.: 14:2:30
+[addtrip]
+41M_TY-TW
+0
+842.500
+
+  Dep.: 14:37:30
+[addtrip]
+41M_TW-TY
+0
+877.500
+
+  Dep.: 15:12:30
+[addtrip]
+41M_TY-TW
+0
+912.500
+
+  Dep.: 15:47:30
+[addtrip]
+41M_TW-TY
+0
+947.500
+
+  Dep.: 16:22:30
+[addtrip]
+41M_TY-TW
+0
+982.500
+
+  Dep.: 16:57:30
+[addtrip]
+41M_TW-TY
+0
+1017.500
+
+  Dep.: 17:32:30
+[addtrip]
+41M_TY-TW
+0
+1052.500
+
+  Dep.: 18:7:30
+[addtrip]
+41M_TW-TY
+0
+1087.500
+
+  Dep.: 18:42:30
+[addtrip]
+41M_TY-TW
+0
+1122.500
+
+  Dep.: 19:17:30
+[addtrip]
+41M_TW-TY
+0
+1157.500
+
+  Dep.: 19:52:30
+[addtrip]
+41M_TY-TW
+0
+1192.500
+
+  Dep.: 20:27:30
+[addtrip]
+41M_TW-TY
+0
+1227.500
+
+  Dep.: 21:2:30
+[addtrip]
+41M_TY-TW
+0
+1262.500
+
+  Dep.: 21:37:30
+[addtrip]
+41M_TW-TY
+0
+1297.500
+
+  Dep.: 22:12:30
+[addtrip]
+41M_TY-TW
+0
+1332.500
+
+  Dep.: 22:47:30
+[addtrip]
+41M_TW-TY
+0
+1367.500
+
+  Dep.: 23:22:30
+[addtrip]
+41M_TY-TW
+0
+1402.500
+

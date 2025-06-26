@@ -1,0 +1,135 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E23A_GTC
+E23A_GTC
+E23A
+
+.........................
+        Stations
+.........................
+
+[station]
+49697
+238
+Tung Chung Fire Station
+192
+-5.493
+16528.723
+52.371
+4.000
+
+[station]
+49698
+248
+Tung Chung Crescent 
+187
+-4.785
+16816.652
+29.201
+3.000
+
+[station]
+28701
+316
+Seaview Crescent S52A
+208
+-1.510
+18540.187
+58.322
+0.000
+
+[station]
+28700
+331
+Coastal Skyline S52A
+388
+-5.762
+18985.709
+27.292
+0.000
+
+[station]
+27412
+340
+Caribbean Coast Phase 2
+178
+-5.620
+19389.712
+28.297
+3.000
+
+[station]
+49826
+349
+Caribbean Coast Phase 1
+179
+-5.387
+19678.310
+14.673
+4.000
+
+[station]
+49827
+364
+S52A Ying Hei Road end
+179
+-1.633
+20000.338
+48.070
+5.000
+
+[station]
+49699
+475
+Chun Wan Road North
+286
+-5.391
+23810.196
+23.773
+2.000
+
+[station]
+49700
+506
+HACTL
+273
+-4.253
+24552.449
+49.164
+3.000
+
+[station]
+49701
+527
+Air Mail Centre
+281
+-5.505
+25212.465
+12.272
+2.000
+
+[station]
+24991
+556
+LWB Cathay City2
+263
+-3.989
+26105.098
+67.463
+2.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+38.000
+

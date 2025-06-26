@@ -1,0 +1,135 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E32_KF-TC
+E32_Airport
+E32
+
+.........................
+        Stations
+.........................
+
+[station]
+21024
+0
+Kwai Fong (South)
+259
+-1.033
+48.576
+48.576
+0.000
+
+[station]
+21048
+30
+Kwai Fong Station
+255
+-3.220
+457.470
+7.229
+5.000
+
+[station]
+20992
+46
+Kwai Fong Plaza
+254
+-1.444
+826.806
+34.992
+0.000
+
+[station]
+20928
+73
+Kwong Fai Circuit
+248
+-1.510
+2048.891
+10.477
+0.000
+
+[station]
+20917
+96
+Kin Chuen Street
+242
+-1.451
+2736.740
+7.586
+0.000
+
+[station]
+20909
+135
+Tsuen Fu Street
+10
+-1.507
+3830.373
+12.719
+0.000
+
+[station]
+9177
+245
+Cheung On 
+33
+-2.527
+6743.633
+16.362
+0.000
+
+[station]
+9180
+289
+Cheung Hang Estate
+41
+-1.343
+7871.903
+1.912
+0.000
+
+[station]
+9184
+313
+Ching Wah Court
+44
+-1.350
+8692.269
+5.577
+0.000
+
+[station]
+9245
+581
+38 Tung Chung Fire Station
+192
+-5.669
+25908.804
+32.243
+8.000
+
+[station]
+21257
+591
+Tung Chung Crescent
+187
+-4.790
+26216.254
+28.592
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+45.000
+

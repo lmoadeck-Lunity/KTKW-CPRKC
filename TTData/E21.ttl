@@ -1,0 +1,852 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 5:36:21
+[addtrip]
+E21_TKT
+0
+336.350
+
+  Dep.: 6:36:21
+[addtrip]
+E21_TKT
+0
+396.350
+
+  Dep.: 7:36:21
+[addtrip]
+E21_TKT
+0
+456.350
+
+  Dep.: 8:36:21
+[addtrip]
+E21_TKT
+0
+516.350
+
+  Dep.: 9:36:21
+[addtrip]
+E21_TKT
+0
+576.350
+
+  Dep.: 10:36:21
+[addtrip]
+E21_TKT
+0
+636.350
+
+  Dep.: 11:36:21
+[addtrip]
+E21_TKT
+0
+696.350
+
+  Dep.: 12:36:21
+[addtrip]
+E21_TKT
+0
+756.350
+
+  Dep.: 13:36:21
+[addtrip]
+E21_TKT
+0
+816.350
+
+  Dep.: 14:36:21
+[addtrip]
+E21_TKT
+0
+876.350
+
+  Dep.: 15:36:21
+[addtrip]
+E21_TKT
+0
+936.350
+
+  Dep.: 16:24:21
+[addtrip]
+E21_TKT
+0
+984.350
+
+  Dep.: 17:18:21
+[addtrip]
+E21_TKT
+0
+1038.350
+
+  Dep.: 18:3:21
+[addtrip]
+E21_TKT
+0
+1083.350
+
+  Dep.: 18:48:21
+[addtrip]
+E21_TKT
+0
+1128.350
+
+  Dep.: 19:33:21
+[addtrip]
+E21_TKT
+0
+1173.350
+
+  Dep.: 20:18:21
+[addtrip]
+E21_TKT
+0
+1218.350
+
+  Dep.: 21:3:21
+[addtrip]
+E21_TKT
+0
+1263.350
+
+  Dep.: 21:48:21
+[addtrip]
+E21_TKT
+0
+1308.350
+
+  Dep.: 22:33:21
+[addtrip]
+E21_TKT
+0
+1353.350
+
+  Dep.: 23:18:21
+[addtrip]
+E21_TKT
+0
+1398.350
+
+  Dep.: 24:3:21
+[addtrip]
+E21_TKT
+0
+1443.350
+
+------------------------------------
+
+[newtour]
+2
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 5:56:0
+[addtrip]
+E21_TKT
+0
+356.000
+
+  Dep.: 6:56:0
+[addtrip]
+E21_TKT
+0
+416.000
+
+  Dep.: 7:56:0
+[addtrip]
+E21_TKT
+0
+476.000
+
+  Dep.: 8:56:0
+[addtrip]
+E21_TKT
+0
+536.000
+
+  Dep.: 9:56:0
+[addtrip]
+E21_TKT
+0
+596.000
+
+  Dep.: 10:56:0
+[addtrip]
+E21_TKT
+0
+656.000
+
+  Dep.: 11:56:0
+[addtrip]
+E21_TKT
+0
+716.000
+
+  Dep.: 12:56:0
+[addtrip]
+E21_TKT
+0
+776.000
+
+  Dep.: 13:56:0
+[addtrip]
+E21_TKT
+0
+836.000
+
+  Dep.: 14:56:0
+[addtrip]
+E21_TKT
+0
+896.000
+
+  Dep.: 16:0:0
+[addtrip]
+E21_TKT
+0
+960.000
+
+  Dep.: 16:48:0
+[addtrip]
+E21_TKT
+0
+1008.000
+
+  Dep.: 17:33:0
+[addtrip]
+E21_TKT
+0
+1053.000
+
+  Dep.: 18:18:0
+[addtrip]
+E21_TKT
+0
+1098.000
+
+  Dep.: 19:3:0
+[addtrip]
+E21_TKT
+0
+1143.000
+
+  Dep.: 19:48:0
+[addtrip]
+E21_TKT
+0
+1188.000
+
+  Dep.: 20:33:0
+[addtrip]
+E21_TKT
+0
+1233.000
+
+  Dep.: 21:18:0
+[addtrip]
+E21_TKT
+0
+1278.000
+
+  Dep.: 22:3:0
+[addtrip]
+E21_TKT
+0
+1323.000
+
+  Dep.: 22:48:0
+[addtrip]
+E21_TKT
+0
+1368.000
+
+  Dep.: 23:33:0
+[addtrip]
+E21_TKT
+0
+1413.000
+
+------------------------------------
+
+[newtour]
+3
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 6:16:13
+[addtrip]
+E21_TKT
+0
+376.233
+
+  Dep.: 7:16:13
+[addtrip]
+E21_TKT
+0
+436.233
+
+  Dep.: 8:16:13
+[addtrip]
+E21_TKT
+0
+496.233
+
+  Dep.: 9:16:13
+[addtrip]
+E21_TKT
+0
+556.233
+
+  Dep.: 10:16:13
+[addtrip]
+E21_TKT
+0
+616.233
+
+  Dep.: 11:16:13
+[addtrip]
+E21_TKT
+0
+676.233
+
+  Dep.: 12:16:13
+[addtrip]
+E21_TKT
+0
+736.233
+
+  Dep.: 13:16:13
+[addtrip]
+E21_TKT
+0
+796.233
+
+  Dep.: 14:16:13
+[addtrip]
+E21_TKT
+0
+856.233
+
+  Dep.: 15:16:13
+[addtrip]
+E21_TKT
+0
+916.233
+
+  Dep.: 16:12:13
+[addtrip]
+E21_TKT
+0
+972.233
+
+  Dep.: 17:3:13
+[addtrip]
+E21_TKT
+0
+1023.233
+
+  Dep.: 17:48:13
+[addtrip]
+E21_TKT
+0
+1068.233
+
+  Dep.: 18:33:13
+[addtrip]
+E21_TKT
+0
+1113.233
+
+  Dep.: 19:18:13
+[addtrip]
+E21_TKT
+0
+1158.233
+
+  Dep.: 20:3:13
+[addtrip]
+E21_TKT
+0
+1203.233
+
+  Dep.: 20:48:13
+[addtrip]
+E21_TKT
+0
+1248.233
+
+  Dep.: 21:33:13
+[addtrip]
+E21_TKT
+0
+1293.233
+
+  Dep.: 22:18:13
+[addtrip]
+E21_TKT
+0
+1338.233
+
+  Dep.: 23:3:13
+[addtrip]
+E21_TKT
+0
+1383.233
+
+  Dep.: 23:48:13
+[addtrip]
+E21_TKT
+0
+1428.233
+
+------------------------------------
+
+[newtour]
+4
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 15:48:0
+[addtrip]
+E21_TKT
+0
+948.000
+
+------------------------------------
+
+[newtour]
+5
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 6:10:31
+[addtrip]
+E21_GTC
+0
+370.533
+
+  Dep.: 6:55:31
+[addtrip]
+E21_GTC
+0
+415.533
+
+  Dep.: 7:40:31
+[addtrip]
+E21_GTC
+0
+460.533
+
+  Dep.: 8:25:31
+[addtrip]
+E21_GTC
+0
+505.533
+
+  Dep.: 9:10:31
+[addtrip]
+E21_GTC
+0
+550.533
+
+  Dep.: 9:55:31
+[addtrip]
+E21_GTC
+0
+595.533
+
+  Dep.: 10:40:31
+[addtrip]
+E21_GTC
+0
+640.533
+
+  Dep.: 11:25:31
+[addtrip]
+E21_GTC
+0
+685.533
+
+  Dep.: 12:10:31
+[addtrip]
+E21_GTC
+0
+730.533
+
+  Dep.: 12:55:31
+[addtrip]
+E21_GTC
+0
+775.533
+
+  Dep.: 13:40:31
+[addtrip]
+E21_GTC
+0
+820.533
+
+  Dep.: 14:25:31
+[addtrip]
+E21_GTC
+0
+865.533
+
+  Dep.: 15:10:31
+[addtrip]
+E21_GTC
+0
+910.533
+
+  Dep.: 16:10:31
+[addtrip]
+E21_GTC
+0
+970.533
+
+  Dep.: 17:10:31
+[addtrip]
+E21_GTC
+0
+1030.533
+
+  Dep.: 18:10:31
+[addtrip]
+E21_GTC
+0
+1090.533
+
+  Dep.: 19:10:31
+[addtrip]
+E21_GTC
+0
+1150.533
+
+  Dep.: 20:10:31
+[addtrip]
+E21_GTC
+0
+1210.533
+
+  Dep.: 21:10:31
+[addtrip]
+E21_GTC
+0
+1270.533
+
+  Dep.: 22:10:31
+[addtrip]
+E21_GTC
+0
+1330.533
+
+  Dep.: 23:10:31
+[addtrip]
+E21_GTC
+0
+1390.533
+
+  Dep.: 24:10:31
+[addtrip]
+E21_GTC
+0
+1450.533
+
+------------------------------------
+
+[newtour]
+6
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 6:25:0
+[addtrip]
+E21_GTC
+0
+385.000
+
+  Dep.: 7:10:0
+[addtrip]
+E21_GTC
+0
+430.000
+
+  Dep.: 7:55:0
+[addtrip]
+E21_GTC
+0
+475.000
+
+  Dep.: 8:40:0
+[addtrip]
+E21_GTC
+0
+520.000
+
+  Dep.: 9:25:0
+[addtrip]
+E21_GTC
+0
+565.000
+
+  Dep.: 10:10:0
+[addtrip]
+E21_GTC
+0
+610.000
+
+  Dep.: 10:55:0
+[addtrip]
+E21_GTC
+0
+655.000
+
+  Dep.: 11:40:0
+[addtrip]
+E21_GTC
+0
+700.000
+
+  Dep.: 12:25:0
+[addtrip]
+E21_GTC
+0
+745.000
+
+  Dep.: 13:10:0
+[addtrip]
+E21_GTC
+0
+790.000
+
+  Dep.: 13:55:0
+[addtrip]
+E21_GTC
+0
+835.000
+
+  Dep.: 14:40:0
+[addtrip]
+E21_GTC
+0
+880.000
+
+  Dep.: 15:30:0
+[addtrip]
+E21_GTC
+0
+930.000
+
+  Dep.: 16:30:0
+[addtrip]
+E21_GTC
+0
+990.000
+
+  Dep.: 17:30:0
+[addtrip]
+E21_GTC
+0
+1050.000
+
+  Dep.: 18:30:0
+[addtrip]
+E21_GTC
+0
+1110.000
+
+  Dep.: 19:30:0
+[addtrip]
+E21_GTC
+0
+1170.000
+
+  Dep.: 20:30:0
+[addtrip]
+E21_GTC
+0
+1230.000
+
+  Dep.: 21:30:0
+[addtrip]
+E21_GTC
+0
+1290.000
+
+  Dep.: 22:30:0
+[addtrip]
+E21_GTC
+0
+1350.000
+
+  Dep.: 23:30:0
+[addtrip]
+E21_GTC
+0
+1410.000
+
+  Dep.: 24:35:0
+[addtrip]
+E21_GTC
+0
+1475.000
+
+------------------------------------
+
+[newtour]
+7
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 6:40:33
+[addtrip]
+E21_GTC
+0
+400.550
+
+  Dep.: 7:25:33
+[addtrip]
+E21_GTC
+0
+445.550
+
+  Dep.: 8:10:33
+[addtrip]
+E21_GTC
+0
+490.550
+
+  Dep.: 8:55:33
+[addtrip]
+E21_GTC
+0
+535.550
+
+  Dep.: 9:40:33
+[addtrip]
+E21_GTC
+0
+580.550
+
+  Dep.: 10:25:33
+[addtrip]
+E21_GTC
+0
+625.550
+
+  Dep.: 11:10:33
+[addtrip]
+E21_GTC
+0
+670.550
+
+  Dep.: 11:55:33
+[addtrip]
+E21_GTC
+0
+715.550
+
+  Dep.: 12:40:33
+[addtrip]
+E21_GTC
+0
+760.550
+
+  Dep.: 13:25:33
+[addtrip]
+E21_GTC
+0
+805.550
+
+  Dep.: 14:10:33
+[addtrip]
+E21_GTC
+0
+850.550
+
+  Dep.: 14:55:33
+[addtrip]
+E21_GTC
+0
+895.550
+
+  Dep.: 15:50:33
+[addtrip]
+E21_GTC
+0
+950.550
+
+  Dep.: 16:50:33
+[addtrip]
+E21_GTC
+0
+1010.550
+
+  Dep.: 17:50:33
+[addtrip]
+E21_GTC
+0
+1070.550
+
+  Dep.: 18:50:33
+[addtrip]
+E21_GTC
+0
+1130.550
+
+  Dep.: 19:50:33
+[addtrip]
+E21_GTC
+0
+1190.550
+
+  Dep.: 20:50:33
+[addtrip]
+E21_GTC
+0
+1250.550
+
+  Dep.: 21:50:33
+[addtrip]
+E21_GTC
+0
+1310.550
+
+  Dep.: 22:50:33
+[addtrip]
+E21_GTC
+0
+1370.550
+
+  Dep.: 23:50:33
+[addtrip]
+E21_GTC
+0
+1430.550
+

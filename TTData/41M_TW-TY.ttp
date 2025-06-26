@@ -1,0 +1,95 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+41M_TW-TY
+41M_TY
+41M
+
+.........................
+        Stations
+.........................
+
+[station]
+52993
+0
+41M Tsuen Wan Station
+5
+-0.018
+24.052
+24.052
+0.000
+
+[station]
+52999
+27
+41M Tai Ho Road
+6
+-3.851
+562.082
+24.805
+0.000
+
+[station]
+53004
+69
+41M Yeung Uk Road Market
+14
+-0.281
+1274.948
+5.881
+0.000
+
+[station]
+53009
+84
+41M Wang Lung Street
+9
+-4.000
+1659.681
+79.814
+0.000
+
+[station]
+53031
+187
+41M Cheung On 
+33
+0.083
+4694.736
+32.451
+30.000
+
+[station]
+53014
+237
+41M Yee Wai House Tsing Yi Estate
+474
+-3.883
+5675.361
+52.916
+20.000
+
+[station]
+53024
+256
+41M Tsing Yi Estate End
+474
+0.029
+6000.485
+28.180
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+25.000
+

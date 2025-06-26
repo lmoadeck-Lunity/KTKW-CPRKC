@@ -1,0 +1,45 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+37P_YT_CC
+37P_CC
+37P
+
+.........................
+        Stations
+.........................
+
+[station]
+28049
+0
+Yung Yat House Yat Tung Estate 37P
+198
+-1.116
+48.002
+48.002
+0.000
+
+[station]
+28078
+120
+Kin Tung Road
+179
+-5.013
+3613.201
+5.910
+60.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+10.000
+

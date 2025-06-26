@@ -1,0 +1,1415 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+E32A-01
+LWB
+799
+
+------------------------------------
+
+  Dep.: 5:40:0
+[addtrip]
+E32AN_KF-TD
+0
+340.000
+
+  Dep.: 6:51:0
+[addtrip]
+E32AN_TD-KF
+0
+411.000
+
+------------------------------------
+
+[newtour]
+E32A-02
+LWB
+799
+
+------------------------------------
+
+  Dep.: 5:40:0
+[addtrip]
+E32AN_TD-KF
+0
+340.000
+
+  Dep.: 7:0:0
+[addtrip]
+E32AN_KF-TD
+0
+420.000
+
+  Dep.: 8:0:0
+[addtrip]
+E32AN_TD-KF
+0
+480.000
+
+  Dep.: 9:0:0
+[addtrip]
+E32AN_KF-TD
+0
+540.000
+
+  Dep.: 10:0:0
+[addtrip]
+E32AN_TD-KF
+0
+600.000
+
+  Dep.: 11:0:0
+[addtrip]
+E32AN_KF-TD
+0
+660.000
+
+  Dep.: 12:0:0
+[addtrip]
+E32AN_TD-KF
+0
+720.000
+
+  Dep.: 13:0:0
+[addtrip]
+E32AN_KF-TD
+0
+780.000
+
+  Dep.: 14:0:0
+[addtrip]
+E32AN_TD-KF
+0
+840.000
+
+  Dep.: 15:0:0
+[addtrip]
+E32AN_KF-TD
+0
+900.000
+
+  Dep.: 16:0:0
+[addtrip]
+E32AN_TD-KF
+0
+960.000
+
+  Dep.: 17:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1020.000
+
+  Dep.: 18:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1080.000
+
+  Dep.: 19:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1140.000
+
+------------------------------------
+
+[newtour]
+E32A-03
+LWB
+799
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+E32AN_KF-TD
+0
+360.000
+
+  Dep.: 7:3:0
+[addtrip]
+E32AN_TD-KF
+0
+423.000
+
+  Dep.: 8:0:0
+[addtrip]
+E32AN_KF-TD
+0
+480.000
+
+  Dep.: 9:0:0
+[addtrip]
+E32AN_TD-KF
+0
+540.000
+
+  Dep.: 10:0:0
+[addtrip]
+E32AN_KF-TD
+0
+600.000
+
+  Dep.: 11:0:0
+[addtrip]
+E32AN_TD-KF
+0
+660.000
+
+  Dep.: 12:0:0
+[addtrip]
+E32AN_KF-TD
+0
+720.000
+
+  Dep.: 13:0:0
+[addtrip]
+E32AN_TD-KF
+0
+780.000
+
+  Dep.: 14:0:0
+[addtrip]
+E32AN_KF-TD
+0
+840.000
+
+  Dep.: 15:0:0
+[addtrip]
+E32AN_TD-KF
+0
+900.000
+
+  Dep.: 16:0:0
+[addtrip]
+E32AN_KF-TD
+0
+960.000
+
+  Dep.: 17:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1020.000
+
+  Dep.: 18:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1080.000
+
+  Dep.: 19:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1140.000
+
+  Dep.: 20:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1200.000
+
+  Dep.: 21:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1260.000
+
+  Dep.: 22:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1320.000
+
+  Dep.: 23:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1380.000
+
+  Dep.: 24:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1440.000
+
+------------------------------------
+
+[newtour]
+E32A-04
+LWB
+799
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+E32AN_TD-KF
+0
+360.000
+
+  Dep.: 20:30:0
+[addtrip]
+E32AN_TD-KF
+0
+1230.000
+
+  Dep.: 21:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1300.000
+
+------------------------------------
+
+[newtour]
+E32A-05
+LWB
+799
+
+------------------------------------
+
+  Dep.: 6:15:0
+[addtrip]
+E32AN_TD-KF
+0
+375.000
+
+  Dep.: 7:20:0
+[addtrip]
+E32AN_KF-TD
+0
+440.000
+
+  Dep.: 8:20:0
+[addtrip]
+E32AN_TD-KF
+0
+500.000
+
+  Dep.: 9:20:0
+[addtrip]
+E32AN_KF-TD
+0
+560.000
+
+  Dep.: 10:20:0
+[addtrip]
+E32AN_TD-KF
+0
+620.000
+
+  Dep.: 11:20:0
+[addtrip]
+E32AN_KF-TD
+0
+680.000
+
+  Dep.: 12:20:0
+[addtrip]
+E32AN_TD-KF
+0
+740.000
+
+  Dep.: 13:20:0
+[addtrip]
+E32AN_KF-TD
+0
+800.000
+
+  Dep.: 14:20:0
+[addtrip]
+E32AN_TD-KF
+0
+860.000
+
+  Dep.: 15:20:0
+[addtrip]
+E32AN_KF-TD
+0
+920.000
+
+  Dep.: 16:20:0
+[addtrip]
+E32AN_TD-KF
+0
+980.000
+
+  Dep.: 17:20:0
+[addtrip]
+E32AN_KF-TD
+0
+1040.000
+
+  Dep.: 18:20:0
+[addtrip]
+E32AN_TD-KF
+0
+1100.000
+
+  Dep.: 19:20:0
+[addtrip]
+E32AN_KF-TD
+0
+1160.000
+
+  Dep.: 21:20:0
+[addtrip]
+E32AN_KF-TD
+0
+1280.000
+
+  Dep.: 22:30:0
+[addtrip]
+E32AN_TD-KF
+0
+1350.000
+
+  Dep.: 23:30:0
+[addtrip]
+E32AN_KF-TD
+0
+1410.000
+
+------------------------------------
+
+[newtour]
+E32A-06
+LWB
+799
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+E32AN_KF-TD
+0
+380.000
+
+  Dep.: 7:16:0
+[addtrip]
+E32AN_TD-KF
+0
+436.000
+
+  Dep.: 8:20:0
+[addtrip]
+E32AN_KF-TD
+0
+500.000
+
+  Dep.: 9:20:0
+[addtrip]
+E32AN_TD-KF
+0
+560.000
+
+  Dep.: 10:20:0
+[addtrip]
+E32AN_KF-TD
+0
+620.000
+
+  Dep.: 11:20:0
+[addtrip]
+E32AN_TD-KF
+0
+680.000
+
+  Dep.: 12:20:0
+[addtrip]
+E32AN_KF-TD
+0
+740.000
+
+  Dep.: 13:20:0
+[addtrip]
+E32AN_TD-KF
+0
+800.000
+
+  Dep.: 14:20:0
+[addtrip]
+E32AN_KF-TD
+0
+860.000
+
+  Dep.: 15:20:0
+[addtrip]
+E32AN_TD-KF
+0
+920.000
+
+  Dep.: 16:20:0
+[addtrip]
+E32AN_KF-TD
+0
+980.000
+
+  Dep.: 17:20:0
+[addtrip]
+E32AN_TD-KF
+0
+1040.000
+
+  Dep.: 18:20:0
+[addtrip]
+E32AN_KF-TD
+0
+1100.000
+
+  Dep.: 20:20:0
+[addtrip]
+E32AN_KF-TD
+0
+1220.000
+
+  Dep.: 21:30:0
+[addtrip]
+E32AN_TD-KF
+0
+1290.000
+
+  Dep.: 22:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1360.000
+
+------------------------------------
+
+[newtour]
+E32A-07
+LWB
+799
+
+------------------------------------
+
+  Dep.: 6:27:0
+[addtrip]
+E32AN_TD-KF
+0
+387.000
+
+  Dep.: 19:30:0
+[addtrip]
+E32AN_TD-KF
+0
+1170.000
+
+  Dep.: 20:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1240.000
+
+------------------------------------
+
+[newtour]
+E32A-08
+LWB
+799
+
+------------------------------------
+
+  Dep.: 6:39:0
+[addtrip]
+E32AN_TD-KF
+0
+399.000
+
+  Dep.: 7:40:0
+[addtrip]
+E32AN_KF-TD
+0
+460.000
+
+  Dep.: 8:40:0
+[addtrip]
+E32AN_TD-KF
+0
+520.000
+
+  Dep.: 9:40:0
+[addtrip]
+E32AN_KF-TD
+0
+580.000
+
+  Dep.: 10:40:0
+[addtrip]
+E32AN_TD-KF
+0
+640.000
+
+  Dep.: 11:40:0
+[addtrip]
+E32AN_KF-TD
+0
+700.000
+
+  Dep.: 12:40:0
+[addtrip]
+E32AN_TD-KF
+0
+760.000
+
+  Dep.: 13:40:0
+[addtrip]
+E32AN_KF-TD
+0
+820.000
+
+  Dep.: 14:40:0
+[addtrip]
+E32AN_TD-KF
+0
+880.000
+
+  Dep.: 15:40:0
+[addtrip]
+E32AN_KF-TD
+0
+940.000
+
+  Dep.: 16:40:0
+[addtrip]
+E32AN_TD-KF
+0
+1000.000
+
+  Dep.: 17:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1060.000
+
+  Dep.: 18:40:0
+[addtrip]
+E32AN_TD-KF
+0
+1120.000
+
+  Dep.: 19:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1180.000
+
+  Dep.: 22:20:0
+[addtrip]
+E32AN_KF-TD
+0
+1340.000
+
+  Dep.: 23:30:0
+[addtrip]
+E32AN_TD-KF
+0
+1410.000
+
+------------------------------------
+
+[newtour]
+E32A-09
+LWB
+799
+
+------------------------------------
+
+  Dep.: 6:40:0
+[addtrip]
+E32AN_KF-TD
+0
+400.000
+
+  Dep.: 7:45:0
+[addtrip]
+E32AN_TD-KF
+0
+465.000
+
+  Dep.: 8:41:0
+[addtrip]
+E32AN_KF-TD
+0
+521.000
+
+  Dep.: 9:40:0
+[addtrip]
+E32AN_TD-KF
+0
+580.000
+
+  Dep.: 10:40:0
+[addtrip]
+E32AN_KF-TD
+0
+640.000
+
+  Dep.: 11:40:0
+[addtrip]
+E32AN_TD-KF
+0
+700.000
+
+  Dep.: 12:40:0
+[addtrip]
+E32AN_KF-TD
+0
+760.000
+
+  Dep.: 13:40:0
+[addtrip]
+E32AN_TD-KF
+0
+820.000
+
+  Dep.: 14:40:0
+[addtrip]
+E32AN_KF-TD
+0
+880.000
+
+  Dep.: 15:40:0
+[addtrip]
+E32AN_TD-KF
+0
+940.000
+
+  Dep.: 16:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1000.000
+
+  Dep.: 17:40:0
+[addtrip]
+E32AN_TD-KF
+0
+1060.000
+
+  Dep.: 18:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1120.000
+
+  Dep.: 20:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1200.000
+
+  Dep.: 21:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1260.000
+
+  Dep.: 22:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1320.000
+
+  Dep.: 23:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1380.000
+
+  Dep.: 24:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1440.000
+
+------------------------------------
+
+[newtour]
+E32A-101
+LWB
+992
+
+------------------------------------
+
+  Dep.: 5:40:0
+[addtrip]
+E32AN_KF-TD
+0
+340.000
+
+  Dep.: 6:40:0
+[addtrip]
+E32AN_TD-KF
+0
+400.000
+
+  Dep.: 7:40:0
+[addtrip]
+E32AN_KF-TD
+0
+460.000
+
+  Dep.: 8:40:0
+[addtrip]
+E32AN_TD-KF
+0
+520.000
+
+  Dep.: 9:40:0
+[addtrip]
+E32AN_KF-TD
+0
+580.000
+
+  Dep.: 10:40:0
+[addtrip]
+E32AN_TD-KF
+0
+640.000
+
+  Dep.: 11:40:0
+[addtrip]
+E32AN_KF-TD
+0
+700.000
+
+  Dep.: 12:40:0
+[addtrip]
+E32AN_TD-KF
+0
+760.000
+
+  Dep.: 13:40:0
+[addtrip]
+E32AN_KF-TD
+0
+820.000
+
+  Dep.: 14:40:0
+[addtrip]
+E32AN_TD-KF
+0
+880.000
+
+  Dep.: 15:40:0
+[addtrip]
+E32AN_KF-TD
+0
+940.000
+
+  Dep.: 16:40:0
+[addtrip]
+E32AN_TD-KF
+0
+1000.000
+
+  Dep.: 17:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1060.000
+
+  Dep.: 18:40:0
+[addtrip]
+E32AN_TD-KF
+0
+1120.000
+
+  Dep.: 19:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1180.000
+
+  Dep.: 21:30:0
+[addtrip]
+E32AN_TD-KF
+0
+1290.000
+
+  Dep.: 22:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1360.000
+
+------------------------------------
+
+[newtour]
+E32A-102
+LWB
+992
+
+------------------------------------
+
+  Dep.: 5:40:0
+[addtrip]
+E32AN_TD-KF
+0
+340.000
+
+  Dep.: 6:40:0
+[addtrip]
+E32AN_KF-TD
+0
+400.000
+
+  Dep.: 7:40:0
+[addtrip]
+E32AN_TD-KF
+0
+460.000
+
+  Dep.: 8:40:0
+[addtrip]
+E32AN_KF-TD
+0
+520.000
+
+  Dep.: 9:40:0
+[addtrip]
+E32AN_TD-KF
+0
+580.000
+
+  Dep.: 10:40:0
+[addtrip]
+E32AN_KF-TD
+0
+640.000
+
+  Dep.: 11:40:0
+[addtrip]
+E32AN_TD-KF
+0
+700.000
+
+  Dep.: 12:40:0
+[addtrip]
+E32AN_KF-TD
+0
+760.000
+
+  Dep.: 13:40:0
+[addtrip]
+E32AN_TD-KF
+0
+820.000
+
+  Dep.: 14:40:0
+[addtrip]
+E32AN_KF-TD
+0
+880.000
+
+  Dep.: 15:40:0
+[addtrip]
+E32AN_TD-KF
+0
+940.000
+
+  Dep.: 16:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1000.000
+
+  Dep.: 17:40:0
+[addtrip]
+E32AN_TD-KF
+0
+1060.000
+
+  Dep.: 18:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1120.000
+
+  Dep.: 20:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1200.000
+
+  Dep.: 21:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1260.000
+
+  Dep.: 22:30:0
+[addtrip]
+E32AN_TD-KF
+0
+1350.000
+
+  Dep.: 23:30:0
+[addtrip]
+E32AN_KF-TD
+0
+1410.000
+
+------------------------------------
+
+[newtour]
+E32A-103
+LWB
+992
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+E32AN_TD-KF
+0
+360.000
+
+  Dep.: 7:10:0
+[addtrip]
+E32AN_KF-TD
+0
+430.000
+
+  Dep.: 8:20:0
+[addtrip]
+E32AN_TD-KF
+0
+500.000
+
+  Dep.: 9:20:0
+[addtrip]
+E32AN_KF-TD
+0
+560.000
+
+  Dep.: 10:20:0
+[addtrip]
+E32AN_TD-KF
+0
+620.000
+
+  Dep.: 11:20:0
+[addtrip]
+E32AN_KF-TD
+0
+680.000
+
+  Dep.: 12:20:0
+[addtrip]
+E32AN_TD-KF
+0
+740.000
+
+  Dep.: 13:20:0
+[addtrip]
+E32AN_KF-TD
+0
+800.000
+
+  Dep.: 14:20:0
+[addtrip]
+E32AN_TD-KF
+0
+860.000
+
+  Dep.: 15:20:0
+[addtrip]
+E32AN_KF-TD
+0
+920.000
+
+  Dep.: 16:20:0
+[addtrip]
+E32AN_TD-KF
+0
+980.000
+
+  Dep.: 17:20:0
+[addtrip]
+E32AN_KF-TD
+0
+1040.000
+
+  Dep.: 18:20:0
+[addtrip]
+E32AN_TD-KF
+0
+1100.000
+
+  Dep.: 19:20:0
+[addtrip]
+E32AN_KF-TD
+0
+1160.000
+
+  Dep.: 21:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1260.000
+
+  Dep.: 22:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1320.000
+
+------------------------------------
+
+[newtour]
+E32A-104
+LWB
+992
+
+------------------------------------
+
+  Dep.: 6:10:0
+[addtrip]
+E32AN_KF-TD
+0
+370.000
+
+  Dep.: 7:20:0
+[addtrip]
+E32AN_TD-KF
+0
+440.000
+
+------------------------------------
+
+[newtour]
+E32A-105
+LWB
+992
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+E32AN_TD-KF
+0
+380.000
+
+------------------------------------
+
+[newtour]
+E32A-106
+LWB
+992
+
+------------------------------------
+
+  Dep.: 7:0:0
+[addtrip]
+E32AN_TD-KF
+0
+420.000
+
+  Dep.: 20:20:0
+[addtrip]
+E32AN_KF-TD
+0
+1220.000
+
+------------------------------------
+
+[newtour]
+E32A-107
+LWB
+992
+
+------------------------------------
+
+  Dep.: 8:10:0
+[addtrip]
+E32AN_KF-TD
+0
+490.000
+
+  Dep.: 9:20:0
+[addtrip]
+E32AN_TD-KF
+0
+560.000
+
+  Dep.: 10:20:0
+[addtrip]
+E32AN_KF-TD
+0
+620.000
+
+  Dep.: 11:20:0
+[addtrip]
+E32AN_TD-KF
+0
+680.000
+
+  Dep.: 12:20:0
+[addtrip]
+E32AN_KF-TD
+0
+740.000
+
+  Dep.: 13:20:0
+[addtrip]
+E32AN_TD-KF
+0
+800.000
+
+  Dep.: 14:20:0
+[addtrip]
+E32AN_KF-TD
+0
+860.000
+
+  Dep.: 15:20:0
+[addtrip]
+E32AN_TD-KF
+0
+920.000
+
+  Dep.: 16:20:0
+[addtrip]
+E32AN_KF-TD
+0
+980.000
+
+  Dep.: 17:20:0
+[addtrip]
+E32AN_TD-KF
+0
+1040.000
+
+  Dep.: 18:20:0
+[addtrip]
+E32AN_KF-TD
+0
+1100.000
+
+  Dep.: 19:30:0
+[addtrip]
+E32AN_TD-KF
+0
+1170.000
+
+  Dep.: 20:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1240.000
+
+------------------------------------
+
+[newtour]
+E32A-108
+LWB
+992
+
+------------------------------------
+
+  Dep.: 9:0:0
+[addtrip]
+E32AN_TD-KF
+0
+540.000
+
+  Dep.: 10:0:0
+[addtrip]
+E32AN_KF-TD
+0
+600.000
+
+  Dep.: 11:0:0
+[addtrip]
+E32AN_TD-KF
+0
+660.000
+
+  Dep.: 12:0:0
+[addtrip]
+E32AN_KF-TD
+0
+720.000
+
+  Dep.: 13:0:0
+[addtrip]
+E32AN_TD-KF
+0
+780.000
+
+  Dep.: 14:0:0
+[addtrip]
+E32AN_KF-TD
+0
+840.000
+
+  Dep.: 15:0:0
+[addtrip]
+E32AN_TD-KF
+0
+900.000
+
+  Dep.: 16:0:0
+[addtrip]
+E32AN_KF-TD
+0
+960.000
+
+  Dep.: 17:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1020.000
+
+  Dep.: 18:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1080.000
+
+  Dep.: 19:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1140.000
+
+  Dep.: 20:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1200.000
+
+  Dep.: 22:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1320.000
+
+  Dep.: 23:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1380.000
+
+------------------------------------
+
+[newtour]
+E32A-109
+LWB
+992
+
+------------------------------------
+
+  Dep.: 8:0:0
+[addtrip]
+E32AN_TD-KF
+0
+480.000
+
+  Dep.: 9:0:0
+[addtrip]
+E32AN_KF-TD
+0
+540.000
+
+  Dep.: 10:0:0
+[addtrip]
+E32AN_TD-KF
+0
+600.000
+
+  Dep.: 11:0:0
+[addtrip]
+E32AN_KF-TD
+0
+660.000
+
+  Dep.: 12:0:0
+[addtrip]
+E32AN_TD-KF
+0
+720.000
+
+  Dep.: 13:0:0
+[addtrip]
+E32AN_KF-TD
+0
+780.000
+
+  Dep.: 14:0:0
+[addtrip]
+E32AN_TD-KF
+0
+840.000
+
+  Dep.: 15:0:0
+[addtrip]
+E32AN_KF-TD
+0
+900.000
+
+  Dep.: 16:0:0
+[addtrip]
+E32AN_TD-KF
+0
+960.000
+
+  Dep.: 17:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1020.000
+
+  Dep.: 18:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1080.000
+
+  Dep.: 19:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1140.000
+
+  Dep.: 20:30:0
+[addtrip]
+E32AN_TD-KF
+0
+1230.000
+
+  Dep.: 21:40:0
+[addtrip]
+E32AN_KF-TD
+0
+1300.000
+
+  Dep.: 23:0:0
+[addtrip]
+E32AN_TD-KF
+0
+1380.000
+
+  Dep.: 24:0:0
+[addtrip]
+E32AN_KF-TD
+0
+1440.000
+

@@ -1,0 +1,461 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+NLB
+1023
+
+------------------------------------
+
+  Dep.: 6:40:0
+[addtrip]
+37SP_TN-YT
+0
+400.000
+
+  Dep.: 7:10:0
+[addtrip]
+37_YT-TN
+0
+430.000
+
+  Dep.: 7:40:0
+[addtrip]
+37SP_TN-YT
+0
+460.000
+
+  Dep.: 8:10:0
+[addtrip]
+37_YT-TN
+0
+490.000
+
+  Dep.: 8:40:0
+[addtrip]
+37SP_TN-YT
+0
+520.000
+
+  Dep.: 9:10:0
+[addtrip]
+37_YT-TN
+0
+550.000
+
+  Dep.: 9:40:0
+[addtrip]
+37_TN-YT
+0
+580.000
+
+  Dep.: 10:10:0
+[addtrip]
+37_YT-TN
+0
+610.000
+
+  Dep.: 10:40:0
+[addtrip]
+37_TN-YT
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+37_YT-TN
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+37_TN-YT
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+37_YT-TN
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+37_TN-YT
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+37_YT-TN
+0
+790.000
+
+  Dep.: 13:40:0
+[addtrip]
+37_TN-YT
+0
+820.000
+
+  Dep.: 14:10:0
+[addtrip]
+37_YT-TN
+0
+850.000
+
+  Dep.: 14:40:0
+[addtrip]
+37_TN-YT
+0
+880.000
+
+  Dep.: 15:10:0
+[addtrip]
+37_YT-TN
+0
+910.000
+
+  Dep.: 15:40:0
+[addtrip]
+37_TN-YT
+0
+940.000
+
+  Dep.: 16:10:0
+[addtrip]
+37SP_YT-TN
+0
+970.000
+
+  Dep.: 16:40:0
+[addtrip]
+37_TN-YT
+0
+1000.000
+
+  Dep.: 17:10:0
+[addtrip]
+37SP_YT-TN
+0
+1030.000
+
+  Dep.: 17:40:0
+[addtrip]
+37_TN-YT
+0
+1060.000
+
+  Dep.: 18:10:0
+[addtrip]
+37SP_YT-TN
+0
+1090.000
+
+  Dep.: 18:40:0
+[addtrip]
+37_TN-YT
+0
+1120.000
+
+  Dep.: 19:10:0
+[addtrip]
+37_YT-TN
+0
+1150.000
+
+  Dep.: 19:40:0
+[addtrip]
+37_TN-YT
+0
+1180.000
+
+  Dep.: 20:10:0
+[addtrip]
+37_YT-TN
+0
+1210.000
+
+  Dep.: 20:40:0
+[addtrip]
+37_TN-YT
+0
+1240.000
+
+  Dep.: 21:10:0
+[addtrip]
+37_YT-TN
+0
+1270.000
+
+  Dep.: 21:40:0
+[addtrip]
+37_TN-YT
+0
+1300.000
+
+  Dep.: 22:10:0
+[addtrip]
+37_YT-TN
+0
+1330.000
+
+  Dep.: 22:40:0
+[addtrip]
+37_TN-YT
+0
+1360.000
+
+  Dep.: 23:10:0
+[addtrip]
+37_YT-TN
+0
+1390.000
+
+  Dep.: 23:40:0
+[addtrip]
+37_TN-YT
+0
+1420.000
+
+  Dep.: 24:10:0
+[addtrip]
+37_YT-TN
+0
+1450.000
+
+------------------------------------
+
+[newtour]
+2
+NLB
+1023
+
+------------------------------------
+
+  Dep.: 6:40:0
+[addtrip]
+37_YT-TN
+0
+400.000
+
+  Dep.: 7:10:0
+[addtrip]
+37SP_TN-YT
+0
+430.000
+
+  Dep.: 7:40:0
+[addtrip]
+37_YT-TN
+0
+460.000
+
+  Dep.: 8:10:0
+[addtrip]
+37SP_TN-YT
+0
+490.000
+
+  Dep.: 8:40:0
+[addtrip]
+37_YT-TN
+0
+520.000
+
+  Dep.: 9:10:0
+[addtrip]
+37SP_TN-YT
+0
+550.000
+
+  Dep.: 9:40:0
+[addtrip]
+37_YT-TN
+0
+580.000
+
+  Dep.: 10:10:0
+[addtrip]
+37_TN-YT
+0
+610.000
+
+  Dep.: 10:40:0
+[addtrip]
+37_YT-TN
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+37_TN-YT
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+37SP_YT-TN
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+37SP_TN-YT
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+37_YT-TN
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+37_TN-YT
+0
+790.000
+
+  Dep.: 13:40:0
+[addtrip]
+37_YT-TN
+0
+820.000
+
+  Dep.: 14:10:0
+[addtrip]
+37_TN-YT
+0
+850.000
+
+  Dep.: 14:40:0
+[addtrip]
+37_YT-TN
+0
+880.000
+
+  Dep.: 15:10:0
+[addtrip]
+37_TN-YT
+0
+910.000
+
+  Dep.: 15:40:0
+[addtrip]
+37SP_YT-TN
+0
+940.000
+
+  Dep.: 16:10:0
+[addtrip]
+37_TN-YT
+0
+970.000
+
+  Dep.: 16:40:0
+[addtrip]
+37SP_YT-TN
+0
+1000.000
+
+  Dep.: 17:10:0
+[addtrip]
+37_TN-YT
+0
+1030.000
+
+  Dep.: 17:40:0
+[addtrip]
+37SP_YT-TN
+0
+1060.000
+
+  Dep.: 18:10:0
+[addtrip]
+37_TN-YT
+0
+1090.000
+
+  Dep.: 18:40:0
+[addtrip]
+37SP_YT-TN
+0
+1120.000
+
+  Dep.: 19:10:0
+[addtrip]
+37_TN-YT
+0
+1150.000
+
+  Dep.: 19:40:0
+[addtrip]
+37_YT-TN
+0
+1180.000
+
+  Dep.: 20:10:0
+[addtrip]
+37_TN-YT
+0
+1210.000
+
+  Dep.: 20:40:0
+[addtrip]
+37_YT-TN
+0
+1240.000
+
+  Dep.: 21:10:0
+[addtrip]
+37_TN-YT
+0
+1270.000
+
+  Dep.: 21:40:0
+[addtrip]
+37_YT-TN
+0
+1300.000
+
+  Dep.: 22:10:0
+[addtrip]
+37_TN-YT
+0
+1330.000
+
+  Dep.: 22:40:0
+[addtrip]
+37_YT-TN
+0
+1360.000
+
+  Dep.: 23:10:0
+[addtrip]
+37_TN-YT
+0
+1390.000
+
+  Dep.: 23:40:0
+[addtrip]
+37_YT-TN
+0
+1420.000
+
+  Dep.: 24:10:0
+[addtrip]
+37_TN-YT
+0
+1450.000
+

@@ -1,0 +1,453 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 7:6:33
+[addtrip]
+E22A_HSG
+0
+426.550
+
+  Dep.: 7:56:33
+[addtrip]
+E22A_HSG
+0
+476.550
+
+  Dep.: 8:56:33
+[addtrip]
+E22A_HSG
+0
+536.550
+
+  Dep.: 9:56:33
+[addtrip]
+E22A_HSG
+0
+596.550
+
+  Dep.: 10:56:33
+[addtrip]
+E22A_HSG
+0
+656.550
+
+  Dep.: 11:56:33
+[addtrip]
+E22A_HSG
+0
+716.550
+
+  Dep.: 12:56:33
+[addtrip]
+E22A_HSG
+0
+776.550
+
+  Dep.: 13:56:33
+[addtrip]
+E22A_HSG
+0
+836.550
+
+  Dep.: 14:56:33
+[addtrip]
+E22A_HSG
+0
+896.550
+
+  Dep.: 15:56:33
+[addtrip]
+E22A_HSG
+0
+956.550
+
+  Dep.: 16:56:33
+[addtrip]
+E22A_HSG
+0
+1016.550
+
+  Dep.: 17:56:33
+[addtrip]
+E22A_HSG
+0
+1076.550
+
+  Dep.: 18:56:33
+[addtrip]
+E22A_HSG
+0
+1136.550
+
+  Dep.: 19:56:33
+[addtrip]
+E22A_HSG
+0
+1196.550
+
+  Dep.: 20:56:33
+[addtrip]
+E22A_HSG
+0
+1256.550
+
+  Dep.: 21:56:33
+[addtrip]
+E22A_HSG
+0
+1316.550
+
+  Dep.: 22:56:33
+[addtrip]
+E22A_HSG
+0
+1376.550
+
+  Dep.: 23:56:33
+[addtrip]
+E22A_HSG
+0
+1436.550
+
+------------------------------------
+
+[newtour]
+2
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 7:31:0
+[addtrip]
+E22A_HSG
+0
+451.000
+
+  Dep.: 8:26:0
+[addtrip]
+E22A_HSG
+0
+506.000
+
+  Dep.: 9:26:0
+[addtrip]
+E22A_HSG
+0
+566.000
+
+  Dep.: 10:26:0
+[addtrip]
+E22A_HSG
+0
+626.000
+
+  Dep.: 11:26:0
+[addtrip]
+E22A_HSG
+0
+686.000
+
+  Dep.: 12:26:0
+[addtrip]
+E22A_HSG
+0
+746.000
+
+  Dep.: 13:26:0
+[addtrip]
+E22A_HSG
+0
+806.000
+
+  Dep.: 14:26:0
+[addtrip]
+E22A_HSG
+0
+866.000
+
+  Dep.: 15:26:0
+[addtrip]
+E22A_HSG
+0
+926.000
+
+  Dep.: 16:26:0
+[addtrip]
+E22A_HSG
+0
+986.000
+
+  Dep.: 17:26:0
+[addtrip]
+E22A_HSG
+0
+1046.000
+
+  Dep.: 18:26:0
+[addtrip]
+E22A_HSG
+0
+1106.000
+
+  Dep.: 19:26:0
+[addtrip]
+E22A_HSG
+0
+1166.000
+
+  Dep.: 20:26:0
+[addtrip]
+E22A_HSG
+0
+1226.000
+
+  Dep.: 21:26:0
+[addtrip]
+E22A_HSG
+0
+1286.000
+
+  Dep.: 22:26:0
+[addtrip]
+E22A_HSG
+0
+1346.000
+
+  Dep.: 23:26:0
+[addtrip]
+E22A_HSG
+0
+1406.000
+
+------------------------------------
+
+[newtour]
+3
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 6:19:0
+[addtrip]
+E22A_GTC
+0
+379.000
+
+  Dep.: 7:19:0
+[addtrip]
+E22A_GTC
+0
+439.000
+
+  Dep.: 8:19:0
+[addtrip]
+E22A_GTC
+0
+499.000
+
+  Dep.: 9:19:0
+[addtrip]
+E22A_GTC
+0
+559.000
+
+  Dep.: 10:19:0
+[addtrip]
+E22A_GTC
+0
+619.000
+
+  Dep.: 11:19:0
+[addtrip]
+E22A_GTC
+0
+679.000
+
+  Dep.: 12:19:0
+[addtrip]
+E22A_GTC
+0
+739.000
+
+  Dep.: 13:19:0
+[addtrip]
+E22A_GTC
+0
+799.000
+
+  Dep.: 14:19:0
+[addtrip]
+E22A_GTC
+0
+859.000
+
+  Dep.: 15:19:0
+[addtrip]
+E22A_GTC
+0
+919.000
+
+  Dep.: 16:19:0
+[addtrip]
+E22A_GTC
+0
+979.000
+
+  Dep.: 17:19:0
+[addtrip]
+E22A_GTC
+0
+1039.000
+
+  Dep.: 18:19:0
+[addtrip]
+E22A_GTC
+0
+1099.000
+
+  Dep.: 19:19:0
+[addtrip]
+E22A_GTC
+0
+1159.000
+
+  Dep.: 20:19:0
+[addtrip]
+E22A_GTC
+0
+1219.000
+
+  Dep.: 21:19:0
+[addtrip]
+E22A_GTC
+0
+1279.000
+
+  Dep.: 22:17:0
+[addtrip]
+E22A_GTC
+0
+1337.000
+
+------------------------------------
+
+[newtour]
+4
+CTB E
+1023
+
+------------------------------------
+
+  Dep.: 6:59:22
+[addtrip]
+E22A_GTC
+0
+419.367
+
+  Dep.: 7:59:22
+[addtrip]
+E22A_GTC
+0
+479.367
+
+  Dep.: 8:59:22
+[addtrip]
+E22A_GTC
+0
+539.367
+
+  Dep.: 9:59:22
+[addtrip]
+E22A_GTC
+0
+599.367
+
+  Dep.: 10:59:22
+[addtrip]
+E22A_GTC
+0
+659.367
+
+  Dep.: 11:59:22
+[addtrip]
+E22A_GTC
+0
+719.367
+
+  Dep.: 12:59:22
+[addtrip]
+E22A_GTC
+0
+779.367
+
+  Dep.: 13:59:22
+[addtrip]
+E22A_GTC
+0
+839.367
+
+  Dep.: 14:59:22
+[addtrip]
+E22A_GTC
+0
+899.367
+
+  Dep.: 15:59:22
+[addtrip]
+E22A_GTC
+0
+959.367
+
+  Dep.: 16:59:22
+[addtrip]
+E22A_GTC
+0
+1019.367
+
+  Dep.: 17:59:22
+[addtrip]
+E22A_GTC
+0
+1079.367
+
+  Dep.: 18:59:22
+[addtrip]
+E22A_GTC
+0
+1139.367
+
+  Dep.: 19:59:22
+[addtrip]
+E22A_GTC
+0
+1199.367
+
+  Dep.: 20:59:22
+[addtrip]
+E22A_GTC
+0
+1259.367
+
+  Dep.: 21:59:22
+[addtrip]
+E22A_GTC
+0
+1319.367
+

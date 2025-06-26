@@ -1,0 +1,155 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E23A_TWS
+E23A_TWS
+E23A
+
+.........................
+        Stations
+.........................
+
+[station]
+22658
+28
+CTB Cathay City
+264
+-1.894
+479.836
+35.461
+25.000
+
+[station]
+49681
+66
+Airport Police Station
+281
+-5.428
+1448.017
+13.104
+0.000
+
+[station]
+49682
+99
+Chun Wan Road South
+273
+-4.113
+2493.644
+51.617
+0.000
+
+[station]
+49684
+113
+Airport Freight Forwarding Centre
+283
+-4.420
+2861.958
+43.761
+0.000
+
+[station]
+49686
+140
+Asia Airfreight Terminal - Tung Chung
+287
+-6.254
+3746.533
+21.834
+0.000
+
+[station]
+25913
+248
+E32A Seaview Crescent
+208
+-1.443
+6961.050
+70.205
+0.000
+
+[station]
+26193
+263
+E32A Coastal Skyline
+388
+-5.725
+7410.319
+42.924
+0.000
+
+[station]
+49828
+272
+Caribbean Coast Phase 2
+179
+-5.485
+7817.601
+47.206
+1.000
+
+[station]
+28474
+282
+E32A Caribbean Coast Phase 1
+179
+-5.448
+8112.983
+15.368
+0.000
+
+[station]
+28476
+296
+E32A Ying Hei Road
+179
+-1.677
+8398.457
+37.212
+0.000
+
+[station]
+49779
+361
+Tung Chung Cable Car Terminal
+187
+-5.914
+10573.955
+75.608
+0.000
+
+[station]
+49819
+395
+Fu Tung Plaza
+186
+-4.845
+11178.796
+12.010
+0.000
+
+[station]
+49784
+414
+LWB Yu Tung Court back
+192
+-5.091
+11518.205
+30.809
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+40.000
+

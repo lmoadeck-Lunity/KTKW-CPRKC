@@ -1,0 +1,305 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+30X_WG-AG
+30X_AG
+30X
+
+.........................
+        Stations
+.........................
+
+[station]
+1607134
+0
+Whampoa Garden Bus Terminus 30X
+529
+-0.204
+27.351
+27.351
+0.000
+
+[station]
+1589406
+63
+Hung Lok Road
+535
+-3.928
+1487.415
+48.215
+0.000
+
+[station]
+1589405
+79
+Hung Hom South Road (Westbound)
+527
+-3.934
+1893.486
+60.086
+0.000
+
+[station]
+1607139
+102
+Gillies Avenue South (Northbound)
+525
+-0.109
+2359.400
+31.590
+0.000
+
+[station]
+1589400
+116
+Walker Road
+525
+-1.250
+2591.614
+14.004
+0.000
+
+[station]
+1589409
+180
+Diocesan Girls School (Gascoigne Road)
+516
+-0.776
+4091.721
+2.161
+0.000
+
+[station]
+1607124
+197
+Kowloon Central Post Office
+514
+-3.265
+4495.341
+116.471
+0.000
+
+[station]
+1607102
+214
+Pitt Street
+512
+-3.176
+4932.473
+39.553
+0.000
+
+[station]
+1607078
+222
+Shantung Street
+509
+-3.250
+5250.513
+77.294
+0.000
+
+[station]
+1607071
+235
+Bute Street (Northbound)
+507
+-3.364
+5804.388
+18.169
+0.000
+
+[station]
+1607068
+252
+Prince Edward Station
+505
+-0.268
+6293.877
+24.458
+0.000
+
+[station]
+1607056
+263
+Maple Street (CSW Northbound)
+504
+0.016
+6636.994
+3.574
+0.000
+
+[station]
+1607044
+288
+Pei Ho Street
+501
+-0.007
+7089.656
+39.437
+0.000
+
+[station]
+1607026
+298
+Yee Kok Court
+497
+-3.594
+7769.746
+14.027
+0.000
+
+[station]
+1607014
+308
+Cheung Sha Wan Playground
+493
+-0.968
+8264.039
+77.319
+0.000
+
+[station]
+1607009
+320
+Hing Wah Street
+460
+0.216
+8685.253
+109.233
+0.000
+
+[station]
+1606999
+338
+Lai Chi Kok Station
+459
+-3.363
+9200.320
+111.701
+0.000
+
+[station]
+1606992
+376
+Mei Foo Station
+453
+-3.518
+10226.089
+18.702
+0.000
+
+[station]
+1607143
+520
+Clague Garden Estate
+397
+-4.981
+17040.363
+12.223
+40.000
+
+[station]
+1607142
+543
+Moon Lok Dai Ha
+236
+-1.501
+17441.230
+55.376
+20.000
+
+[station]
+1607144
+579
+30X Fu Wah Street
+5
+-1.526
+18197.679
+20.734
+40.000
+
+[station]
+15764
+592
+Wing Hong House Fuk Loi Estate
+2
+-5.515
+18601.323
+56.199
+0.000
+
+[station]
+15662
+608
+Mei Wan Street
+0
+-1.766
+19020.024
+23.380
+10.000
+
+[station]
+15623
+619
+Tsuen King Garden
+237
+-2.940
+19213.438
+4.094
+30.000
+
+[station]
+15628
+627
+Tsuen Wan Centre
+237
+-6.195
+19357.476
+23.332
+30.000
+
+[station]
+15645
+648
+Church of the Annunciation
+239
+-1.451
+19694.906
+31.213
+20.000
+
+[station]
+15647
+657
+Tsuen Wan Adventist Hospital
+239
+-1.544
+19898.566
+32.123
+15.000
+
+[station]
+1606963
+665
+Allway Gardens B/T End
+239
+-0.101
+20154.534
+13.791
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+55.000
+

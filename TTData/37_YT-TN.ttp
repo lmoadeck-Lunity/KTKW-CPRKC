@@ -1,0 +1,155 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+37_YT-TN
+37_TN
+37
+
+.........................
+        Stations
+.........................
+
+[station]
+27451
+0
+Yat Tung Estate
+198
+-0.928
+28.116
+28.116
+0.000
+
+[station]
+9270
+39
+North Lantau Hospital
+196
+-5.077
+466.047
+41.544
+0.000
+
+[station]
+27457
+70
+39M Tung Chung Fire Station
+192
+-5.653
+1310.348
+31.483
+0.000
+
+[station]
+27445
+94
+Tung Chung Cable Car Terminal
+187
+-1.020
+1916.724
+48.549
+0.000
+
+[station]
+27435
+110
+Tung Chung Town Centre 
+187
+-1.468
+2381.744
+2.609
+3.000
+
+[station]
+27430
+178
+Tung Chung Development Pier
+207
+-1.268
+3840.185
+15.088
+2.000
+
+[station]
+27429
+200
+S52A Seaview Crescent back
+208
+-1.428
+4405.825
+69.558
+7.000
+
+[station]
+27424
+215
+NLB Coastal Skyline
+388
+-5.775
+4843.388
+30.571
+5.000
+
+[station]
+27423
+222
+Caribbean Coast Phase 3
+181
+-5.184
+5153.220
+39.403
+3.000
+
+[station]
+27412
+224
+Caribbean Coast Phase 2
+178
+-5.620
+5244.114
+28.297
+3.000
+
+[station]
+27415
+256
+Kin Tung Road
+179
+-4.970
+5816.249
+6.571
+0.000
+
+[station]
+28483
+284
+The Visionary
+230
+-5.406
+6387.787
+56.691
+30.000
+
+[station]
+28486
+295
+Ying Tung Estate End
+393
+-1.403
+6646.142
+17.356
+30.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+20.000
+

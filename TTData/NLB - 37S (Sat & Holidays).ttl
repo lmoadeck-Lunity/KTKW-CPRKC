@@ -1,0 +1,44 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+NLB
+992
+
+------------------------------------
+
+  Dep.: 11:50:0
+[addtrip]
+37S_TD-TC
+0
+710.000
+
+  Dep.: 13:50:0
+[addtrip]
+37S_TD-TC
+0
+830.000
+
+  Dep.: 15:50:0
+[addtrip]
+37S_TD-TC
+0
+950.000
+
+  Dep.: 16:30:0
+[addtrip]
+37S_TD-TC
+0
+990.000
+

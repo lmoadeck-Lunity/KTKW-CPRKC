@@ -1,0 +1,235 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E32A_KF-TD
+E32A_Tung Chung Pier
+E32A
+
+.........................
+        Stations
+.........................
+
+[station]
+21024
+0
+Kwai Fong (South)
+259
+-3.986
+44.137
+44.137
+0.000
+
+[station]
+21048
+33
+Kwai Fong Station
+255
+-3.220
+471.970
+7.229
+5.000
+
+[station]
+20992
+49
+Kwai Fong Plaza
+254
+-1.444
+841.306
+34.992
+0.000
+
+[station]
+20928
+76
+Kwong Fai Circuit
+248
+-1.510
+2065.391
+10.477
+0.000
+
+[station]
+20917
+99
+Kin Chuen Street
+242
+-1.451
+2753.240
+7.586
+0.000
+
+[station]
+20902
+113
+Tai Wo Hau Station
+13
+-5.552
+3343.440
+57.786
+0.000
+
+[station]
+32440
+145
+Panda Hotel E32A
+11
+-5.332
+3870.180
+0.986
+0.000
+
+[station]
+32437
+155
+Bo Shek Mansion E32A
+9
+-1.551
+4191.893
+29.899
+0.000
+
+[station]
+32433
+163
+Chuen Lung Street E32A
+6
+-1.561
+4450.148
+33.154
+0.000
+
+[station]
+32427
+181
+Tai Ho Road E32A
+8
+-1.515
+4747.304
+17.810
+0.000
+
+[station]
+32425
+199
+Fu Wah Street E32A
+5
+-1.576
+5164.117
+22.703
+0.000
+
+[station]
+32420
+220
+Fuk Loi Estate Tai Chung Rd.
+3
+-4.890
+5832.366
+46.721
+0.000
+
+[station]
+32416
+236
+Clague Garden Estate
+236
+-5.021
+6126.939
+7.886
+0.000
+
+[station]
+32442
+590
+Century Link E32A
+230
+-5.532
+27236.246
+35.856
+15.000
+
+[station]
+28558
+598
+LWB The Visionary
+230
+-5.419
+27465.045
+31.614
+10.000
+
+[station]
+32443
+628
+Ying Tung Estate E32A Back
+393
+-1.414
+27978.025
+14.213
+40.000
+
+[station]
+28559
+668
+Caribbean Coast Phase 2 E31
+179
+-5.711
+28748.975
+53.644
+5.000
+
+[station]
+27420
+673
+Yi Tung Road E32A
+181
+-5.398
+29002.423
+30.593
+10.000
+
+[station]
+26192
+682
+E Wun Secondary School E32A
+388
+-5.986
+29399.027
+84.195
+5.000
+
+[station]
+25917
+695
+Seaview Crescent E32A
+208
+-1.660
+29730.863
+28.681
+5.000
+
+[station]
+25325
+718
+Tung Chung Development Pier End E32A
+207
+-1.600
+30544.938
+13.307
+2.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+55.000
+

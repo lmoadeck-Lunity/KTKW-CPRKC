@@ -1,0 +1,155 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S64_GTC
+S64_GTC
+S64
+
+.........................
+        Stations
+.........................
+
+[station]
+24883
+0
+S64C Yat Tung Estate
+197
+-1.650
+2.919
+2.919
+0.000
+
+[station]
+9270
+32
+North Lantau Hospital
+196
+-5.077
+359.552
+41.544
+0.000
+
+[station]
+22777
+63
+CTB Tung Chung Fire Station
+192
+-5.509
+1223.912
+51.542
+0.000
+
+[station]
+24903
+106
+Tung Chung MTR Station
+187
+-0.465
+2165.604
+11.084
+25.000
+
+[station]
+22643
+177
+Aviation Fuel Tank Farm
+262
+-4.748
+3784.743
+33.651
+2.000
+
+[station]
+24990
+204
+LWB Cathay City
+264
+-1.906
+4450.180
+44.504
+25.000
+
+[station]
+22693
+231
+Chun Wan Road South
+273
+-3.943
+5189.521
+42.021
+150.000
+
+[station]
+22687
+262
+HACTL
+273
+-4.194
+5771.717
+49.898
+0.000
+
+[station]
+24796
+283
+Air Mail Centre
+281
+-5.455
+6429.534
+10.804
+8.000
+
+[station]
+24797
+292
+Airport Police Station
+281
+-5.414
+6735.691
+12.166
+15.000
+
+[station]
+24873
+306
+Chek Lap Kok Fire Station
+270
+-4.804
+7179.836
+34.392
+5.000
+
+[station]
+24870
+317
+Cathay Pacific Catering Service
+280
+-1.242
+7506.567
+16.582
+9.000
+
+[station]
+24991
+343
+LWB Cathay City2
+263
+-3.989
+8113.157
+67.463
+2.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+20.000
+

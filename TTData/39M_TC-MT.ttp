@@ -1,0 +1,55 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+39M_TC-MT
+39M_Mun Tung
+39M
+
+.........................
+        Stations
+.........................
+
+[station]
+9203
+0
+Tung Chung Town Centre 
+187
+-1.231
+16.368
+16.368
+0.000
+
+[station]
+9235
+43
+LWB Yu Tung Court back
+192
+-4.989
+843.480
+-4.006
+0.000
+
+[station]
+9254
+85
+Mun Tung Estate End
+201
+-5.583
+2651.584
+23.558
+50.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+6.000
+

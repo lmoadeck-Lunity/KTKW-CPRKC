@@ -1,0 +1,76 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+
+39M_Allway Gardens
+39M
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+15685
+
+[station_typ2]
+15707
+
+[station_typ2]
+15635
+
+[station_typ2]
+15610
+
+[station_typ2]
+15661
+
+[station_typ2]
+15763
+
+[station_typ2]
+15784
+
+[station_typ2]
+15767
+
+[station_typ2]
+15764
+
+[station_typ2]
+15662
+
+[station_typ2]
+15623
+
+[station_typ2]
+15628
+
+[station_typ2]
+15645
+
+[station_typ2]
+15647
+
+[station_typ2]
+15654
+
+[station_typ2]
+15685
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+20.000
+
+[profile_otherstopping]
+4
+4

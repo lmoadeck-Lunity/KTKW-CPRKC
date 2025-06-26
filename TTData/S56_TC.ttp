@@ -1,0 +1,145 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S56_TC
+S56_TC
+S56
+
+.........................
+        Stations
+.........................
+
+[station]
+22642
+18
+Aviation Fuel Tank Farm
+262
+-4.856
+487.633
+32.963
+2.000
+
+[station]
+49663
+91
+Tung Chung MTR Station
+187
+-1.722
+2290.850
+9.850
+4.000
+
+[station]
+49667
+163
+Tung Chung Development Pier S56
+207
+-1.141
+3833.452
+26.940
+1.000
+
+[station]
+28701
+181
+Seaview Crescent S52A
+208
+-1.510
+4365.534
+58.322
+0.000
+
+[station]
+28700
+196
+Coastal Skyline S52A
+388
+-5.762
+4811.054
+27.292
+0.000
+
+[station]
+28703
+205
+Caribbean Coast Phase 2 S52A
+178
+-5.585
+5213.794
+27.032
+0.000
+
+[station]
+28471
+214
+Caribbean Coast Phase 1 S52A
+179
+-5.434
+5503.473
+14.491
+0.000
+
+[station]
+28484
+232
+The Visionary S52A
+230
+-5.485
+5896.052
+44.891
+0.000
+
+[station]
+28492
+243
+Ying Tung Estate
+393
+-1.399
+6167.295
+18.444
+0.000
+
+[station]
+28520
+272
+The Visionary End
+230
+-5.473
+6647.421
+56.819
+3.000
+
+[station]
+28476
+286
+E32A Ying Hei Road
+179
+-1.677
+6967.014
+37.212
+0.000
+
+[station]
+22643
+358
+Aviation Fuel Tank Farm
+262
+-4.748
+9717.056
+33.651
+2.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+25.000
+

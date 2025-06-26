@@ -1,0 +1,297 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+LWB 8XX
+1023
+
+------------------------------------
+
+  Dep.: 5:20:0
+[addtrip]
+S65_GTC(AM)
+0
+320.000
+
+  Dep.: 6:0:0
+[addtrip]
+S65_GTC(AM)
+0
+360.000
+
+  Dep.: 6:20:0
+[addtrip]
+S65_MT(AM)
+0
+380.000
+
+  Dep.: 6:40:0
+[addtrip]
+S65_GTC(AM)
+0
+400.000
+
+  Dep.: 7:0:0
+[addtrip]
+S65_MT(AM)
+0
+420.000
+
+  Dep.: 7:20:0
+[addtrip]
+S65_GTC(AM)
+0
+440.000
+
+  Dep.: 7:40:0
+[addtrip]
+S65_MT(AM)
+0
+460.000
+
+  Dep.: 8:0:0
+[addtrip]
+S65_GTC(AM)
+0
+480.000
+
+  Dep.: 8:20:0
+[addtrip]
+S65_MT(AM)
+0
+500.000
+
+  Dep.: 8:40:0
+[addtrip]
+S65_GTC(AM)
+0
+520.000
+
+  Dep.: 13:0:0
+[addtrip]
+S65_GTC
+0
+780.000
+
+  Dep.: 13:30:0
+[addtrip]
+S65_MT
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+S65_GTC
+0
+840.000
+
+  Dep.: 14:30:0
+[addtrip]
+S65_MT
+0
+870.000
+
+  Dep.: 15:0:0
+[addtrip]
+S65_GTC
+0
+900.000
+
+  Dep.: 15:30:0
+[addtrip]
+S65_MT
+0
+930.000
+
+  Dep.: 16:0:0
+[addtrip]
+S65_GTC
+0
+960.000
+
+  Dep.: 16:30:0
+[addtrip]
+S65_MT
+0
+990.000
+
+  Dep.: 17:0:0
+[addtrip]
+S65_GTC
+0
+1020.000
+
+  Dep.: 17:30:0
+[addtrip]
+S65_MT
+0
+1050.000
+
+  Dep.: 18:0:0
+[addtrip]
+S65_GTC
+0
+1080.000
+
+  Dep.: 18:30:0
+[addtrip]
+S65_MT
+0
+1110.000
+
+  Dep.: 19:0:0
+[addtrip]
+S65_GTC
+0
+1140.000
+
+  Dep.: 19:30:0
+[addtrip]
+S65_MT
+0
+1170.000
+
+------------------------------------
+
+[newtour]
+2
+LWB S56
+1023
+
+------------------------------------
+
+  Dep.: 5:40:0
+[addtrip]
+S65_GTC(AM)
+0
+340.000
+
+  Dep.: 6:0:0
+[addtrip]
+S65_MT(AM)
+0
+360.000
+
+  Dep.: 6:20:0
+[addtrip]
+S65_GTC(AM)
+0
+380.000
+
+  Dep.: 6:40:0
+[addtrip]
+S65_MT(AM)
+0
+400.000
+
+  Dep.: 7:0:0
+[addtrip]
+S65_GTC(AM)
+0
+420.000
+
+  Dep.: 7:20:0
+[addtrip]
+S65_MT(AM)
+0
+440.000
+
+  Dep.: 7:40:0
+[addtrip]
+S65_GTC(AM)
+0
+460.000
+
+  Dep.: 8:0:0
+[addtrip]
+S65_MT(AM)
+0
+480.000
+
+  Dep.: 8:20:0
+[addtrip]
+S65_GTC(AM)
+0
+500.000
+
+  Dep.: 13:30:0
+[addtrip]
+S65_GTC
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+S65_MT
+0
+840.000
+
+  Dep.: 14:30:0
+[addtrip]
+S65_GTC
+0
+870.000
+
+  Dep.: 15:0:0
+[addtrip]
+S65_MT
+0
+900.000
+
+  Dep.: 15:30:0
+[addtrip]
+S65_GTC
+0
+930.000
+
+  Dep.: 16:0:0
+[addtrip]
+S65_MT
+0
+960.000
+
+  Dep.: 16:30:0
+[addtrip]
+S65_GTC
+0
+990.000
+
+  Dep.: 17:0:0
+[addtrip]
+S65_MT
+0
+1020.000
+
+  Dep.: 17:30:0
+[addtrip]
+S65_GTC
+0
+1050.000
+
+  Dep.: 18:0:0
+[addtrip]
+S65_MT
+0
+1080.000
+
+  Dep.: 18:30:0
+[addtrip]
+S65_GTC
+0
+1110.000
+
+  Dep.: 19:0:0
+[addtrip]
+S65_MT
+0
+1140.000
+

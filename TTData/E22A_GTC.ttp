@@ -1,0 +1,95 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E22A_GTC
+E22A_GTC
+E22A
+
+.........................
+        Stations
+.........................
+
+[station]
+49697
+238
+Tung Chung Fire Station
+192
+-5.493
+16528.723
+52.371
+4.000
+
+[station]
+49698
+248
+Tung Chung Crescent 
+187
+-4.785
+16816.652
+29.201
+3.000
+
+[station]
+49699
+333
+Chun Wan Road North
+286
+-5.391
+19174.603
+23.773
+2.000
+
+[station]
+49700
+364
+HACTL
+273
+-4.253
+19916.858
+49.164
+3.000
+
+[station]
+49833
+385
+Chek Lap Kok Fire Station
+270
+-4.744
+20533.440
+34.827
+3.000
+
+[station]
+49834
+396
+Cathay Pacific Catering Service
+280
+-1.271
+20860.603
+17.452
+5.000
+
+[station]
+24991
+422
+LWB Cathay City2
+263
+-3.989
+21466.322
+67.463
+2.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+30.000
+

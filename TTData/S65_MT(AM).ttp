@@ -1,0 +1,85 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S65_MT(AM)
+S65_MT
+S65
+
+.........................
+        Stations
+.........................
+
+[station]
+24990
+28
+LWB Cathay City
+264
+-1.906
+488.879
+44.504
+25.000
+
+[station]
+49676
+63
+LWB Cathay City
+263
+-4.449
+1171.793
+25.834
+0.000
+
+[station]
+22642
+87
+Aviation Fuel Tank Farm
+262
+-4.856
+1756.682
+32.963
+2.000
+
+[station]
+22775
+140
+Tung Chung Crescent
+187
+-4.792
+3078.553
+40.054
+2.000
+
+[station]
+9234
+149
+CTB Yu Tung Court
+192
+-4.963
+3326.161
+8.162
+10.000
+
+[station]
+49674
+188
+Mun Tung Estate S65
+201
+-5.649
+5026.820
+58.272
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+15.000
+

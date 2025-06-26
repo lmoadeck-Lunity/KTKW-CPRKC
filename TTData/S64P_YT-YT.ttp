@@ -1,0 +1,145 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S64P_YT-YT
+S64P_Logistics Area
+S64P
+
+.........................
+        Stations
+.........................
+
+[station]
+28509
+8
+E32A Ying Tung Estate Go
+393
+-1.493
+72.622
+23.042
+0.000
+
+[station]
+28479
+18
+E32A The Visionary
+230
+-5.490
+319.881
+57.571
+0.000
+
+[station]
+28546
+48
+Caribbean Coast Phase 2
+179
+-5.738
+836.099
+54.999
+0.000
+
+[station]
+27421
+53
+Yi Tung Road
+181
+-5.471
+1086.691
+29.091
+0.000
+
+[station]
+27425
+62
+E Wun Secondary School
+388
+-5.959
+1484.150
+83.550
+0.000
+
+[station]
+27428
+75
+Seaview Crescent
+208
+-1.619
+1786.675
+27.725
+0.000
+
+[station]
+40103
+96
+Tung Chung Development Pier E31
+207
+-0.678
+2512.094
+10.694
+0.000
+
+[station]
+22643
+158
+Aviation Fuel Tank Farm
+262
+-4.748
+4259.572
+33.651
+2.000
+
+[station]
+24990
+185
+LWB Cathay City
+264
+-1.906
+4925.009
+44.504
+25.000
+
+[station]
+22693
+212
+Chun Wan Road South
+273
+-3.943
+5664.350
+42.021
+150.000
+
+[station]
+22726
+226
+Airport Freight Forwarding Centre
+283
+-4.393
+6043.042
+44.544
+18.000
+
+[station]
+32468
+248
+Chun Wan Road North End
+286
+-4.057
+6782.128
+21.649
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+18.000
+

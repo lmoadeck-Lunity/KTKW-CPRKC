@@ -1,0 +1,205 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+37SP_YT-TN
+37_TN
+37
+
+.........................
+        Stations
+.........................
+
+[station]
+27451
+0
+Yat Tung Estate
+198
+-0.928
+28.116
+28.116
+0.000
+
+[station]
+9270
+39
+North Lantau Hospital
+196
+-5.077
+466.047
+41.544
+0.000
+
+[station]
+35601
+63
+Mun Tung Estate 37
+201
+-5.644
+1556.395
+42.418
+0.000
+
+[station]
+35545
+91
+Chung Yat Street
+235
+0.388
+2144.926
+13.243
+0.000
+
+[station]
+35542
+102
+Chung Mun Road 
+202
+-3.633
+2269.159
+1.056
+0.000
+
+[station]
+35602
+119
+Fuk Yat House Yat Tung Estate 37
+201
+-4.150
+2537.279
+2.786
+0.000
+
+[station]
+35603
+123
+Yung Yat House Yat Tung Estate 37
+198
+-5.149
+2901.468
+46.975
+0.000
+
+[station]
+27457
+159
+39M Tung Chung Fire Station
+192
+-5.653
+3968.066
+31.483
+0.000
+
+[station]
+27445
+183
+Tung Chung Cable Car Terminal
+187
+-1.020
+4574.442
+48.549
+0.000
+
+[station]
+27435
+199
+Tung Chung Town Centre 
+187
+-1.468
+5039.462
+2.609
+3.000
+
+[station]
+27430
+267
+Tung Chung Development Pier
+207
+-1.268
+6497.902
+15.088
+2.000
+
+[station]
+27429
+289
+S52A Seaview Crescent back
+208
+-1.428
+7063.542
+69.558
+7.000
+
+[station]
+27424
+304
+NLB Coastal Skyline
+388
+-5.775
+7501.105
+30.571
+5.000
+
+[station]
+27423
+311
+Caribbean Coast Phase 3
+181
+-5.184
+7810.937
+39.403
+3.000
+
+[station]
+27412
+313
+Caribbean Coast Phase 2
+178
+-5.620
+7901.831
+28.297
+3.000
+
+[station]
+27415
+345
+Kin Tung Road
+179
+-4.970
+8473.966
+6.571
+0.000
+
+[station]
+28483
+373
+The Visionary
+230
+-5.406
+9045.506
+56.691
+30.000
+
+[station]
+28486
+384
+Ying Tung Estate End
+393
+-1.403
+9303.861
+17.356
+30.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+23.000
+

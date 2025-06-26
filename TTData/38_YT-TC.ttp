@@ -1,0 +1,75 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+38_YT-TC
+38_Tung Chung Station
+38
+
+.........................
+        Stations
+.........................
+
+[station]
+9278
+11
+Yat Tung Estate
+198
+-1.286
+131.036
+14.674
+0.000
+
+[station]
+9270
+53
+North Lantau Hospital
+196
+-5.077
+588.369
+41.544
+0.000
+
+[station]
+9245
+84
+38 Tung Chung Fire Station
+192
+-5.669
+1433.430
+32.243
+8.000
+
+[station]
+9202
+108
+Tung Chung Cable Car Terminal
+187
+-0.984
+2010.462
+49.965
+15.000
+
+[station]
+9217
+122
+Tung Chung MTR Station End
+187
+-0.982
+2388.685
+0.918
+50.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+8.000
+

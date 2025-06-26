@@ -1,0 +1,215 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S52A_AM-SC
+S52A_TN
+S52A
+
+.........................
+        Stations
+.........................
+
+[station]
+23802
+0
+Aircraft Maintenance Area
+360
+-4.768
+15.469
+15.469
+0.000
+
+[station]
+23816
+60
+Government Flying Services
+350
+-4.963
+3271.327
+23.607
+0.000
+
+[station]
+23824
+77
+DHL's Central Asia Hub
+348
+-1.188
+3825.930
+45.610
+0.000
+
+[station]
+28707
+106
+Asia Airfreight Terminal S52A
+289
+-4.900
+4623.937
+5.154
+0.000
+
+[station]
+22712
+123
+Airport Freight Forwarding Centre (CTB S52/A/P)
+286
+-5.431
+4999.078
+7.184
+10.000
+
+[station]
+22687
+155
+HACTL
+273
+-4.195
+5758.654
+-0.102
+0.000
+
+[station]
+22673
+181
+CTB Cathay City
+263
+-4.351
+6501.823
+51.416
+0.000
+
+[station]
+22642
+205
+Aviation Fuel Tank Farm
+262
+-4.856
+7061.130
+32.963
+2.000
+
+[station]
+28714
+277
+S52/A Tung Chung MTR Station Back
+187
+-1.040
+8852.890
+14.935
+10.000
+
+[station]
+22775
+309
+Tung Chung Crescent
+187
+-4.792
+9448.405
+40.054
+2.000
+
+[station]
+9234
+318
+CTB Yu Tung Court
+192
+-4.963
+9696.014
+8.162
+10.000
+
+[station]
+27429
+379
+S52A Seaview Crescent back
+208
+-1.428
+11650.235
+69.558
+7.000
+
+[station]
+28554
+394
+S52A Coastal Skyline back
+388
+-5.739
+12099.122
+41.895
+20.000
+
+[station]
+28555
+403
+Caribbean Coast Phase 2
+179
+-5.634
+12507.019
+46.792
+15.000
+
+[station]
+28556
+413
+Caribbean Coast Phase 1
+179
+-5.416
+12801.788
+14.340
+15.000
+
+[station]
+28518
+430
+The Visionary S52A Back
+230
+-5.475
+13136.187
+43.759
+15.000
+
+[station]
+28486
+441
+Ying Tung Estate End
+393
+-1.403
+13407.475
+17.356
+30.000
+
+[station]
+28520
+471
+The Visionary End
+230
+-5.473
+13891.787
+56.819
+3.000
+
+[station]
+28716
+485
+S52A Ying Hei Road end
+179
+-1.689
+14212.358
+38.188
+9.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+25.000
+

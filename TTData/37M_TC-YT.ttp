@@ -1,0 +1,65 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+37M_TC-YT
+37M_YingTungEstate
+37M
+
+.........................
+        Stations
+.........................
+
+[station]
+28536
+0
+Tung Chung Town Centre 
+187
+-1.116
+20.574
+20.574
+0.000
+
+[station]
+28475
+95
+Century Link E31
+230
+-5.477
+2588.785
+37.622
+30.000
+
+[station]
+28483
+103
+The Visionary
+230
+-5.406
+2840.894
+56.691
+30.000
+
+[station]
+33996
+130
+Ying Tung Estate 37M
+393
+-1.098
+3297.066
+11.353
+50.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+9.000
+

@@ -1,0 +1,153 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+LWB A
+1023
+
+------------------------------------
+
+  Dep.: 15:33:0
+[addtrip]
+A43P_LWH
+0
+933.000
+
+  Dep.: 16:33:0
+[addtrip]
+A43P_LWH
+0
+993.000
+
+  Dep.: 17:33:0
+[addtrip]
+A43P_LWH
+0
+1053.000
+
+  Dep.: 18:3:0
+[addtrip]
+A43P_LWH
+0
+1083.000
+
+  Dep.: 19:3:0
+[addtrip]
+A43P_LWH
+0
+1143.000
+
+  Dep.: 20:3:0
+[addtrip]
+A43P_LWH
+0
+1203.000
+
+  Dep.: 21:3:0
+[addtrip]
+A43P_LWH
+0
+1263.000
+
+  Dep.: 22:3:0
+[addtrip]
+A43P_LWH
+0
+1323.000
+
+  Dep.: 23:3:0
+[addtrip]
+A43P_LWH
+0
+1383.000
+
+  Dep.: 24:3:0
+[addtrip]
+A43P_LWH
+0
+1443.000
+
+------------------------------------
+
+[newtour]
+2
+LWB A
+1023
+
+------------------------------------
+
+  Dep.: 6:27:0
+[addtrip]
+A43_GTC
+0
+387.000
+
+  Dep.: 7:22:0
+[addtrip]
+A43_GTC
+0
+442.000
+
+  Dep.: 7:52:0
+[addtrip]
+A43_GTC
+0
+472.000
+
+  Dep.: 8:37:0
+[addtrip]
+A43_GTC
+0
+517.000
+
+  Dep.: 9:37:0
+[addtrip]
+A43_GTC
+0
+577.000
+
+  Dep.: 10:37:0
+[addtrip]
+A43_GTC
+0
+637.000
+
+  Dep.: 11:37:0
+[addtrip]
+A43_GTC
+0
+697.000
+
+  Dep.: 12:37:0
+[addtrip]
+A43_GTC
+0
+757.000
+
+  Dep.: 13:37:0
+[addtrip]
+A43_GTC
+0
+817.000
+
+  Dep.: 14:37:0
+[addtrip]
+A43_GTC
+0
+877.000
+
+  Dep.: 15:37:0
+[addtrip]
+A43_GTC
+0
+937.000
+

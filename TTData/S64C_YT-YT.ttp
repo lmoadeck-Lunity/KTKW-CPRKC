@@ -1,0 +1,105 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S64C_YT-YT
+S64C_Logistics Area
+S64C
+
+.........................
+        Stations
+.........................
+
+[station]
+24883
+0
+S64C Yat Tung Estate
+197
+-1.650
+12.404
+12.404
+0.000
+
+[station]
+9270
+33
+North Lantau Hospital
+196
+-5.077
+369.032
+41.544
+0.000
+
+[station]
+22777
+64
+CTB Tung Chung Fire Station
+192
+-5.509
+1233.392
+51.542
+0.000
+
+[station]
+24903
+107
+Tung Chung MTR Station
+187
+-0.465
+2205.084
+11.084
+25.000
+
+[station]
+22643
+178
+Aviation Fuel Tank Farm
+262
+-4.748
+3828.923
+33.651
+2.000
+
+[station]
+24990
+205
+LWB Cathay City
+264
+-1.906
+4494.360
+44.504
+25.000
+
+[station]
+22693
+232
+Chun Wan Road South
+273
+-3.943
+5233.701
+42.021
+150.000
+
+[station]
+32467
+263
+HACTL End
+273
+-3.463
+5815.837
+49.838
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+15.000
+

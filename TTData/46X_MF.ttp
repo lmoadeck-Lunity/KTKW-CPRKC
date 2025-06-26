@@ -1,0 +1,175 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+46X_MF
+46X_MF
+46X
+
+.........................
+        Stations
+.........................
+
+[station]
+45281
+26
+Kwai Chun Court
+249
+-1.534
+767.025
+46.495
+2.000
+
+[station]
+49952
+44
+KF Estate
+254
+-4.814
+1238.689
+7.659
+0.000
+
+[station]
+45326
+82
+Joint Street
+433
+-6.302
+2465.533
+4.803
+2.000
+
+[station]
+45331
+90
+Lai King Station
+433
+-3.174
+2742.050
+44.150
+4.000
+
+[station]
+49917
+104
+Lok King House Lai King Estate
+438
+-2.674
+3117.572
+33.672
+7.000
+
+[station]
+45338
+111
+Morninghope School
+439
+-2.490
+3426.729
+5.829
+2.000
+
+[station]
+45340
+117
+Kwai Chung Hospital
+442
+-2.378
+3692.395
+19.495
+2.000
+
+[station]
+45342
+132
+Princess Margaret Hospital
+442
+-1.968
+3981.196
+29.115
+5.000
+
+[station]
+45346
+139
+Ching Lai Court
+445
+-4.269
+4197.392
+24.312
+4.000
+
+[station]
+45350
+148
+Ching Lai Commercial Centre
+445
+-1.099
+4480.804
+20.224
+2.000
+
+[station]
+45355
+170
+Kau Wa Keng
+449
+-6.647
+4994.432
+19.851
+3.000
+
+[station]
+45358
+183
+Wah Lai Estate
+448
+-4.632
+5229.461
+11.418
+1.000
+
+[station]
+45361
+196
+Lai Wan Road
+451
+-1.099
+5605.608
+57.495
+3.000
+
+[station]
+45362
+203
+Nassau Street
+451
+-1.196
+5787.502
+47.989
+4.000
+
+[station]
+49944
+230
+Mei Foo
+453
+-0.854
+6265.348
+15.756
+50.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+19.000
+

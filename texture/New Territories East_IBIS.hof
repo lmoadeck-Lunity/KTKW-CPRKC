@@ -1,0 +1,4002 @@
+#####TEMPLATE FILE#####
+SD200_SD202_Template.xml
+
+#####COMMENT#####
+NTE V2 
+2025.1.25
+
+Created by kelvin1324
+Our Facebook page: OMSI2.NTEast
+#####ENDCOMMENT#####
+
+[name]
+New Territories East_IBIS
+
+[servicetrip]
+Empty
+
+
+stringcount_terminus
+6
+
+stringcount_busstop
+4
+
+
+
+######################################
+ TERMINI
+######################################
+
+
+
+[addterminus_allexit]
+000
+Not In Service
+
+
+
+
+\New Territories East\NIS.png
+
+.........................
+[addterminus_allexit]
+016
+F16
+
+
+
+
+\New Territories East\F16.png
+
+.........................
+
+[addterminus_allexit]
+000
+Empty
+
+
+
+
+\New Territories East\F16_1.png
+
+.........................
+
+[addterminus]
+2011
+20A_TPNH
+
+
+
+
+\New Territories East\20AY.png
+
+.........................
+
+[addterminus]
+2012
+20A_TPM
+
+
+
+
+\New Territories East\20AZ.png
+
+.........................
+
+[addterminus]
+2111
+20X_TPNH
+
+
+
+
+\New Territories East\20XY.png
+
+.........................
+
+[addterminus]
+2112
+20X_TPM
+
+
+
+
+\New Territories East\20XZ.png
+
+.........................
+
+[addterminus]
+2098
+20K_SMT
+
+
+
+
+\New Territories East\20KY.png
+
+.........................
+
+[addterminus]
+2099
+20K_TPM
+
+
+
+
+\New Territories East\20KZ.png
+
+.........................
+
+[addterminus]
+2061
+20M_TPC
+
+
+
+
+\New Territories East\20MY.png
+
+.........................
+
+[addterminus]
+2062
+20M_FY
+
+
+
+
+\New Territories East\20MZ.png
+
+.........................
+[addterminus]
+2071
+20P_TPM
+
+
+
+
+\New Territories East\20PY.png
+
+.........................
+
+[addterminus]
+2072
+20P_FY
+
+
+
+
+\New Territories East\20PZ.png
+
+.........................
+
+[addterminus]
+2701
+27_STS
+
+
+
+
+\New Territories East\27_STS.png
+
+.........................
+[addterminus]
+2702
+27_SP
+
+
+
+
+\New Territories East\27_SP.png
+
+.........................
+
+[addterminus]
+2703
+27A_STS
+
+
+
+
+\New Territories East\27A_STS.png
+
+.........................
+[addterminus]
+2704
+27A_MBS
+
+
+
+
+\New Territories East\27A_MBS.png
+
+.........................
+
+[addterminus]
+2705
+27B_STS
+
+
+
+
+\New Territories East\27B_STS.png
+
+.........................
+[addterminus]
+2706
+27B_MBS
+
+
+
+
+\New Territories East\27B_MBS.png
+
+.........................
+
+[addterminus]
+2801
+28K_ST
+
+
+
+
+\New Territories East\28K.png
+
+.........................
+[addterminus]
+2802
+28K_TPM
+
+
+
+
+\New Territories East\28K.png
+
+.........................
+
+[addterminus]
+631
+63R_LTWT
+
+
+
+
+\New Territories East\63RZ.png
+
+.........................
+
+[addterminus]
+632
+63R_TPM
+
+
+
+
+\New Territories East\63RY.png
+
+.........................
+
+[addterminus]
+641
+64K_TPM
+
+
+
+
+\New Territories East\64KY.png
+
+.........................
+
+[addterminus]
+642
+64K_YLW
+
+
+
+
+\New Territories East\64KZ.png
+
+.........................
+
+[addterminus]
+643
+64K_TW
+
+
+
+
+\New Territories East\64KU.png
+
+.........................
+
+[addterminus]
+651
+65K_TPC
+
+
+
+
+\New Territories East\65KY.png
+
+.........................
+
+[addterminus]
+111
+71A_TPM
+
+
+
+
+\New Territories East\71AY.png
+
+.........................
+
+[addterminus]
+112
+71A_FH
+
+
+
+
+\New Territories East\71AZ.png
+
+.........................
+
+[addterminus]
+121
+71B_TPC
+
+
+
+
+\New Territories East\71BY.png
+
+.........................
+
+[addterminus]
+122
+71B_FH
+
+
+
+
+\New Territories East\71BZ.png
+
+.........................
+
+[addterminus]
+131
+71K_TPM
+
+
+
+
+\New Territories East\71KZ.png
+
+.........................
+
+[addterminus]
+132
+71K_TW
+
+
+
+
+\New Territories East\71KY.png
+
+.........................
+
+[addterminus]
+191
+71S_KF
+
+
+
+
+\New Territories East\71SY.png
+
+.........................
+
+[addterminus]
+192
+71S_FS
+
+
+
+
+\New Territories East\71SZ.png
+
+.........................
+
+[addterminus]
+721
+72_CSW
+
+
+
+
+\New Territories East\72Y.png
+
+.........................
+
+[addterminus]
+722
+72_TW
+
+
+
+
+\New Territories East\72Z.png
+
+.........................
+
+[addterminus]
+723
+72A_TPIE
+
+
+
+
+\New Territories East\72AY.png
+
+.........................
+
+[addterminus]
+724
+72A_TWS
+
+
+
+
+\New Territories East\72AZ.png
+
+.........................
+
+[addterminus]
+725
+72C_TPM
+
+
+
+
+\New Territories East\72CY.png
+
+.........................
+
+[addterminus]
+726
+72X_MK
+
+
+
+
+\New Territories East\72XY.png
+
+.........................
+
+[addterminus]
+727
+72X_TPC
+
+
+
+
+\New Territories East\72XZ.png
+
+.........................
+
+[addterminus]
+731
+73_FLWM
+
+
+
+
+\New Territories East\73Z.png
+
+.........................
+
+[addterminus]
+732
+73_TPIE
+
+
+
+
+\New Territories East\73Y.png
+
+.........................
+
+[addterminus]
+733
+73_TPC
+
+
+
+
+\New Territories East\73W.png
+
+.........................
+
+[addterminus]
+730
+73_KFP
+
+
+
+
+\New Territories East\73V.png
+
+.........................
+
+[addterminus]
+734
+73A_YCC
+
+
+
+
+\New Territories East\73AY.png
+
+.........................
+
+[addterminus]
+735
+73A_FLWM
+
+
+
+
+\New Territories East\73AZ.png
+
+.........................
+
+[addterminus]
+736
+73B_SS
+
+
+
+
+\New Territories East\73BY.png
+
+.........................
+
+[addterminus]
+737
+73B_NH
+
+
+
+
+\New Territories East\73BZ.png
+
+.........................
+
+[addterminus]
+738
+73X_TW
+
+
+
+
+\New Territories East\73XY.png
+
+.........................
+
+[addterminus]
+739
+73X_FS
+
+
+
+
+\New Territories East\73XZ.png
+
+.........................
+
+[addterminus]
+740
+74A_KY
+
+
+
+
+\New Territories East\74AY.png
+
+.........................
+
+[addterminus]
+741
+74A_TW
+
+
+
+
+\New Territories East\74AZ.png
+
+.........................
+
+[addterminus]
+742
+74B_KTF
+
+
+
+
+\New Territories East\74BY.png
+
+.........................
+
+[addterminus]
+743
+74B_TPC
+
+
+
+
+\New Territories East\74BZ.png
+
+.........................
+
+[addterminus]
+744
+74C_KTF
+
+
+
+
+\New Territories East\74CY.png
+
+.........................
+
+[addterminus]
+745
+74D_KTF
+
+
+
+
+\New Territories East\74DY.png
+
+.........................
+
+[addterminus]
+746
+74D_TPKLH
+
+
+
+
+\New Territories East\74DZ.png
+
+.........................
+
+[addterminus]
+747
+74E_KTF
+
+
+
+
+\New Territories East\74EZ.png
+
+.........................
+
+[addterminus]
+461
+74K_SMT
+
+
+
+
+\New Territories East\74KZ.png
+
+.........................
+
+[addterminus]
+462
+74K_TPM
+
+
+
+
+\New Territories East\74KY.png
+
+.........................
+
+[addterminus]
+748
+74X_KTF
+
+
+
+
+\New Territories East\74XY.png
+
+.........................
+
+[addterminus]
+749
+74X_TPC
+
+
+
+
+\New Territories East\74XZ.png
+
+.........................
+
+[addterminus]
+751
+75K_TMT
+
+
+
+
+\New Territories East\75KZ.png
+
+.........................
+
+[addterminus]
+752
+75K_TPM
+
+
+
+
+\New Territories East\75KY.png
+
+.........................
+
+[addterminus]
+753
+75X_KCF
+
+
+
+
+\New Territories East\75XY.png
+
+.........................
+
+[addterminus]
+754
+75X_FS
+
+
+
+
+\New Territories East\75XZ.png
+
+.........................
+[addterminus]
+851
+85K_HO
+85K_HO
+
+
+
+\New Territories East\85KZ.png
+
+.........................
+
+
+[addterminus]
+852
+85K_STS
+85K_STS
+
+
+
+\New Territories East\85KY.png
+
+.........................
+
+[addterminus]
+871
+87K_KYC
+
+
+
+
+\New Territories East\87KZ.png
+
+.........................
+
+[addterminus]
+872
+87K_URS
+
+
+
+
+\New Territories East\87KY.png
+
+.........................
+
+[addterminus]
+873
+87S_KYC
+
+
+
+
+\New Territories East\87SZ.png
+
+.........................
+
+[addterminus]
+874
+87S_URS
+
+
+
+
+\New Territories East\87SY.png
+
+.........................
+
+[addterminus]
+993
+99R_SKN
+
+
+
+
+\New Territories East\99RY.png
+
+.........................
+
+
+[addterminus]
+994
+99R_URS
+
+
+
+
+\New Territories East\99RZ.png
+
+.........................
+
+
+[addterminus]
+644
+264R_TPM
+
+
+
+
+\New Territories East\264RY.png
+
+.........................
+
+[addterminus]
+645
+264R_TY
+
+
+
+
+\New Territories East\264RZ.png
+
+.........................
+
+[addterminus]
+652
+265S_TPIE
+
+
+
+
+\New Territories East\265SZ.png
+
+.........................
+
+[addterminus]
+653
+265S_TSW
+
+
+
+
+\New Territories East\265SY.png
+
+.........................
+
+[addterminus]
+711
+271_WKS
+
+
+
+
+\New Territories East\271Y.png
+
+.........................
+
+[addterminus]
+712
+271_FH
+
+
+
+
+\New Territories East\271Z.png
+
+.........................
+
+[addterminus]
+713
+271B_TST
+
+
+
+
+\New Territories East\271BY.png
+
+.........................
+
+[addterminus]
+714
+271B_FH
+
+
+
+
+\New Territories East\271BZ.png
+
+.........................
+
+[addterminus]
+715
+271P_TST
+
+
+
+
+\New Territories East\271PY.png
+
+.........................
+
+[addterminus]
+716
+271X_FH
+
+
+
+
+\New Territories East\271XY.png
+
+.........................
+
+[addterminus]
+721
+272A_PSK
+
+
+
+
+\New Territories East\272AZ.png
+
+.........................
+
+[addterminus]
+722
+272A_URS
+
+
+
+
+\New Territories East\272AY.png
+
+.........................
+
+[addterminus]
+221
+272E_SSP
+
+
+
+
+\New Territories East\272EY.png
+
+.........................
+
+[addterminus]
+222
+272E_TW
+
+
+
+
+\New Territories East\272EZ.png
+
+.........................
+
+[addterminus]
+723
+272K_SP
+
+
+
+
+\New Territories East\272KZ.png
+
+.........................
+
+[addterminus]
+724
+272K_URS
+
+
+
+
+\New Territories East\272KY.png
+
+.........................
+
+[addterminus]
+223
+272X_MK
+
+
+
+
+\New Territories East\272XY.png
+
+.........................
+
+[addterminus]
+224
+272X_TPC
+
+
+
+
+\New Territories East\272XZ.png
+
+.........................
+
+
+[addterminus]
+241
+274P_TPIE
+
+
+
+
+\New Territories East\274PY.png
+
+.........................
+
+[addterminus]
+242
+274P_WKSS
+
+
+
+
+\New Territories East\274PZ.png
+
+.........................
+
+[addterminus]
+243
+274X_TPC
+
+
+
+
+\New Territories East\274XY.png
+
+.........................
+
+[addterminus]
+27501
+275_EDUHK
+
+
+
+
+\New Territories East\275Y.png
+
+.........................
+
+
+[addterminus]
+27502
+275_TPM
+ 
+
+
+
+\New Territories East\275Z.png
+
+.........................
+
+
+[addterminus]
+27503
+275S_EDUHK
+ 
+
+
+
+\New Territories East\275SY.png
+
+.........................
+
+
+[addterminus]
+27504
+275S_TPM
+275S_TPM
+
+
+
+\New Territories East\275SZ.png
+
+.........................
+
+[addterminus]
+251
+275R_WKT
+
+
+
+
+\New Territories East\275RY.png
+
+.........................
+
+[addterminus]
+252
+275R_TPM
+
+
+
+
+\New Territories East\275RZ.png
+
+.........................
+
+[addterminus]
+289
+289K_CG
+
+
+
+
+\New Territories East\289KZ.png
+
+.........................
+
+
+[addterminus]
+289
+289K_URS
+
+
+
+
+\New Territories East\289KY.png
+
+.........................
+
+[addterminus]
+371
+307_CF
+
+
+
+
+\New Territories East\307Y.png
+
+.........................
+
+[addterminus]
+372
+307_TPC
+
+
+
+
+\New Territories East\307Z.png
+
+.........................
+
+[addterminus]
+373
+307_SW
+
+
+
+
+\New Territories East\307T.png
+
+.........................
+
+[addterminus]
+374
+307A_SW
+
+
+
+
+\New Territories East\307AY.png
+
+.........................
+
+[addterminus]
+375
+307B_SW
+
+
+
+
+\New Territories East\307BY.png
+
+.........................
+
+[addterminus]
+376
+307C_WC
+
+
+
+
+\New Territories East\307CY.png
+
+.........................
+
+[addterminus]
+377
+307P_TH
+
+
+
+
+\New Territories East\307PY.png
+
+.........................
+
+[addterminus]
+378
+307P_TW
+
+
+
+
+\New Territories East\307PZ.png
+
+.........................
+[addterminus]
+80611
+806A_WNT
+
+
+
+
+\New Territories East\806AY.png
+
+.....................
+[addterminus]
+80612
+806A_WTT
+
+
+
+
+\New Territories East\806AZ.png
+
+.....................
+[addterminus]
+80621
+806B_SM
+
+
+
+
+\New Territories East\806BY.png
+
+.....................
+[addterminus]
+80622
+806B_WTT
+
+
+
+
+\New Territories East\806BZ.png
+
+.....................
+[addterminus]
+80631
+806C_SP
+
+
+
+
+\New Territories East\806CY.png
+
+.....................
+[addterminus]
+80632
+806C_WTT
+
+
+
+
+\New Territories East\806CZ.png
+
+.........................
+
+
+[addterminus]
+821
+872X_TPC
+872X_TPC
+
+
+
+\New Territories East\872XY.png
+
+.........................
+
+[addterminus]
+888
+888_STS
+888_STS
+
+
+
+\New Territories East\888Y.png
+
+.........................
+
+[addterminus]
+471
+A47X_TPFH
+
+
+
+
+\New Territories East\A47XZ.png
+
+.........................
+
+[addterminus]
+472
+A47X_A
+
+
+
+
+\New Territories East\A47XY.png
+
+.........................
+
+[addterminus]
+411
+E41_TP
+
+
+
+
+\New Territories East\E41Z.png
+
+.........................
+
+[addterminus]
+412
+E41_AWE
+
+
+
+
+\New Territories East\E41Y.png
+
+.........................
+
+
+[addterminus]
+121
+K12_EG
+
+
+
+
+\New Territories East\K12Y.png
+
+.........................
+
+[addterminus]
+122
+K12_TPM
+
+
+
+
+\New Territories East\K12Z.png
+
+.........................
+
+[addterminus]
+141
+K14_TPM
+
+
+
+
+\New Territories East\K14Y.png
+
+.........................
+
+[addterminus]
+171
+K17_FS
+
+
+
+
+\New Territories East\K17Y.png
+
+.........................
+
+[addterminus]
+172
+K17_TPM
+
+
+
+
+\New Territories East\K17Z.png
+
+.........................
+
+[addterminus]
+181
+K18_KF
+
+
+
+
+\New Territories East\K18Y.png
+
+.........................
+
+[addterminus]
+182
+K18_TPM
+
+
+
+
+\New Territories East\K18Z.png
+
+.........................
+
+[addterminus]
+801
+SP8_SP
+
+
+
+
+\New Territories East\SP8_SP.png
+
+.........................
+
+
+[addterminus]
+802
+SP8_TW
+
+
+
+
+\New Territories East\SP8_TW.png
+
+.........................
+
+
+[addterminus]
+531
+NR530_TPH
+
+
+
+
+\New Territories East\NR530_TPH.png
+
+.........................
+
+
+[addterminus]
+532
+NR530_PB
+
+
+
+
+\New Territories East\NR530_PB.png
+
+.........................
+
+
+[addterminus]
+534
+NR534_TPH
+
+
+
+
+\New Territories East\NR534_TPH.png
+
+.........................
+
+
+[addterminus]
+535
+NR534_MBTS
+
+
+
+
+\New Territories East\NR534_MBTS.png
+
+.........................
+
+
+######################################
+ BUS STOPS
+######################################
+
+
+[addbusstop]
+Welcome Abroad 71B
+WELCOME ABROAD
+WELCOME ABROAD
+
+
+.........................
+
+
+[addbusstop]
+Please Hold the Handrails
+PLEASE HOLD THE
+Please Hold the
+Handrails
+
+.........................
+
+
+[addbusstop]
+Please move into the bus
+PLEASE MOVE INTO
+Please move into
+the bus
+
+.........................
+
+
+[addbusstop]
+Thought Of Giving Your Seats
+THOUGHT OF GIVIN
+Thought Of
+Giving Your Seats
+
+.........................
+
+
+[addbusstop]
+Chung Nga Road
+CHUNG NGA ROAD
+Chung Nga Road
+
+
+.........................
+
+
+[addbusstop]
+Tai Po Central Bus Terminus
+TAI PO CENTRAL B
+Tai Po Central
+Bus Terminus
+
+.........................
+
+
+[addbusstop]
+Take Care of Children and Elderly
+TAKE CARE OF CHI
+Take Care of
+Children and Elderly
+
+.........................
+
+
+[addbusstop]
+Fu Heng Bus Terminus
+FU HENG BUS TERM
+Fu Heng
+Bus Terminus
+
+.........................
+
+
+[addbusstop]
+Fu Heng Bus Terminus Arrive71B
+THANK YOU
+THANK YOU
+FOR TRAVELLING
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 71A_1
+WELCOME ABROAD
+WELCOME ABROAD
+
+
+.........................
+
+
+[addbusstop]
+Sun Hing Garden
+SUN HING GARDEN
+Sun Hing Garden
+
+
+.........................
+
+
+[addbusstop]
+Kwong Chi House Kwong Fuk Estate
+KWONG CHI HOUSE
+Kwong Chi House
+Kwong Fuk Estate
+
+.........................
+
+
+[addbusstop]
+Kwong Fuk Playground
+KWONG FUK PLAYGR
+Kwong Fuk
+Playground
+
+.........................
+
+
+[addbusstop]
+Tai Po Market Railway Station
+TAI PO MARKET RA
+Tai Po Market
+Railway Station
+
+.........................
+
+
+[addbusstop]
+Tai Po Market Railway Station Arrive71A
+TAI PO MARKET RA
+THANK YOU
+FOR TRAVELLING
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 71A_2
+WELCOME ABROAD
+WELCOME ABROAD
+
+
+.........................
+
+
+[addbusstop]
+Lam Tsuen River
+LAM TSUEN RIVER
+Lam Tsuen River
+
+
+.........................
+
+
+[addbusstop]
+Tai Po Central
+TAI PO CENTRAL
+Tai Po Central
+
+
+.........................
+
+
+[addbusstop]
+Fu Heng Bus Terminus Arrive71A
+THANK YOU
+THANK YOU
+FOR TRAVELLING
+
+.........................
+
+
+[addbusstop]
+Kwong Fuk Market
+KWONG FUK MARKET
+Kwong Fuk Market
+
+
+.........................
+
+
+[addbusstop]
+Kwong Fuk Market 71S
+KWONG FUK MARKET
+Kwong Fuk Market
+
+
+.........................
+
+
+[addbusstop]
+Wang Fuk Court
+WANG FUK COURT
+Wang Fuk Court
+
+
+.........................
+
+
+[addbusstop]
+Fu Shin Estate
+FU SHIN ESTATE
+Fu Shin Estate
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 71S
+WELCOME ABROAD
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Fu Shin Estate Arrive71S
+THANK YOU
+Thank You
+For Travelling
+
+.........................
+
+
+[addbusstop]
+Blank
+END
+
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad A47X_1
+WELCOME ABROAD A
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad A47X_2
+WELCOME ABROAD A
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Kwong Fuk Estate
+KWONG FUK ESTATE
+Kwong Fuk Estate
+
+
+.........................
+
+
+[addbusstop]
+Airport
+AIRPORT
+Airport
+
+
+.........................
+
+
+[addbusstop]
+Lantau Link Toll Plaza
+LANTAU LINK TOLL
+Lantau Link
+Toll Plaza
+
+.........................
+
+
+[addbusstop]
+Arrive A47X_1
+TAI PO FU HENG A
+Tai Po
+Fu Heng
+
+.........................
+
+
+[addbusstop]
+Arrive A47X_2
+AIRPORT ARRIVEA4
+Airport
+
+
+.........................
+
+
+[addbusstop]
+Terminal 1
+TERMINAL 1
+Terminal 1
+
+
+.........................
+
+
+[addbusstop]
+Terminal 2
+TERMINAL 2
+Terminal 2
+
+
+.........................
+
+
+[addbusstop]
+Tai Wo Bus Terminus
+TAI WO BUS TERMI
+Tai Wo
+Bus Terminus
+
+.........................
+
+
+[addbusstop]
+Tai Po Govt. Office Building
+TAI PO GOVT. OFF
+TAI PO GOVT
+OFFICE BUILDING
+
+.........................
+
+
+[addbusstop]
+Tai Wo Estate
+TAI WO ESTATE
+TAI WO ESTATE
+
+
+.........................
+
+
+[addbusstop]
+Tai Po Public Swimming Pool
+TAI PO PUBLIC
+TAI PO PUBLIC
+SWIMMING POOL
+
+.........................
+
+
+[addbusstop]
+Treasure Garden
+TREASURE GARDEN
+Treasure Garden
+
+
+.........................
+
+
+[addbusstop]
+Sacred Heart Of Mary School
+SACRED HEART OF
+Sacred Heart Of
+Mary School
+
+.........................
+
+
+[addbusstop]
+Heng Wing House Fu Heng Estate
+HENG WING HOUSE
+HENG WING HOUSE
+FU HENG ESTATE
+
+.........................
+
+
+[addbusstop]
+Nethersole Hospital
+NETHERSOLE HOSPI
+NETHERSOLE
+HOSPITAL
+
+.........................
+
+
+[addbusstop]
+Wan Tau Tong Estate
+WAN TAU TONG
+WAN TAU TONG
+ESTATE
+
+.........................
+
+
+[addbusstop]
+Heung Sze Wui Street
+HEUNG SZE WUI ST
+HEUNG SZE WUI
+STREET
+
+.........................
+
+
+[addbusstop]
+Nam Shing Street
+NAM SHING STREET
+Nam Shing Street
+
+
+.........................
+
+
+[addbusstop]
+Wan Tau Street
+WAN TAU STREET
+Wan Tau Street
+
+
+.........................
+
+
+[addbusstop]
+Wan Tau Tong
+WAN TAU TONG
+WAN TAU TONG
+
+
+.........................
+
+
+[addbusstop]
+Kwong Fuk Road
+KWONG FUK ROAD
+KWONG FUK ROAD
+
+
+.........................
+
+
+[addbusstop]
+Wan Tau Kok Lane
+WAN TAU KOK LANE
+WAN TAU KOK LANE
+
+
+.........................
+
+
+[addbusstop]
+Windfield Garden
+WINDFIELD GARDEN
+WINDFIELD GARDEN
+
+
+.........................
+
+
+[addbusstop]
+Chui Yi Street
+CHUI YI STREET
+CHUI YI STREET
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 71K_1
+WELCOME ABROAD 7
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 71K_2
+WELCOME ABROAD 7
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Arrive 71K_1
+ARRIVE 71K_1
+Thank You
+For Travelling
+
+.........................
+
+
+[addbusstop]
+Arrive 71K_2
+ARRIVE 71K_2
+Thank You
+For Travelling
+
+.........................
+
+
+[addbusstop]
+Tai Po Central Bus Terminus Arrive71B
+TAI PO CENTRAL B
+Tai Po Central
+Bus Terminus
+
+.........................
+
+
+[addbusstop]
+Yee Nga Court
+YEE NGA COURT
+Yee Nga Court
+
+
+.........................
+
+
+[addbusstop]
+Tai Po Hui Market
+TAI PO HUI MARKE
+Tai Po Hui
+Market
+
+.........................
+
+
+[addbusstop]
+Kwong Fuk Estate Shopping Centre
+KWONG FUK ESTATE
+Kwong Fuk Estate
+Shopping Centre
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 271_1
+WELCOME ABROAD27
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 271_2
+WELCOME ABROAD27
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+On Cheung Road
+ON CHEUNG ROAD
+On Cheung Road
+
+
+.........................
+
+
+[addbusstop]
+Please move into the bus
+PLEASE MOVE INTO
+Please move into
+the bus
+
+.........................
+
+
+[addbusstop]
+Canton Road Bus Terminus
+CANTON ROAD BUS
+Canton Road
+Bus Terminus
+
+.........................
+
+
+[addbusstop]
+Arrive 271_1
+ARRIVE 271_1
+Thank you
+For travelling
+
+.........................
+
+
+[addbusstop]
+Arrive 271_2
+ARRIVE 271_2
+Thank You
+For Travelling
+
+.........................
+
+
+[addbusstop]
+Tai Po Tai Wo Road
+TAI PO TAI WO RO
+Tai Po
+Tai Wo Road
+
+.........................
+
+
+[addbusstop]
+Po Heung Bridge
+PO HEUNG BRIDGE
+PO HEUNG BRIDGE
+
+
+.........................
+
+
+[addbusstop]
+Junction Road
+JUNCTION ROAD
+Junction Road
+
+
+.........................
+
+
+[addbusstop]
+Kowloon Tong Railway Station
+KOWLOON TONG RAI
+Kowloon Tong
+Railway Station
+
+.........................
+
+
+[addbusstop]
+La Villa
+LA VILLA
+La Villa
+
+
+.........................
+
+
+[addbusstop]
+Kowloon Hospital
+KOWLOON HOSPITAL
+Kowloon Hospital
+
+
+.........................
+
+
+[addbusstop]
+Man Kee Mansion
+MAN KEE MANSION
+Man Kee Mansion
+
+
+.........................
+
+
+[addbusstop]
+Ho Man Tin Street
+HO MAN TIN STREE
+Ho Man Tin Street
+
+
+.........................
+
+
+[addbusstop]
+Kwong Wah Hospital
+KWONG WAH HOSPIT
+Kwong Wah Hospital
+
+
+.........................
+
+
+[addbusstop]
+Yau Ma Tei Fire Station
+YAU MA TEI FIRE
+Yau Ma Tei
+Fire Station
+
+.........................
+
+
+[addbusstop]
+Gascoigne Road
+GASCOIGNE ROAD
+Gascoigne Road
+
+
+.........................
+
+
+[addbusstop]
+Tak Shing Street
+TAK SHING STREET
+Tak Shing Street
+
+
+.........................
+
+
+[addbusstop]
+Middle Road
+MIDDLE ROAD
+Middle Road
+
+
+.........................
+
+
+[addbusstop]
+Kimberley Road
+KIMBERLEY ROAD
+Kimberley Road
+
+
+.........................
+
+
+[addbusstop]
+Kowloon Park Drive
+KOWLOON PARK DRI
+Kowloon Park Drive
+
+
+.........................
+
+
+[addbusstop]
+Christian Central Church
+CHRISTIAN CENTRA
+Christian Central
+Church
+
+.........................
+
+
+[addbusstop]
+Kowloon Park
+KOWLOON PARK
+Kowloon Park
+
+
+.........................
+
+
+[addbusstop]
+Man Ming Lane
+MAN MING LANE
+Man Ming Lane
+
+
+.........................
+
+
+[addbusstop]
+Kowloon Tong Club
+KOWLOON TONG CLU
+Kowloon Tong Club
+
+
+.........................
+
+
+[addbusstop]
+Moonbeam Terrace
+MOONBEAM TERRACE
+Moonbeam Terrace
+
+
+.........................
+
+
+[addbusstop]
+Ning Po Street
+NING PO STREET
+Ning Po Street
+
+
+.........................
+
+
+[addbusstop]
+Park Lane
+PARK LANE
+
+
+
+.........................
+
+
+[addbusstop]
+Peking Road
+PEKING ROAD
+Peking Road
+
+
+.........................
+
+
+[addbusstop]
+Peninsula Hotel
+PENINSULA HOTEL
+Peninsula Hotel
+
+
+.........................
+
+
+[addbusstop]
+Metropark Hotel Kowloon
+Metropark Hotel 
+Metropark Hotel
+Kowloon
+
+.........................
+
+
+[addbusstop]
+St. George Apartments
+St. George Apartments 
+St. George Apartments
+
+
+.........................
+
+
+[addbusstop]
+Park Lane
+Park Lane
+Park Lane
+
+
+.........................
+
+
+[addbusstop]
+YMCA
+YMCA
+YMCA
+
+
+.........................
+
+
+[addbusstop]
+Victory Avenue
+Victory Avenue
+Victory Avenue
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 272A
+WELCOME ABROAD
+WELCOME ABROAD
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 272K
+WELCOME ABROAD
+WELCOME ABROAD
+
+
+.........................
+
+
+[addbusstop]
+Arrive 272A
+ARRIVE 272A
+Thank You
+For Travelling
+
+.........................
+
+
+[addbusstop]
+Arrive 272K
+ARRIVE 272K
+Thank You
+For Travelling
+
+.........................
+
+
+[addbusstop]
+University Railway Station
+UNIVERSITY
+University
+Railway Station
+
+.........................
+
+
+[addbusstop]
+FO SHING ROAD
+FO SHING ROAD
+FO SHING ROAD
+
+
+.........................
+
+
+[addbusstop]
+FO YIN ROAD
+FO YIN ROAD
+FO YIN ROAD
+
+
+.........................
+
+
+[addbusstop]
+HK INSTITUTE OF BIOTECHNOLOGY
+HK INSTITUTE OF
+HK INSTITUTE
+OF BIOTECHNOLOGY
+
+.........................
+
+
+[addbusstop]
+HONG KONG SCIENCE PARK 272K
+HONG KONG SCIENC
+HONG KONG
+SCIENCE PARK
+
+.........................
+
+
+[addbusstop]
+Mayfair By The Sea
+MAYFAIR BY THE SEA
+Mayfair By The Sea
+
+
+.........................
+
+
+[addbusstop]
+PAK SHEK KOK
+PAK SHEK KOK
+PAK SHEK KOK
+
+
+.........................
+
+
+[addbusstop]
+SCIENCE PARK PHASE 1
+SCIENCE PARK PHA
+SCIENCE PARK
+PHASE 1
+
+.........................
+
+
+[addbusstop]
+WATER SPORTS CENTRE
+WATER SPORTS CEN
+WATER SPORTS
+CENTRE
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 74K_1
+WELCOME ABROAD 7
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Arrival 74K_2
+ARRIVAL 74K_2
+Thank You
+For Travelling
+
+.........................
+
+
+[addbusstop]
+Dai Fat Street
+DAI FAT STREET
+Dai Fat Street
+
+
+.........................
+
+
+[addbusstop]
+Dai Kwai Street
+DAI KWAI STREET
+Dai Kwai Street
+
+
+.........................
+
+
+[addbusstop]
+Fortune Garden
+FORTUNE GARDEN
+Fortune Garden
+
+
+.........................
+
+
+[addbusstop]
+Fung Yuen Road
+FUNG YUEN ROAD
+Fung Yuen Road
+
+
+.........................
+
+
+[addbusstop]
+Ha Hang
+HA HANG
+Ha Hang
+
+
+.........................
+
+
+[addbusstop]
+HK Institute Of Education
+HK INSTITUTE OF
+HK Institute
+Of Education
+
+.........................
+
+
+[addbusstop]
+Kau Yan College
+KAU YAN COLLEGE
+Kau Yan College
+
+
+.........................
+
+
+[addbusstop]
+Lo Fai Road
+LO FAI ROAD
+Lo Fai Road
+
+
+.........................
+
+
+[addbusstop]
+Po Heung Street
+PO HEUNG STREET
+Po Heung Street
+
+
+.........................
+
+
+[addbusstop]
+Sam Mun Tsai
+SAM MUN TSAI
+Sam Mun Tsai
+
+
+.........................
+
+
+[addbusstop]
+Sha Lan Road
+SHA LAN ROAD
+Sha Lan Road
+
+
+.........................
+
+
+[addbusstop]
+Sheung Wan Typhoon Shelter
+SHEUNG WAN TYPHO
+Sheung Wan
+Typhoon Shelter
+
+.........................
+
+
+[addbusstop]
+Tai Po East Fire Station
+TAI PO EAST FIRE
+Tai Po East
+Fire Station
+
+.........................
+
+
+[addbusstop]
+Tai Po Industrial Est
+TAI PO INDUSTRIA
+Tai Po
+Industrial Est
+
+.........................
+
+
+[addbusstop]
+Tai Po Market
+TAI PO MARKET
+Tai Po Market
+
+
+.........................
+
+
+[addbusstop]
+Yu On Street
+YU ON STREET
+Yu On Street
+
+
+.........................
+
+
+[addbusstop]
+Yue Kok
+YUE KOK
+Yue Kok
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 75K_1
+WELCOME ABROAD 7
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 75K_2
+WELCOME ABROAD 7
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Arrival 75K_1
+ARRIVAL 75K_1
+Thank You
+For Travelling
+
+.........................
+
+
+[addbusstop]
+Arrival 75K_2
+ARRIVAL 75K_2
+Thank You
+For Travelling
+
+.........................
+
+
+[addbusstop]
+Dai Fat Street
+DAI FAT STREET
+Dai Fat Street
+
+
+.........................
+
+
+[addbusstop]
+Dai Fu Street
+DAI FU STREET
+Dai Fu Street
+
+
+.........................
+
+
+[addbusstop]
+Dai Fu Street 75K
+DAI FU STREET 7
+Dai Fu Street
+
+
+.........................
+
+
+[addbusstop]
+Dai Shun Street
+DAI SHUN STREET
+Dai Shun Street
+
+
+.........................
+
+
+[addbusstop]
+Dai Wang Street
+DAI WANG STREET
+Dai Wang Street
+
+
+.........................
+
+
+[addbusstop]
+Fu Heng
+FU HENG
+Fu Heng
+
+
+.........................
+
+
+[addbusstop]
+Green Cove
+GREEN COVE
+Green Cove
+
+
+.........................
+
+
+[addbusstop]
+Immanuel Lutheran College
+IMMANUEL LUTHERA
+Immanuel
+Lutheran College
+
+.........................
+
+
+[addbusstop]
+Kau Yan College
+KAU YAN COLLEGE
+Kau Yan College
+
+
+.........................
+
+
+[addbusstop]
+Lai Pek Shan
+LAI PEK SHAN
+Lai Pek Shan
+
+
+.........................
+
+
+[addbusstop]
+Lo Tsz Tin
+LO TSZ TIN
+Lo Tsz Tin
+
+
+.........................
+
+
+[addbusstop]
+Lung Mei Village
+LUNG MEI VILLAGE
+Lung Mei Village
+
+
+.........................
+
+
+[addbusstop]
+Lung Mei
+LUNG MEI
+Lung Mei
+
+
+.........................
+
+
+[addbusstop]
+Po Sum Pei
+PO SUM PEI
+Po Sum Pei
+
+
+.........................
+
+
+[addbusstop]
+Sam Mun Tsai Rd
+SAM MUN TSAI RD
+Sam Mun Tsai Rd
+
+
+.........................
+
+
+[addbusstop]
+San Tau Kok
+SAN TAU KOK
+San Tau Kok
+
+
+.........................
+
+
+[addbusstop]
+Shan Liu
+SHAN LIU
+Shan Liu
+
+
+.........................
+
+
+[addbusstop]
+Sheun Wan
+SHEUN WAN
+Sheun Wan
+
+
+.........................
+
+
+[addbusstop]
+Tai Mei Tuk
+TAI MEI TUK
+Tai Mei Tuk
+
+
+.........................
+
+
+[addbusstop]
+Tai Ping Industrial Ctr
+TAI PING INDUSTR
+Tai Ping
+Industrial Ctr
+
+.........................
+
+
+[addbusstop]
+Tai Po Old Market Park
+TAI PO OLD MARKE
+Tai Po Old
+Market Park
+
+.........................
+
+
+[addbusstop]
+Tai Yuen Estate
+TAI YUEN ESTATE
+Tai Yuen Estate
+
+
+.........................
+
+
+[addbusstop]
+Tin Kok
+TIN KOK
+Tin Kok
+
+
+.........................
+
+
+[addbusstop]
+Wong Yue Tan
+WONG YUE TAN
+Wong Yue Tan
+
+
+.........................
+
+
+[addbusstop]
+On Chee Road
+ON CHEE ROAD
+On Chee Road
+
+
+.........................
+
+[addbusstop]
+Sha Tin Racecourse Bus Terminus
+SHA TIN RACECOUR
+Sha Tin 
+Racecourse BT
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 872X
+WELCOME ABROAD 8
+872X
+
+
+.........................
+
+
+[addbusstop]
+Arrive 872X
+THANK YOU FOR TR
+thank you
+for travelling
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 289K
+WELCOME ABROAD 2
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Po Tai Street
+PO TAI STREET
+Po Tai Street
+
+
+.........................
+
+
+[addbusstop]
+Chevalier Garden
+CHEVALIER GARDEN
+Chevalier Garden
+
+
+.........................
+
+
+[addbusstop]
+Tak Sun Secondary School
+TAK SUN SECONDAR
+Tak Sun
+Secondary School
+
+.........................
+
+
+[addbusstop]
+Kam Tai Court
+KAM TAI COURT
+Kam Tai Court
+
+
+.........................
+
+
+[addbusstop]
+Ocean View
+OCEAN VIEW
+Ocean View
+
+
+.........................
+
+
+[addbusstop]
+Arrival 289K
+ARRIVAL 289K
+thank you
+for travelling
+
+.........................
+
+
+[addbusstop]
+Hang Fai Street
+HANG FAI STREET
+Hang Fai Street
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 275_1
+WELCOME ABROAD
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Welcome Abroad 275_2
+WELCOME ABROAD
+Welcome Abroad
+
+
+.........................
+
+
+[addbusstop]
+Arrival 275S_1
+ARRIVAL 275
+thank you
+for travelling
+
+.........................
+
+
+[addbusstop]
+Arrival 275S_2
+ARRIVAL 275
+thank you
+for travelling
+
+.........................
+
+
+[addbusstop]
+Arrival 275S_1
+ARRIVAL 275
+thank you
+for travelling
+
+.........................
+
+
+[addbusstop]
+Arrival 275S_2
+ARRIVAL 275
+thank you
+for travelling
+
+.........................
+
+[addbusstop]
+Tai Po Waterfront Park
+Tai Po Waterfront Park
+Tai Po Waterfront Park
+ 
+
+.........................
+
+
+[addbusstop]
+Wong Shiu Chi Secondary School
+WONG SHIU CHI
+Wong Shiu Chi
+Secondary School
+
+.........................
+
+
+
+
+
+
+######################################
+ TRIPS / ROUTES
+######################################
+
+
+Line 071, Route 11: Fu Heng Bus Terminus  >>  Tai Po Market Railway Station Arrive71A
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07111
+FU HENG BUS TERMINUS  >>  TAI PO MARKET RAILWAY STATION ARRIVE71A
+7111
+XXX
+
+[infosystem_busstop_list]
+10
+Fu Heng Bus Terminus
+Welcome Abroad 71A_1
+Chung Nga Road
+Sun Hing Garden
+Kwong Chi House Kwong Fuk Estate
+Kwong Fuk Playground
+Take Care of Children and Elderly
+Tai Po Market Railway Station
+Tai Po Market Railway Station Arrive71A
+Tai Po Market Railway Station Arrive71A
+
+
+Line 071, Route 12: Tai Po Market Railway Station  >>  Fu Heng Bus Terminus Arrive71A
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07112
+TAI PO MARKET RAILWAY STATION  >>  FU HENG BUS TERMINUS ARRIVE71A
+7112
+XXX
+
+[infosystem_busstop_list]
+10
+Tai Po Market Railway Station
+Welcome Abroad 71A_2
+Please Hold the Handrails
+Kwong Fuk Playground
+Lam Tsuen River
+Tai Po Central
+Take Care of Children and Elderly
+Fu Heng Bus Terminus
+Fu Heng Bus Terminus Arrive71A
+Fu Heng Bus Terminus Arrive71A
+
+
+Line 071, Route 21: Fu Heng Bus Terminus  >>  Tai Po Central Bus Terminus Arrive71B
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07121
+FU HENG BUS TERMINUS  >>  FU HENG BUS TERMINUS ARRIVE71B
+7121
+XXX
+
+[infosystem_busstop_list]
+6
+Fu Heng Bus Terminus
+Welcome Abroad 71B
+Please Hold the Handrails
+Chung Nga Road
+Tai Po Central Bus Terminus Arrive71B
+Tai Po Central Bus Terminus Arrive71B
+
+
+Line 071, Route 22: Tai Po Central Bus Terminus Arrive71B  >>  Fu Heng Bus Terminus Arrive71B
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07122
+FU HENG BUS TERMINUS  >>  FU HENG BUS TERMINUS ARRIVE71B
+7122
+XXX
+
+[infosystem_busstop_list]
+5
+Tai Po Central Bus Terminus Arrive71B
+Take Care of Children and Elderly
+Fu Heng Bus Terminus
+Fu Heng Bus Terminus Arrive71B
+Fu Heng Bus Terminus Arrive71B
+
+
+Line 071, Route 31: Tai Wo Bus Terminus  >>  Tai Po Market Railway Station
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07131
+TAI WO BUS TERMINUS  >>  TAI PO MARKET RAILWAY STATION
+7131
+XXX
+
+[infosystem_busstop_list]
+29
+Tai Wo Bus Terminus
+Welcome Abroad 71K_1
+Tai Po Govt. Office Building
+Tai Wo Estate
+Tai Po Public Swimming Pool
+Treasure Garden
+Take Care of Children and Elderly
+Tai Po Central
+Sacred Heart Of Mary School
+Heng Wing House Fu Heng Estate
+Take Care of Children and Elderly
+Nethersole Hospital
+Please Hold the Handrails
+Chung Nga Road
+Fu Shin Estate
+Please Hold the Handrails
+Sun Hing Garden
+Kwong Chi House Kwong Fuk Estate
+Kwong Fuk Market
+Wang Fuk Court
+Kwong Fuk Estate
+Please Hold the Handrails
+Wan Tau Tong Estate
+Heung Sze Wui Street
+Nam Shing Street
+Wan Tau Street
+Tai Po Market Railway Station
+Arrive 71K_1
+Arrive 71K_1
+
+
+Line 071, Route 32: Tai Po Market Railway Station  >>  Tai Wo Bus Terminus
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07132
+TAI PO MARKET RAILWAY STATION  >>  TAI WO BUS TERMINUS
+7132
+XXX
+
+[infosystem_busstop_list]
+27
+Tai Po Market Railway Station
+Welcome Abroad 71K_2
+Please Hold the Handrails
+Wan Tau Tong
+Tai Po Hui Market
+Please Hold the Handrails
+Nam Shing Street
+Kwong Fuk Road
+Wan Tau Kok Lane
+Wang Fuk Court
+Kwong Fuk Estate Shopping Centre
+Lam Tsuen River
+Tai Po Central
+Yee Nga Court
+Please Hold the Handrails
+Sacred Heart Of Mary School
+Take Care of Children and Elderly
+Heng Wing House Fu Heng Estate
+Nethersole Hospital
+Please Hold the Handrails
+Chung Nga Road
+Tai Po Central
+Windfield Garden
+Chui Yi Street
+Tai Wo Bus Terminus
+Arrive 71K_2
+Arrive 71K_2
+
+
+Line 071, Route 91: Fu Shin Estate  >>  Kwong Fuk Market
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07191
+FU SHIN ESTATE  >>  KWONG FUK MARKET
+7191
+XXX
+
+[infosystem_busstop_list]
+9
+Fu Shin Estate
+Welcome Abroad 71S
+Take Care of Children and Elderly
+Sun Hing Garden
+Kwong Chi House Kwong Fuk Estate
+Kwong Fuk Playground
+Tai Po Market Railway Station
+Kwong Fuk Market 71S
+Kwong Fuk Market 71S
+
+
+Line 071, Route 92: Kwong Fuk Market  >>  Fu Shin Estate Arrive71S
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07192
+KWONG FUK MARKET  >>  FU SHIN ESTATE ARRIVE71S
+7192
+XXX
+
+[infosystem_busstop_list]
+10
+Kwong Fuk Market
+Wang Fuk Court
+Tai Po Market Railway Station
+Please Hold the Handrails
+Kwong Fuk Playground
+Lam Tsuen River
+Tai Po Central
+Fu Shin Estate
+Fu Shin Estate Arrive71S
+Fu Shin Estate Arrive71S
+
+
+Line 074, Route 61: Tai Po Market Railway Station  >>  Sam Mun Tsai
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07461
+TAI PO MARKET RAILWAY STATION  >>  SAM MUN TSAI
+7461
+XXX
+
+[infosystem_busstop_list]
+20
+Tai Po Market Railway Station
+Welcome Abroad 74K_1
+Tai Po Market
+Po Heung Street
+Po Heung Bridge
+Tai Po Central
+Yee Nga Court
+Yue Kok
+Fung Yuen Road
+Ha Hang
+Dai Kwai Street
+Tai Po East Fire Station
+HK Institute Of Education
+Lo Fai Road
+Fortune Garden
+Yu On Street
+Sheung Wan Typhoon Shelter
+Sha Lan Road
+Sam Mun Tsai
+Sam Mun Tsai
+
+
+Line 074, Route 62: Sam Mun Tsai  >>  Tai Po Market Railway Station
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07462
+SAM MUN TSAI  >>  TAI PO MARKET RAILWAY STATION
+7462
+XXX
+
+[infosystem_busstop_list]
+20
+Sam Mun Tsai
+Sha Lan Road
+Sheung Wan Typhoon Shelter
+Yu On Street
+Fortune Garden
+Lo Fai Road
+Tai Po Industrial Est
+Ha Hang
+Dai Fat Street
+Yue Kok
+Kau Yan College
+Yee Nga Court
+Tai Po Central
+On Cheung Road
+Kwong Fuk Road
+Wan Tau Street
+Tai Po Market
+Tai Po Market Railway Station
+Arrival 74K_2
+Tai Po Market Railway Station
+
+
+Line 074, Route 63: Tai Po Market Railway Station  >>  Sam Mun Tsai
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07463
+TAI PO MARKET RAILWAY STATION  >>  SAM MUN TSAI
+741
+XXX
+
+[infosystem_busstop_list]
+19
+Tai Po Market Railway Station
+Welcome Abroad 74K_1
+Tai Po Market
+Po Heung Street
+Po Heung Bridge
+Tai Po Central
+Yee Nga Court
+Yue Kok
+Fung Yuen Road
+Ha Hang
+Dai Kwai Street
+Tai Po East Fire Station
+Lo Fai Road
+Fortune Garden
+Yu On Street
+Sheung Wan Typhoon Shelter
+Sha Lan Road
+Sam Mun Tsai
+Sam Mun Tsai
+
+
+Line 074, Route 64: Sam Mun Tsai  >>  Tai Po Market Railway Station
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07464
+SAM MUN TSAI  >>  TAI PO MARKET RAILWAY STATION
+742
+XXX
+
+[infosystem_busstop_list]
+21
+Sam Mun Tsai
+Sha Lan Road
+Sheung Wan Typhoon Shelter
+Yu On Street
+Fortune Garden
+Lo Fai Road
+HK Institute Of Education
+Tai Po Industrial Est
+Ha Hang
+Dai Fat Street
+Yue Kok
+Kau Yan College
+Yee Nga Court
+Tai Po Central
+On Cheung Road
+Kwong Fuk Road
+Wan Tau Street
+Tai Po Market
+Tai Po Market Railway Station
+Arrival 74K_2
+Tai Po Market Railway Station
+
+
+Line 074, Route 71: Tai Po Market Railway Station  >>  Sam Mun Tsai
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07471
+TAI PO MARKET RAILWAY STATION  >>  SAM MUN TSAI
+741
+XXX
+
+[infosystem_busstop_list]
+20
+Tai Po Market Railway Station
+Welcome Abroad 74K_1
+Wong Shiu Chi Secondary School
+Wan Tau Street
+Heung Sze Wui Street
+Po Heung Street
+Tai Po Central
+Yee Nga Court
+Yue Kok
+Fung Yuen Road
+Ha Hang
+Dai Kwai Street
+Tai Po East Fire Station
+Lo Fai Road
+Fortune Garden
+Yu On Street
+Sheung Wan Typhoon Shelter
+Sha Lan Road
+Sam Mun Tsai
+Sam Mun Tsai
+
+
+Line 074, Route 72: Sam Mun Tsai  >>  Tai Po Market Railway Station
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07472
+SAM MUN TSAI  >>  TAI PO MARKET RAILWAY STATION
+742
+XXX
+
+[infosystem_busstop_list]
+20
+Sam Mun Tsai
+Sha Lan Road
+Sheung Wan Typhoon Shelter
+Yu On Street
+Fortune Garden
+Lo Fai Road
+Tai Po Industrial Est
+Ha Hang
+Dai Fat Street
+Yue Kok
+Kau Yan College
+Yee Nga Court
+Tai Po Central
+On Cheung Road
+Po Heung Street
+Nam Shing Street
+Wan Tau Kok Lane
+Tai Po Market Railway Station
+Arrival 74K_2
+Tai Po Market Railway Station
+
+
+Line 075, Route 61: Tai Mei Tuk  >>  Tai Po Market Railway Station
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07561
+TAI MEI TUK  >>  TAI PO MARKET RAILWAY STATION
+751
+XXX
+
+[infosystem_busstop_list]
+35
+Tai Mei Tuk
+Welcome Abroad 75K_1
+Lung Mei
+Lung Mei Village
+Lo Tsz Tin
+Shan Liu
+Tin Kok
+Green Cove
+Lai Pek Shan
+Po Sum Pei
+San Tau Kok
+Please move into the bus
+Sheun Wan
+Sam Mun Tsai Rd
+Fortune Garden
+Lo Fai Road
+Dai Fu Street 75K
+Dai Shun Street
+Dai Wang Street
+Thought Of Giving Your Seats
+Dai Fat Street
+Yue Kok
+Kau Yan College
+Yee Nga Court
+Tai Yuen Estate
+Immanuel Lutheran College
+On Chee Road
+Tai Po Old Market Park
+Please Hold the Handrails
+Kwong Fuk Road
+Wan Tau Kok Lane
+Take Care of Children and Elderly
+Tai Po Market Railway Station
+Arrival 75K_1
+Tai Po Market Railway Station
+
+
+Line 075, Route 62: Tai Po Market Railway Station  >>  Tai Mei Tuk
+----------------------------------------------------------------------
+
+[infosystem_trip]
+07562
+TAI PO MARKET RAILWAY STATION  >>  TAI MEI TUK
+752
+XXX
+
+[infosystem_busstop_list]
+34
+Tai Po Market Railway Station
+Welcome Abroad 75K_2
+Tai Po Hui Market
+Po Heung Street
+Po Heung Bridge
+Please move into the bus
+Windfield Garden
+Tai Ping Industrial Ctr
+Fu Heng
+Yee Nga Court
+Yue Kok
+Thought Of Giving Your Seats
+Dai Fat Street
+Dai Wang Street
+Dai Shun Street
+Take Care of Children and Elderly
+Tai Po East Fire Station
+Lo Fai Road
+Fortune Garden
+Sam Mun Tsai Rd
+Wong Yue Tan
+Sheun Wan
+San Tau Kok
+Po Sum Pei
+Lai Pek Shan
+Green Cove
+Tin Kok
+Shan Liu
+Lo Tsz Tin
+Lung Mei Village
+Lung Mei
+Tai Mei Tuk
+Arrival 75K_2
+Tai Mei Tuk
+
+
+Line 271, Route 01: Fu Heng Bus Terminus  >>  Canton Road Bus Terminus
+----------------------------------------------------------------------
+
+[infosystem_trip]
+27101
+FU HENG BUS TERMINUS  >>  CANTON ROAD BUS TERMINUS
+202
+XXX
+
+[infosystem_busstop_list]
+31
+Fu Heng Bus Terminus
+Welcome Abroad 271_1
+Chung Nga Road
+Fu Shin Estate
+Tai Po Central Bus Terminus
+On Cheung Road
+Take Care of Children and Elderly
+Kwong Fuk Road
+Wan Tau Kok Lane
+Kwong Fuk Estate
+Please Hold the Handrails
+Canton Road Bus Terminus
+Junction Road
+Kowloon Tong Railway Station
+La Villa
+Please Hold the Handrails
+Kowloon Hospital
+Man Kee Mansion
+Ho Man Tin Street
+Take Care of Children and Elderly
+Kwong Wah Hospital
+Yau Ma Tei Fire Station
+Please Hold the Handrails
+Gascoigne Road
+Tak Shing Street
+Please Hold the Handrails
+Middle Road
+Kimberley Road
+Kowloon Park Drive
+Canton Road Bus Terminus
+Arrive 271_1
+Canton Road Bus Terminus
+
+
+Line 271, Route 02: Canton Road Bus Terminus  >>  Fu Heng Bus Terminus
+----------------------------------------------------------------------
+
+[infosystem_trip]
+27102
+CANTON ROAD BUS TERMINUS  >>  FU HENG BUS TERMINUS
+201
+XXX
+
+[infosystem_busstop_list]
+31
+Canton Road Bus Terminus
+Welcome Abroad 271_2
+Peking Road
+Peninsula Hotel
+Kowloon Park
+Park Lane
+Park Lane
+Ning Po Street
+Man Ming Lane
+YMCA
+Kwong Wah Hospital
+Victory Avenue
+Metropark Hotel Kowloon
+Please move into the bus
+St. George Apartments
+Kowloon Tong Club
+Christian Central Church
+Kowloon Tong Railway Station
+Take Care of Children and Elderly
+Moonbeam Terrace
+Please Hold the Handrails
+Kwong Fuk Estate
+Kwong Fuk Road
+Po Heung Bridge
+Take Care of Children and Elderly
+Tai Po Tai Wo Road
+Tai Po Central
+Yee Nga Court
+Fu Heng Bus Terminus
+Arrive 271_2
+Fu Heng Bus Terminus
+
+
+Line 272, Route 01: University Railway Station  >>  Pak Shek Kok
+----------------------------------------------------------------------
+
+[infosystem_trip]
+27201
+UNIVERSITY RAILWAY STATION  >>  PAK SHEK KOK
+27211
+XXX
+
+[infosystem_busstop_list]
+9
+University Railway Station
+Welcome Abroad 272A
+WATER SPORTS CENTRE
+HK INSTITUTE OF BIOTECHNOLOGY
+SCIENCE PARK PHASE 1
+FO YIN ROAD
+FO SHING ROAD
+Pak Shek Kok
+Pak Shek Kok
+
+
+Line 272, Route 02: Pak Shek Kok  >>  University Railway Station
+----------------------------------------------------------------------
+
+[infosystem_trip]
+27202
+PAK SHEK KOK  >>  UNIVERSITY RAILWAY STATION
+27212
+XXX
+
+[infosystem_busstop_list]
+10
+Pak Shek Kok
+Mayfair By The Sea
+FO SHING ROAD
+FO YIN ROAD
+SCIENCE PARK PHASE 1
+HK INSTITUTE OF BIOTECHNOLOGY
+WATER SPORTS CENTRE
+University Railway Station
+Arrive 272A
+Arrive 272A
+
+
+Line 272, Route 11: University Railway Station  >>  HONG KONG SCIENCE PARK 272K
+----------------------------------------------------------------------
+
+[infosystem_trip]
+27211
+UNIVERSITY RAILWAY STATION  >>  HONG KONG SCIENCE PARK 272K
+27221
+XXX
+
+[infosystem_busstop_list]
+7
+University Railway Station
+Welcome Abroad 272K
+WATER SPORTS CENTRE
+Please Hold the Handrails
+HK INSTITUTE OF BIOTECHNOLOGY
+HONG KONG SCIENCE PARK 272K
+HONG KONG SCIENCE PARK 272K
+
+
+Line 272, Route 12: HONG KONG SCIENCE PARK 272K  >>  University Railway Station
+----------------------------------------------------------------------
+
+[infosystem_trip]
+27212
+HONG KONG SCIENCE PARK 272K  >>  UNIVERSITY RAILWAY STATION
+27222
+XXX
+
+[infosystem_busstop_list]
+7
+HONG KONG SCIENCE PARK 272K
+HK INSTITUTE OF BIOTECHNOLOGY
+Please Hold the Handrails
+WATER SPORTS CENTRE
+University Railway Station
+Arrive 272K
+Arrive 272K
+
+
+Line 275, Route 01: Welcome Abroad 275_1  >>  HK Institute Of Education
+----------------------------------------------------------------------
+
+[infosystem_trip]
+27501
+WELCOME ABROAD 275_1  >>  HK INSTITUTE OF EDUCATION
+27501
+XXX
+
+[infosystem_busstop_list]
+15
+Welcome Abroad 275_1
+Welcome Abroad 275_1
+Kwong Fuk Playground
+Lam Tsuen River
+Tai Po Central
+Tai Po Central Bus Terminus
+Yee Nga Court
+Yue Kok
+Fung Yuen Road
+Ha Hang
+Dai Kwai Street
+Tai Po East Fire Station
+HK Institute Of Education
+Arrival 275_1
+HK Institute Of Education
+
+
+Line 275, Route 02: HK Institute Of Education  >>  Tai Po Market Railway Station
+----------------------------------------------------------------------
+
+[infosystem_trip]
+27502
+HK INSTITUTE OF EDUCATION  >>  TAI PO MARKET RAILWAY STATION
+27502
+XXX
+
+[infosystem_busstop_list]
+15
+HK Institute Of Education
+Welcome Abroad 275_1
+Tai Po Industrial Est
+Ha Hang
+Dai Fat Street
+Yue Kok
+Kau Yan College
+Yee Nga Court
+Tai Po Central Bus Terminus
+Sun Hing Garden
+Kwong Chi House Kwong Fuk Estate
+Kwong Fuk Playground
+Tai Po Market Railway Station
+Arrival 275_2
+Tai Po Market Railway Station
+
+
+Line 275, Route 11: Welcome Abroad 275S_1  >>  HK Institute Of Education
+----------------------------------------------------------------------
+
+[infosystem_trip]
+27511
+WELCOME ABROAD 275S_1  >>  HK INSTITUTE OF EDUCATION
+27503
+XXX
+
+[infosystem_busstop_list]
+15
+Welcome Abroad 275S_1
+Welcome Abroad 275S_1
+Kwong Fuk Playground
+Lam Tsuen River
+Tai Po Central
+Tai Po Central Bus Terminus
+Tai Po Waterfront Park
+Yue Kok
+Fung Yuen Road
+Ha Hang
+Dai Kwai Street
+Tai Po East Fire Station
+HK Institute Of Education
+Arrival 275S_1
+HK Institute Of Education
+
+
+Line 275, Route 12: HK Institute Of Education  >>  Tai Po Market Railway Station
+----------------------------------------------------------------------
+
+[infosystem_trip]
+27512
+HK INSTITUTE OF EDUCATION  >>  TAI PO MARKET RAILWAY STATION
+27504
+XXX
+
+[infosystem_busstop_list]
+14
+HK Institute Of Education
+Welcome Abroad 275S_2
+Tai Po Industrial Est
+Ha Hang
+Dai Fat Street
+Yue Kok
+Tai Po Waterfront Park
+Tai Po Central Bus Terminus
+Sun Hing Garden
+Kwong Chi House Kwong Fuk Estate
+Kwong Fuk Playground
+Tai Po Market Railway Station
+Arrival 275S_2
+Tai Po Market Railway Station
+
+
+Line 289, Route 01: Welcome Abroad 289K  >>  Chevalier Garden
+----------------------------------------------------------------------
+
+[infosystem_trip]
+28901
+WELCOME ABROAD 289K  >>  CHEVALIER GARDEN
+281
+XXX
+
+[infosystem_busstop_list]
+10
+Welcome Abroad 289K
+Welcome Abroad 289K
+Take Care of Children and Elderly
+Hang Fai Street
+Po Tai Street
+Tak Sun Secondary School
+Please Hold the Handrails
+Kam Tai Court
+Chevalier Garden
+Chevalier Garden
+
+
+Line 289, Route 02: Chevalier Garden  >>  University Railway Station
+----------------------------------------------------------------------
+
+[infosystem_trip]
+28902
+CHEVALIER GARDEN  >>  UNIVERSITY RAILWAY STATION
+282
+XXX
+
+[infosystem_busstop_list]
+9
+Chevalier Garden
+Please Hold the Handrails
+Kam Tai Court
+Tak Sun Secondary School
+Please Hold the Handrails
+Ocean View
+University Railway Station
+Arrival 289K
+University Railway Station
+
+
+Line 872, Route 11: Sha Tin Racecourse Bus Terminus  >>  Tai Po Central Bus Terminus
+----------------------------------------------------------------------
+
+[infosystem_trip]
+87211
+SHA TIN RACECOURSE BUS TERMINUS  >>  TAI PO CENTRAL BUS TERMINUS
+872
+XXX
+
+[infosystem_busstop_list]
+9
+Sha Tin Racecourse Bus Terminus
+Welcome Abroad 872X
+Kwong Fuk Estate
+Kwong Fuk Road
+Po Heung Bridge
+On Cheung Road
+Tai Po Central Bus Terminus
+Arrive 872X
+Tai Po Central Bus Terminus

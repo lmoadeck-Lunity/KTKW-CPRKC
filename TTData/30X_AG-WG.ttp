@@ -1,0 +1,285 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+30X_AG-WG
+30X_WG
+30X
+
+.........................
+        Stations
+.........................
+
+[station]
+1606962
+0
+Allway Gardens B/T
+239
+0.193
+26.800
+26.800
+0.000
+
+[station]
+1606968
+9
+Tsuen King Circuit Market 30X
+238
+-0.235
+144.779
+0.619
+0.000
+
+[station]
+1606970
+46
+Tsuen Wan Centre 30X
+237
+-5.185
+898.277
+8.720
+0.000
+
+[station]
+45250
+66
+Mei Wan Street
+0
+-1.202
+1228.729
+4.622
+0.000
+
+[station]
+1606972
+79
+30X Discovery Park
+2
+-3.658
+1531.069
+53.362
+0.000
+
+[station]
+1606977
+101
+30X Tsuen Wan Station
+5
+-3.770
+1987.189
+46.882
+0.000
+
+[station]
+52999
+120
+41M Tai Ho Road
+6
+-3.851
+2471.329
+24.805
+0.000
+
+[station]
+1606978
+160
+30X Yeung Uk Road Market
+14
+-0.177
+3151.621
+13.757
+0.000
+
+[station]
+53009
+177
+41M Wang Lung Street
+9
+-4.000
+3568.478
+79.814
+0.000
+
+[station]
+1606997
+316
+Mei Foo Station
+453
+-0.084
+9579.727
+13.931
+15.000
+
+[station]
+1607006
+366
+Kwong Cheung Street
+462
+0.060
+10904.968
+10.336
+20.000
+
+[station]
+1607008
+373
+Hing Wah Street
+460
+-0.133
+11142.872
+44.039
+5.000
+
+[station]
+1607013
+386
+Un Chau Estate
+492
+0.170
+11591.637
+87.806
+5.000
+
+[station]
+1607018
+401
+Kiu Kiang Street
+498
+0.237
+12065.360
+36.528
+7.000
+
+[station]
+1607034
+411
+Pei Ho Street
+500
+-3.305
+12459.334
+57.403
+15.000
+
+[station]
+1607051
+427
+Maple Street
+503
+-3.281
+12972.849
+21.617
+10.000
+
+[station]
+1584323
+443
+Prince Edward Railway Station (Southbound)
+505
+-0.081
+13427.750
+62.519
+20.000
+
+[station]
+177768
+468
+Mongkok Railway Station
+507
+0.679
+14136.316
+36.785
+25.000
+
+[station]
+1584305
+477
+Soy Street (Southbound for 6C, 6F)
+509
+-4.452
+14495.743
+73.112
+30.000
+
+[station]
+1584297
+491
+Man Ming Lane (Southbound for 6C, 6F)
+511
+-4.078
+15035.708
+31.477
+15.000
+
+[station]
+1584288
+504
+Public Square Street (Southbound)
+514
+-4.425
+15348.499
+24.267
+5.000
+
+[station]
+1589408
+523
+Labour Tribunal
+517
+-1.634
+15729.314
+1.384
+5.000
+
+[station]
+1589407
+534
+Wylie Road (Gascoigne Road)
+517
+-0.522
+15988.461
+29.129
+20.000
+
+[station]
+1589399
+597
+Kun Yam Street
+526
+-0.662
+17400.380
+2.059
+7.000
+
+[station]
+1589396
+616
+Tak Man Street
+529
+-4.658
+17780.936
+32.013
+5.000
+
+[station]
+1607133
+640
+Whampoa Garden Bus Terminus (212 Alighting)
+529
+0.063
+18146.402
+17.629
+15.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+55.000
+

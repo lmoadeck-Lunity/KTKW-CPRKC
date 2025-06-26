@@ -1,0 +1,714 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+LWB S56
+1023
+
+------------------------------------
+
+  Dep.: 5:33:24
+[addtrip]
+E34A_TSW
+0
+333.400
+
+  Dep.: 6:33:24
+[addtrip]
+E34A_TSW
+0
+393.400
+
+  Dep.: 7:13:24
+[addtrip]
+E34A_TSW
+0
+433.400
+
+  Dep.: 7:53:24
+[addtrip]
+E34A_TSW
+0
+473.400
+
+  Dep.: 8:33:24
+[addtrip]
+E34A_TSW
+0
+513.400
+
+  Dep.: 9:23:24
+[addtrip]
+E34A_TSW
+0
+563.400
+
+  Dep.: 10:13:24
+[addtrip]
+E34A_TSW
+0
+613.400
+
+  Dep.: 11:3:24
+[addtrip]
+E34A_TSW
+0
+663.400
+
+  Dep.: 11:53:24
+[addtrip]
+E34A_TSW
+0
+713.400
+
+  Dep.: 12:43:24
+[addtrip]
+E34A_TSW
+0
+763.400
+
+  Dep.: 13:33:24
+[addtrip]
+E34A_TSW
+0
+813.400
+
+  Dep.: 14:23:24
+[addtrip]
+E34A_TSW
+0
+863.400
+
+  Dep.: 15:13:24
+[addtrip]
+E34A_TSW
+0
+913.400
+
+  Dep.: 15:53:24
+[addtrip]
+E34A_TSW
+0
+953.400
+
+  Dep.: 16:38:24
+[addtrip]
+E34A_TSW
+0
+998.400
+
+  Dep.: 17:23:24
+[addtrip]
+E34A_TSW
+0
+1043.400
+
+  Dep.: 18:8:24
+[addtrip]
+E34A_TSW
+0
+1088.400
+
+  Dep.: 18:53:24
+[addtrip]
+E34A_TSW
+0
+1133.400
+
+  Dep.: 19:43:24
+[addtrip]
+E34A_TSW
+0
+1183.400
+
+  Dep.: 20:23:24
+[addtrip]
+E34A_TSW
+0
+1223.400
+
+  Dep.: 21:3:24
+[addtrip]
+E34A_TSW
+0
+1263.400
+
+  Dep.: 21:43:24
+[addtrip]
+E34A_TSW
+0
+1303.400
+
+  Dep.: 22:23:24
+[addtrip]
+E34A_TSW
+0
+1343.400
+
+  Dep.: 23:7:24
+[addtrip]
+E34A_TSW
+0
+1387.400
+
+  Dep.: 23:43:24
+[addtrip]
+E34A_TSW
+0
+1423.400
+
+------------------------------------
+
+[newtour]
+2
+LWB S56
+1023
+
+------------------------------------
+
+  Dep.: 6:3:0
+[addtrip]
+E34A_TSW
+0
+363.000
+
+  Dep.: 6:53:0
+[addtrip]
+E34A_TSW
+0
+413.000
+
+  Dep.: 7:33:0
+[addtrip]
+E34A_TSW
+0
+453.000
+
+  Dep.: 8:13:0
+[addtrip]
+E34A_TSW
+0
+493.000
+
+  Dep.: 8:58:0
+[addtrip]
+E34A_TSW
+0
+538.000
+
+  Dep.: 9:48:0
+[addtrip]
+E34A_TSW
+0
+588.000
+
+  Dep.: 10:38:0
+[addtrip]
+E34A_TSW
+0
+638.000
+
+  Dep.: 11:28:0
+[addtrip]
+E34A_TSW
+0
+688.000
+
+  Dep.: 12:18:0
+[addtrip]
+E34A_TSW
+0
+738.000
+
+  Dep.: 13:8:0
+[addtrip]
+E34A_TSW
+0
+788.000
+
+  Dep.: 13:58:0
+[addtrip]
+E34A_TSW
+0
+838.000
+
+  Dep.: 14:48:0
+[addtrip]
+E34A_TSW
+0
+888.000
+
+  Dep.: 15:33:0
+[addtrip]
+E34A_TSW
+0
+933.000
+
+  Dep.: 16:23:0
+[addtrip]
+E34A_TSW
+0
+983.000
+
+  Dep.: 17:8:0
+[addtrip]
+E34A_TSW
+0
+1028.000
+
+  Dep.: 17:53:0
+[addtrip]
+E34A_TSW
+0
+1073.000
+
+  Dep.: 18:38:0
+[addtrip]
+E34A_TSW
+0
+1118.000
+
+  Dep.: 19:23:0
+[addtrip]
+E34A_TSW
+0
+1163.000
+
+  Dep.: 20:3:0
+[addtrip]
+E34A_TSW
+0
+1203.000
+
+  Dep.: 20:43:0
+[addtrip]
+E34A_TSW
+0
+1243.000
+
+  Dep.: 21:23:0
+[addtrip]
+E34A_TSW
+0
+1283.000
+
+  Dep.: 22:3:0
+[addtrip]
+E34A_TSW
+0
+1323.000
+
+  Dep.: 22:43:0
+[addtrip]
+E34A_TSW
+0
+1363.000
+
+  Dep.: 23:19:0
+[addtrip]
+E34A_TSW
+0
+1399.000
+
+  Dep.: 23:55:0
+[addtrip]
+E34A_TSW
+0
+1435.000
+
+------------------------------------
+
+[newtour]
+3
+LWB S56
+1023
+
+------------------------------------
+
+  Dep.: 16:8:0
+[addtrip]
+E34A_TSW
+0
+968.000
+
+  Dep.: 16:53:0
+[addtrip]
+E34A_TSW
+0
+1013.000
+
+  Dep.: 17:38:0
+[addtrip]
+E34A_TSW
+0
+1058.000
+
+  Dep.: 18:23:0
+[addtrip]
+E34A_TSW
+0
+1103.000
+
+  Dep.: 19:8:0
+[addtrip]
+E34A_TSW
+0
+1148.000
+
+  Dep.: 22:55:0
+[addtrip]
+E34A_TSW
+0
+1375.000
+
+  Dep.: 23:31:0
+[addtrip]
+E34A_TSW
+0
+1411.000
+
+  Dep.: 24:7:0
+[addtrip]
+E34A_TSW
+0
+1447.000
+
+------------------------------------
+
+[newtour]
+4
+LWB S56
+1023
+
+------------------------------------
+
+  Dep.: 5:42:12
+[addtrip]
+E34A_GTC
+0
+342.200
+
+  Dep.: 6:22:12
+[addtrip]
+E34A_GTC
+0
+382.200
+
+  Dep.: 7:2:12
+[addtrip]
+E34A_GTC
+0
+422.200
+
+  Dep.: 7:42:12
+[addtrip]
+E34A_GTC
+0
+462.200
+
+  Dep.: 8:22:12
+[addtrip]
+E34A_GTC
+0
+502.200
+
+  Dep.: 9:2:12
+[addtrip]
+E34A_GTC
+0
+542.200
+
+  Dep.: 9:42:12
+[addtrip]
+E34A_GTC
+0
+582.200
+
+  Dep.: 10:22:12
+[addtrip]
+E34A_GTC
+0
+622.200
+
+  Dep.: 11:2:12
+[addtrip]
+E34A_GTC
+0
+662.200
+
+  Dep.: 11:42:12
+[addtrip]
+E34A_GTC
+0
+702.200
+
+  Dep.: 12:22:12
+[addtrip]
+E34A_GTC
+0
+742.200
+
+  Dep.: 13:2:12
+[addtrip]
+E34A_GTC
+0
+782.200
+
+  Dep.: 13:42:12
+[addtrip]
+E34A_GTC
+0
+822.200
+
+  Dep.: 14:27:12
+[addtrip]
+E34A_GTC
+0
+867.200
+
+  Dep.: 15:17:12
+[addtrip]
+E34A_GTC
+0
+917.200
+
+  Dep.: 16:7:12
+[addtrip]
+E34A_GTC
+0
+967.200
+
+  Dep.: 16:57:12
+[addtrip]
+E34A_GTC
+0
+1017.200
+
+  Dep.: 17:42:12
+[addtrip]
+E34A_GTC
+0
+1062.200
+
+  Dep.: 18:22:12
+[addtrip]
+E34A_GTC
+0
+1102.200
+
+  Dep.: 19:2:12
+[addtrip]
+E34A_GTC
+0
+1142.200
+
+  Dep.: 19:42:12
+[addtrip]
+E34A_GTC
+0
+1182.200
+
+  Dep.: 20:22:12
+[addtrip]
+E34A_GTC
+0
+1222.200
+
+  Dep.: 21:2:12
+[addtrip]
+E34A_GTC
+0
+1262.200
+
+  Dep.: 21:42:12
+[addtrip]
+E34A_GTC
+0
+1302.200
+
+  Dep.: 22:32:12
+[addtrip]
+E34A_GTC
+0
+1352.200
+
+  Dep.: 23:22:12
+[addtrip]
+E34A_GTC
+0
+1402.200
+
+------------------------------------
+
+[newtour]
+5
+LWB S56
+1023
+
+------------------------------------
+
+  Dep.: 6:2:34
+[addtrip]
+E34A_GTC
+0
+362.567
+
+  Dep.: 6:42:34
+[addtrip]
+E34A_GTC
+0
+402.567
+
+  Dep.: 7:22:34
+[addtrip]
+E34A_GTC
+0
+442.567
+
+  Dep.: 8:2:34
+[addtrip]
+E34A_GTC
+0
+482.567
+
+  Dep.: 8:42:34
+[addtrip]
+E34A_GTC
+0
+522.567
+
+  Dep.: 9:22:34
+[addtrip]
+E34A_GTC
+0
+562.567
+
+  Dep.: 10:2:34
+[addtrip]
+E34A_GTC
+0
+602.567
+
+  Dep.: 10:42:34
+[addtrip]
+E34A_GTC
+0
+642.567
+
+  Dep.: 11:22:34
+[addtrip]
+E34A_GTC
+0
+682.567
+
+  Dep.: 12:2:34
+[addtrip]
+E34A_GTC
+0
+722.567
+
+  Dep.: 12:42:34
+[addtrip]
+E34A_GTC
+0
+762.567
+
+  Dep.: 13:22:34
+[addtrip]
+E34A_GTC
+0
+802.567
+
+  Dep.: 14:2:34
+[addtrip]
+E34A_GTC
+0
+842.567
+
+  Dep.: 14:52:34
+[addtrip]
+E34A_GTC
+0
+892.567
+
+  Dep.: 15:42:34
+[addtrip]
+E34A_GTC
+0
+942.567
+
+  Dep.: 16:32:34
+[addtrip]
+E34A_GTC
+0
+992.567
+
+  Dep.: 17:22:34
+[addtrip]
+E34A_GTC
+0
+1042.567
+
+  Dep.: 18:2:34
+[addtrip]
+E34A_GTC
+0
+1082.567
+
+  Dep.: 18:42:34
+[addtrip]
+E34A_GTC
+0
+1122.567
+
+  Dep.: 19:22:34
+[addtrip]
+E34A_GTC
+0
+1162.567
+
+  Dep.: 20:2:34
+[addtrip]
+E34A_GTC
+0
+1202.567
+
+  Dep.: 20:42:34
+[addtrip]
+E34A_GTC
+0
+1242.567
+
+  Dep.: 21:22:34
+[addtrip]
+E34A_GTC
+0
+1282.567
+
+  Dep.: 22:7:34
+[addtrip]
+E34A_GTC
+0
+1327.567
+
+  Dep.: 22:57:34
+[addtrip]
+E34A_GTC
+0
+1377.567
+
+  Dep.: 23:47:34
+[addtrip]
+E34A_GTC
+0
+1427.567
+

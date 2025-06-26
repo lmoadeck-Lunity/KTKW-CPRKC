@@ -1,0 +1,345 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+CTB
+1023
+
+------------------------------------
+
+  Dep.: 6:7:22
+[addtrip]
+R8_DIS
+0
+367.367
+
+  Dep.: 6:47:22
+[addtrip]
+R8_DIS
+0
+407.367
+
+  Dep.: 7:27:22
+[addtrip]
+R8_DIS
+0
+447.367
+
+  Dep.: 8:7:22
+[addtrip]
+R8_DIS
+0
+487.367
+
+  Dep.: 8:47:22
+[addtrip]
+R8_DIS
+0
+527.367
+
+  Dep.: 9:27:22
+[addtrip]
+R8_DIS
+0
+567.367
+
+  Dep.: 10:7:22
+[addtrip]
+R8_DIS
+0
+607.367
+
+  Dep.: 10:47:22
+[addtrip]
+R8_DIS
+0
+647.367
+
+  Dep.: 11:27:22
+[addtrip]
+R8_DIS
+0
+687.367
+
+  Dep.: 12:7:22
+[addtrip]
+R8_DIS
+0
+727.367
+
+  Dep.: 12:47:22
+[addtrip]
+R8_DIS
+0
+767.367
+
+  Dep.: 13:27:22
+[addtrip]
+R8_DIS
+0
+807.367
+
+  Dep.: 14:7:22
+[addtrip]
+R8_DIS
+0
+847.367
+
+  Dep.: 14:47:22
+[addtrip]
+R8_DIS
+0
+887.367
+
+  Dep.: 15:27:22
+[addtrip]
+R8_DIS
+0
+927.367
+
+  Dep.: 16:7:22
+[addtrip]
+R8_DIS
+0
+967.367
+
+  Dep.: 16:47:22
+[addtrip]
+R8_DIS
+0
+1007.367
+
+  Dep.: 17:27:22
+[addtrip]
+R8_DIS
+0
+1047.367
+
+  Dep.: 18:7:22
+[addtrip]
+R8_DIS
+0
+1087.367
+
+  Dep.: 18:47:22
+[addtrip]
+R8_DIS
+0
+1127.367
+
+  Dep.: 19:27:22
+[addtrip]
+R8_DIS
+0
+1167.367
+
+  Dep.: 20:7:22
+[addtrip]
+R8_DIS
+0
+1207.367
+
+  Dep.: 20:47:22
+[addtrip]
+R8_DIS
+0
+1247.367
+
+  Dep.: 21:27:22
+[addtrip]
+R8_DIS
+0
+1287.367
+
+  Dep.: 22:7:22
+[addtrip]
+R8_DIS
+0
+1327.367
+
+  Dep.: 22:37:22
+[addtrip]
+R8_DIS
+0
+1357.367
+
+  Dep.: 23:7:22
+[addtrip]
+R8_DIS
+0
+1387.367
+
+  Dep.: 23:37:22
+[addtrip]
+R8_DIS
+0
+1417.367
+
+  Dep.: 24:12:22
+[addtrip]
+R8_DIS
+0
+1452.367
+
+------------------------------------
+
+[newtour]
+2
+LWB
+1023
+
+------------------------------------
+
+  Dep.: 6:27:0
+[addtrip]
+R8_DIS
+0
+387.000
+
+  Dep.: 7:7:0
+[addtrip]
+R8_DIS
+0
+427.000
+
+  Dep.: 7:47:0
+[addtrip]
+R8_DIS
+0
+467.000
+
+  Dep.: 8:27:0
+[addtrip]
+R8_DIS
+0
+507.000
+
+  Dep.: 9:7:0
+[addtrip]
+R8_DIS
+0
+547.000
+
+  Dep.: 9:47:0
+[addtrip]
+R8_DIS
+0
+587.000
+
+  Dep.: 10:27:0
+[addtrip]
+R8_DIS
+0
+627.000
+
+  Dep.: 11:7:0
+[addtrip]
+R8_DIS
+0
+667.000
+
+  Dep.: 11:47:0
+[addtrip]
+R8_DIS
+0
+707.000
+
+  Dep.: 12:27:0
+[addtrip]
+R8_DIS
+0
+747.000
+
+  Dep.: 13:7:0
+[addtrip]
+R8_DIS
+0
+787.000
+
+  Dep.: 13:47:0
+[addtrip]
+R8_DIS
+0
+827.000
+
+  Dep.: 14:27:0
+[addtrip]
+R8_DIS
+0
+867.000
+
+  Dep.: 15:7:0
+[addtrip]
+R8_DIS
+0
+907.000
+
+  Dep.: 15:47:0
+[addtrip]
+R8_DIS
+0
+947.000
+
+  Dep.: 16:27:0
+[addtrip]
+R8_DIS
+0
+987.000
+
+  Dep.: 17:7:0
+[addtrip]
+R8_DIS
+0
+1027.000
+
+  Dep.: 17:47:0
+[addtrip]
+R8_DIS
+0
+1067.000
+
+  Dep.: 18:27:0
+[addtrip]
+R8_DIS
+0
+1107.000
+
+  Dep.: 19:7:0
+[addtrip]
+R8_DIS
+0
+1147.000
+
+  Dep.: 19:47:0
+[addtrip]
+R8_DIS
+0
+1187.000
+
+  Dep.: 20:27:0
+[addtrip]
+R8_DIS
+0
+1227.000
+
+  Dep.: 21:7:0
+[addtrip]
+R8_DIS
+0
+1267.000
+
+  Dep.: 21:47:0
+[addtrip]
+R8_DIS
+0
+1307.000
+

@@ -1,0 +1,115 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E22A_HSG
+E22A_HSG
+E22A
+
+.........................
+        Stations
+.........................
+
+[station]
+22658
+28
+CTB Cathay City
+264
+-1.894
+479.836
+35.461
+25.000
+
+[station]
+24873
+57
+Chek Lap Kok Fire Station
+270
+-4.804
+1047.621
+34.392
+5.000
+
+[station]
+49829
+68
+Cathay Pacific Catering Service
+280
+-1.242
+1374.777
+17.007
+0.000
+
+[station]
+49682
+107
+Chun Wan Road South
+273
+-4.113
+2439.560
+51.617
+0.000
+
+[station]
+49684
+121
+Airport Freight Forwarding Centre
+283
+-4.420
+2807.874
+43.761
+0.000
+
+[station]
+49686
+148
+Asia Airfreight Terminal - Tung Chung
+287
+-6.254
+3692.449
+21.834
+0.000
+
+[station]
+49818
+239
+Tung Chung Cable Car Terminal
+187
+-5.932
+6129.832
+83.160
+0.000
+
+[station]
+49715
+262
+Citygate
+186
+-5.534
+6593.786
+5.554
+0.000
+
+[station]
+49821
+293
+LWB Yu Tung Court back
+192
+-4.965
+7072.622
+8.401
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+31.800
+

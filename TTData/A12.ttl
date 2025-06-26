@@ -1,0 +1,615 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+CTB S56
+1023
+
+------------------------------------
+
+  Dep.: 6:2:45
+[addtrip]
+A12_SSW
+0
+362.750
+
+  Dep.: 6:32:45
+[addtrip]
+A12_SSW
+0
+392.750
+
+  Dep.: 7:2:45
+[addtrip]
+A12_SSW
+0
+422.750
+
+  Dep.: 7:47:45
+[addtrip]
+A12_SSW
+0
+467.750
+
+  Dep.: 8:32:45
+[addtrip]
+A12_SSW
+0
+512.750
+
+  Dep.: 9:2:45
+[addtrip]
+A12_SSW
+0
+542.750
+
+  Dep.: 9:32:45
+[addtrip]
+A12_SSW
+0
+572.750
+
+  Dep.: 9:52:45
+[addtrip]
+A12_SSW
+0
+592.750
+
+  Dep.: 10:12:45
+[addtrip]
+A12_SSW
+0
+612.750
+
+  Dep.: 10:32:45
+[addtrip]
+A12_SSW
+0
+632.750
+
+  Dep.: 10:52:45
+[addtrip]
+A12_SSW
+0
+652.750
+
+  Dep.: 11:12:45
+[addtrip]
+A12_SSW
+0
+672.750
+
+  Dep.: 11:32:45
+[addtrip]
+A12_SSW
+0
+692.750
+
+  Dep.: 11:52:45
+[addtrip]
+A12_SSW
+0
+712.750
+
+  Dep.: 12:12:45
+[addtrip]
+A12_SSW
+0
+732.750
+
+  Dep.: 12:32:45
+[addtrip]
+A12_SSW
+0
+752.750
+
+  Dep.: 12:52:45
+[addtrip]
+A12_SSW
+0
+772.750
+
+  Dep.: 13:12:45
+[addtrip]
+A12_SSW
+0
+792.750
+
+  Dep.: 13:32:45
+[addtrip]
+A12_SSW
+0
+812.750
+
+  Dep.: 13:52:45
+[addtrip]
+A12_SSW
+0
+832.750
+
+  Dep.: 14:12:45
+[addtrip]
+A12_SSW
+0
+852.750
+
+  Dep.: 14:32:45
+[addtrip]
+A12_SSW
+0
+872.750
+
+  Dep.: 14:52:45
+[addtrip]
+A12_SSW
+0
+892.750
+
+  Dep.: 15:12:45
+[addtrip]
+A12_SSW
+0
+912.750
+
+  Dep.: 15:32:45
+[addtrip]
+A12_SSW
+0
+932.750
+
+  Dep.: 15:52:45
+[addtrip]
+A12_SSW
+0
+952.750
+
+  Dep.: 16:12:45
+[addtrip]
+A12_SSW
+0
+972.750
+
+  Dep.: 16:32:45
+[addtrip]
+A12_SSW
+0
+992.750
+
+  Dep.: 16:52:45
+[addtrip]
+A12_SSW
+0
+1012.750
+
+  Dep.: 17:12:45
+[addtrip]
+A12_SSW
+0
+1032.750
+
+  Dep.: 17:32:45
+[addtrip]
+A12_SSW
+0
+1052.750
+
+  Dep.: 17:52:45
+[addtrip]
+A12_SSW
+0
+1072.750
+
+  Dep.: 18:12:45
+[addtrip]
+A12_SSW
+0
+1092.750
+
+  Dep.: 18:32:45
+[addtrip]
+A12_SSW
+0
+1112.750
+
+  Dep.: 18:52:45
+[addtrip]
+A12_SSW
+0
+1132.750
+
+  Dep.: 19:12:45
+[addtrip]
+A12_SSW
+0
+1152.750
+
+  Dep.: 19:32:45
+[addtrip]
+A12_SSW
+0
+1172.750
+
+  Dep.: 19:52:45
+[addtrip]
+A12_SSW
+0
+1192.750
+
+  Dep.: 20:12:45
+[addtrip]
+A12_SSW
+0
+1212.750
+
+  Dep.: 20:32:45
+[addtrip]
+A12_SSW
+0
+1232.750
+
+  Dep.: 20:52:45
+[addtrip]
+A12_SSW
+0
+1252.750
+
+  Dep.: 21:12:45
+[addtrip]
+A12_SSW
+0
+1272.750
+
+  Dep.: 21:32:45
+[addtrip]
+A12_SSW
+0
+1292.750
+
+  Dep.: 21:52:45
+[addtrip]
+A12_SSW
+0
+1312.750
+
+  Dep.: 22:12:45
+[addtrip]
+A12_SSW
+0
+1332.750
+
+  Dep.: 22:32:45
+[addtrip]
+A12_SSW
+0
+1352.750
+
+  Dep.: 22:52:45
+[addtrip]
+A12_SSW
+0
+1372.750
+
+  Dep.: 23:12:45
+[addtrip]
+A12_SSW
+0
+1392.750
+
+  Dep.: 23:32:45
+[addtrip]
+A12_SSW
+0
+1412.750
+
+  Dep.: 23:52:45
+[addtrip]
+A12_SSW
+0
+1432.750
+
+  Dep.: 24:12:45
+[addtrip]
+A12_SSW
+0
+1452.750
+
+------------------------------------
+
+[newtour]
+2
+CTB S56
+1023
+
+------------------------------------
+
+  Dep.: 6:30:43
+[addtrip]
+A12_GTC
+0
+390.733
+
+  Dep.: 6:50:43
+[addtrip]
+A12_GTC
+0
+410.733
+
+  Dep.: 7:10:43
+[addtrip]
+A12_GTC
+0
+430.733
+
+  Dep.: 7:30:43
+[addtrip]
+A12_GTC
+0
+450.733
+
+  Dep.: 7:50:43
+[addtrip]
+A12_GTC
+0
+470.733
+
+  Dep.: 8:10:43
+[addtrip]
+A12_GTC
+0
+490.733
+
+  Dep.: 8:30:43
+[addtrip]
+A12_GTC
+0
+510.733
+
+  Dep.: 8:55:43
+[addtrip]
+A12_GTC
+0
+535.733
+
+  Dep.: 9:20:43
+[addtrip]
+A12_GTC
+0
+560.733
+
+  Dep.: 9:40:43
+[addtrip]
+A12_GTC
+0
+580.733
+
+  Dep.: 10:0:43
+[addtrip]
+A12_GTC
+0
+600.733
+
+  Dep.: 10:20:43
+[addtrip]
+A12_GTC
+0
+620.733
+
+  Dep.: 10:40:43
+[addtrip]
+A12_GTC
+0
+640.733
+
+  Dep.: 11:0:43
+[addtrip]
+A12_GTC
+0
+660.733
+
+  Dep.: 11:20:43
+[addtrip]
+A12_GTC
+0
+680.733
+
+  Dep.: 11:40:43
+[addtrip]
+A12_GTC
+0
+700.733
+
+  Dep.: 12:0:43
+[addtrip]
+A12_GTC
+0
+720.733
+
+  Dep.: 12:20:43
+[addtrip]
+A12_GTC
+0
+740.733
+
+  Dep.: 12:40:43
+[addtrip]
+A12_GTC
+0
+760.733
+
+  Dep.: 13:0:43
+[addtrip]
+A12_GTC
+0
+780.733
+
+  Dep.: 13:20:43
+[addtrip]
+A12_GTC
+0
+800.733
+
+  Dep.: 13:40:43
+[addtrip]
+A12_GTC
+0
+820.733
+
+  Dep.: 14:0:43
+[addtrip]
+A12_GTC
+0
+840.733
+
+  Dep.: 14:20:43
+[addtrip]
+A12_GTC
+0
+860.733
+
+  Dep.: 14:40:43
+[addtrip]
+A12_GTC
+0
+880.733
+
+  Dep.: 15:0:43
+[addtrip]
+A12_GTC
+0
+900.733
+
+  Dep.: 15:20:43
+[addtrip]
+A12_GTC
+0
+920.733
+
+  Dep.: 15:40:43
+[addtrip]
+A12_GTC
+0
+940.733
+
+  Dep.: 16:0:43
+[addtrip]
+A12_GTC
+0
+960.733
+
+  Dep.: 16:20:43
+[addtrip]
+A12_GTC
+0
+980.733
+
+  Dep.: 16:40:43
+[addtrip]
+A12_GTC
+0
+1000.733
+
+  Dep.: 17:0:43
+[addtrip]
+A12_GTC
+0
+1020.733
+
+  Dep.: 17:20:43
+[addtrip]
+A12_GTC
+0
+1040.733
+
+  Dep.: 17:40:43
+[addtrip]
+A12_GTC
+0
+1060.733
+
+  Dep.: 18:0:43
+[addtrip]
+A12_GTC
+0
+1080.733
+
+  Dep.: 18:20:43
+[addtrip]
+A12_GTC
+0
+1100.733
+
+  Dep.: 18:40:43
+[addtrip]
+A12_GTC
+0
+1120.733
+
+  Dep.: 19:0:43
+[addtrip]
+A12_GTC
+0
+1140.733
+
+  Dep.: 19:30:43
+[addtrip]
+A12_GTC
+0
+1170.733
+
+  Dep.: 20:0:43
+[addtrip]
+A12_GTC
+0
+1200.733
+
+  Dep.: 20:30:43
+[addtrip]
+A12_GTC
+0
+1230.733
+
+  Dep.: 21:0:43
+[addtrip]
+A12_GTC
+0
+1260.733
+
+  Dep.: 21:30:43
+[addtrip]
+A12_GTC
+0
+1290.733
+
+  Dep.: 22:0:43
+[addtrip]
+A12_GTC
+0
+1320.733
+
+  Dep.: 22:30:43
+[addtrip]
+A12_GTC
+0
+1350.733
+
+  Dep.: 23:0:43
+[addtrip]
+A12_GTC
+0
+1380.733
+
+  Dep.: 23:30:43
+[addtrip]
+A12_GTC
+0
+1410.733
+

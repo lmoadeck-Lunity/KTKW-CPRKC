@@ -1,0 +1,687 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+CTB S56
+1023
+
+------------------------------------
+
+  Dep.: 6:13:12
+[addtrip]
+A29_TKO
+0
+373.200
+
+  Dep.: 7:13:12
+[addtrip]
+A29_TKO
+0
+433.200
+
+  Dep.: 8:13:12
+[addtrip]
+A29_TKO
+0
+493.200
+
+  Dep.: 8:43:12
+[addtrip]
+A29_TKO
+0
+523.200
+
+  Dep.: 9:13:12
+[addtrip]
+A29_TKO
+0
+553.200
+
+  Dep.: 9:43:12
+[addtrip]
+A29_TKO
+0
+583.200
+
+  Dep.: 10:13:12
+[addtrip]
+A29_TKO
+0
+613.200
+
+  Dep.: 10:43:12
+[addtrip]
+A29_TKO
+0
+643.200
+
+  Dep.: 11:13:12
+[addtrip]
+A29_TKO
+0
+673.200
+
+  Dep.: 11:33:12
+[addtrip]
+A29_TKO
+0
+693.200
+
+  Dep.: 11:53:12
+[addtrip]
+A29_TKO
+0
+713.200
+
+  Dep.: 12:13:12
+[addtrip]
+A29_TKO
+0
+733.200
+
+  Dep.: 12:33:12
+[addtrip]
+A29_TKO
+0
+753.200
+
+  Dep.: 12:53:12
+[addtrip]
+A29_TKO
+0
+773.200
+
+  Dep.: 13:13:12
+[addtrip]
+A29_TKO
+0
+793.200
+
+  Dep.: 13:33:12
+[addtrip]
+A29_TKO
+0
+813.200
+
+  Dep.: 13:53:12
+[addtrip]
+A29_TKO
+0
+833.200
+
+  Dep.: 14:13:12
+[addtrip]
+A29_TKO
+0
+853.200
+
+  Dep.: 14:33:12
+[addtrip]
+A29_TKO
+0
+873.200
+
+  Dep.: 14:53:12
+[addtrip]
+A29_TKO
+0
+893.200
+
+  Dep.: 15:13:12
+[addtrip]
+A29_TKO
+0
+913.200
+
+  Dep.: 15:33:12
+[addtrip]
+A29_TKO
+0
+933.200
+
+  Dep.: 15:53:12
+[addtrip]
+A29_TKO
+0
+953.200
+
+  Dep.: 16:13:12
+[addtrip]
+A29_TKO
+0
+973.200
+
+  Dep.: 16:43:12
+[addtrip]
+A29_TKO
+0
+1003.200
+
+  Dep.: 17:13:12
+[addtrip]
+A29_TKO
+0
+1033.200
+
+  Dep.: 17:43:12
+[addtrip]
+A29_TKO
+0
+1063.200
+
+  Dep.: 18:13:12
+[addtrip]
+A29_TKO
+0
+1093.200
+
+  Dep.: 18:43:12
+[addtrip]
+A29_TKO
+0
+1123.200
+
+  Dep.: 19:13:12
+[addtrip]
+A29_TKO
+0
+1153.200
+
+  Dep.: 19:43:12
+[addtrip]
+A29_TKO
+0
+1183.200
+
+  Dep.: 20:13:12
+[addtrip]
+A29_TKO
+0
+1213.200
+
+  Dep.: 20:43:12
+[addtrip]
+A29_TKO
+0
+1243.200
+
+  Dep.: 21:13:12
+[addtrip]
+A29_TKO
+0
+1273.200
+
+  Dep.: 21:43:12
+[addtrip]
+A29_TKO
+0
+1303.200
+
+  Dep.: 22:13:12
+[addtrip]
+A29_TKO
+0
+1333.200
+
+  Dep.: 22:43:12
+[addtrip]
+A29_TKO
+0
+1363.200
+
+  Dep.: 23:13:12
+[addtrip]
+A29_TKO
+0
+1393.200
+
+  Dep.: 23:33:12
+[addtrip]
+A29_TKO
+0
+1413.200
+
+  Dep.: 23:53:12
+[addtrip]
+A29_TKO
+0
+1433.200
+
+  Dep.: 24:13:12
+[addtrip]
+A29_TKO
+0
+1453.200
+
+------------------------------------
+
+[newtour]
+2
+CTB S56
+1023
+
+------------------------------------
+
+  Dep.: 16:28:0
+[addtrip]
+A29_TKO
+0
+988.000
+
+  Dep.: 16:58:0
+[addtrip]
+A29_TKO
+0
+1018.000
+
+  Dep.: 17:28:0
+[addtrip]
+A29_TKO
+0
+1048.000
+
+  Dep.: 17:58:0
+[addtrip]
+A29_TKO
+0
+1078.000
+
+  Dep.: 18:28:0
+[addtrip]
+A29_TKO
+0
+1108.000
+
+  Dep.: 18:58:0
+[addtrip]
+A29_TKO
+0
+1138.000
+
+  Dep.: 19:28:0
+[addtrip]
+A29_TKO
+0
+1168.000
+
+  Dep.: 19:58:0
+[addtrip]
+A29_TKO
+0
+1198.000
+
+  Dep.: 20:28:0
+[addtrip]
+A29_TKO
+0
+1228.000
+
+  Dep.: 20:58:0
+[addtrip]
+A29_TKO
+0
+1258.000
+
+  Dep.: 21:28:0
+[addtrip]
+A29_TKO
+0
+1288.000
+
+  Dep.: 21:58:0
+[addtrip]
+A29_TKO
+0
+1318.000
+
+  Dep.: 22:28:0
+[addtrip]
+A29_TKO
+0
+1348.000
+
+  Dep.: 22:58:0
+[addtrip]
+A29_TKO
+0
+1378.000
+
+------------------------------------
+
+[newtour]
+3
+CTB S56
+1023
+
+------------------------------------
+
+  Dep.: 5:47:22
+[addtrip]
+A29_GTC
+0
+347.367
+
+  Dep.: 6:17:22
+[addtrip]
+A29_GTC
+0
+377.367
+
+  Dep.: 6:47:22
+[addtrip]
+A29_GTC
+0
+407.367
+
+  Dep.: 7:17:22
+[addtrip]
+A29_GTC
+0
+437.367
+
+  Dep.: 7:47:22
+[addtrip]
+A29_GTC
+0
+467.367
+
+  Dep.: 8:17:22
+[addtrip]
+A29_GTC
+0
+497.367
+
+  Dep.: 8:47:22
+[addtrip]
+A29_GTC
+0
+527.367
+
+  Dep.: 9:17:22
+[addtrip]
+A29_GTC
+0
+557.367
+
+  Dep.: 9:47:22
+[addtrip]
+A29_GTC
+0
+587.367
+
+  Dep.: 10:7:22
+[addtrip]
+A29_GTC
+0
+607.367
+
+  Dep.: 10:27:22
+[addtrip]
+A29_GTC
+0
+627.367
+
+  Dep.: 10:47:22
+[addtrip]
+A29_GTC
+0
+647.367
+
+  Dep.: 11:7:22
+[addtrip]
+A29_GTC
+0
+667.367
+
+  Dep.: 11:27:22
+[addtrip]
+A29_GTC
+0
+687.367
+
+  Dep.: 11:47:22
+[addtrip]
+A29_GTC
+0
+707.367
+
+  Dep.: 12:7:22
+[addtrip]
+A29_GTC
+0
+727.367
+
+  Dep.: 12:27:22
+[addtrip]
+A29_GTC
+0
+747.367
+
+  Dep.: 12:47:22
+[addtrip]
+A29_GTC
+0
+767.367
+
+  Dep.: 13:7:22
+[addtrip]
+A29_GTC
+0
+787.367
+
+  Dep.: 13:27:22
+[addtrip]
+A29_GTC
+0
+807.367
+
+  Dep.: 13:47:22
+[addtrip]
+A29_GTC
+0
+827.367
+
+  Dep.: 14:7:22
+[addtrip]
+A29_GTC
+0
+847.367
+
+  Dep.: 14:27:22
+[addtrip]
+A29_GTC
+0
+867.367
+
+  Dep.: 14:47:22
+[addtrip]
+A29_GTC
+0
+887.367
+
+  Dep.: 15:7:22
+[addtrip]
+A29_GTC
+0
+907.367
+
+  Dep.: 15:27:22
+[addtrip]
+A29_GTC
+0
+927.367
+
+  Dep.: 15:47:22
+[addtrip]
+A29_GTC
+0
+947.367
+
+  Dep.: 16:7:22
+[addtrip]
+A29_GTC
+0
+967.367
+
+  Dep.: 16:27:22
+[addtrip]
+A29_GTC
+0
+987.367
+
+  Dep.: 16:47:22
+[addtrip]
+A29_GTC
+0
+1007.367
+
+  Dep.: 17:7:22
+[addtrip]
+A29_GTC
+0
+1027.367
+
+  Dep.: 17:32:22
+[addtrip]
+A29_GTC
+0
+1052.367
+
+  Dep.: 18:2:22
+[addtrip]
+A29_GTC
+0
+1082.367
+
+  Dep.: 18:32:22
+[addtrip]
+A29_GTC
+0
+1112.367
+
+  Dep.: 19:2:22
+[addtrip]
+A29_GTC
+0
+1142.367
+
+  Dep.: 19:32:22
+[addtrip]
+A29_GTC
+0
+1172.367
+
+  Dep.: 20:2:22
+[addtrip]
+A29_GTC
+0
+1202.367
+
+  Dep.: 20:32:22
+[addtrip]
+A29_GTC
+0
+1232.367
+
+  Dep.: 21:2:22
+[addtrip]
+A29_GTC
+0
+1262.367
+
+  Dep.: 21:32:22
+[addtrip]
+A29_GTC
+0
+1292.367
+
+  Dep.: 22:2:22
+[addtrip]
+A29_GTC
+0
+1322.367
+
+  Dep.: 22:47:22
+[addtrip]
+A29_GTC
+0
+1367.367
+
+  Dep.: 23:32:22
+[addtrip]
+A29_GTC
+0
+1412.367
+
+  Dep.: 24:17:22
+[addtrip]
+A29_GTC
+0
+1457.367
+
+------------------------------------
+
+[newtour]
+4
+CTB S56
+1023
+
+------------------------------------
+
+  Dep.: 6:2:0
+[addtrip]
+A29_GTC
+0
+362.000
+
+  Dep.: 6:32:0
+[addtrip]
+A29_GTC
+0
+392.000
+
+  Dep.: 7:2:0
+[addtrip]
+A29_GTC
+0
+422.000
+
+  Dep.: 7:32:0
+[addtrip]
+A29_GTC
+0
+452.000
+
+  Dep.: 8:2:0
+[addtrip]
+A29_GTC
+0
+482.000
+
+  Dep.: 8:32:0
+[addtrip]
+A29_GTC
+0
+512.000
+
+  Dep.: 9:2:0
+[addtrip]
+A29_GTC
+0
+542.000
+
+  Dep.: 9:32:0
+[addtrip]
+A29_GTC
+0
+572.000
+

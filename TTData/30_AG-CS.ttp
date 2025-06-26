@@ -1,0 +1,365 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+30_AG-CS
+30_CSW
+30
+
+.........................
+        Stations
+.........................
+
+[station]
+45240
+0
+Allway Gardens B/T
+239
+-0.775
+26.629
+26.629
+0.000
+
+[station]
+45242
+8
+Tsuen King Circuit Market
+238
+-1.407
+141.581
+0.621
+0.000
+
+[station]
+45244
+45
+Tsuen Wan Centre
+237
+-6.270
+895.166
+8.809
+0.000
+
+[station]
+45250
+65
+Mei Wan Street
+0
+-1.202
+1225.529
+4.622
+0.000
+
+[station]
+45256
+87
+Fuk Loi Estate Tai Chung Rd.
+3
+-4.878
+1606.567
+45.464
+0.000
+
+[station]
+45260
+105
+Moon Lok Dai Ha
+236
+-1.499
+1918.959
+56.356
+0.000
+
+[station]
+45266
+124
+Lady Trench Polyclinic
+8
+-1.496
+2292.056
+2.453
+0.000
+
+[station]
+45268
+137
+Bo Shek Mansion
+9
+-1.473
+2559.172
+45.569
+0.000
+
+[station]
+45274
+150
+New Haven 30
+10
+-1.473
+2822.768
+46.525
+0.000
+
+[station]
+45275
+164
+Tsuen Fu Street Garden 30
+10
+-1.429
+3134.228
+18.535
+0.000
+
+[station]
+45277
+188
+Tai Wo Hau Station 30
+13
+-4.954
+3605.383
+22.810
+0.000
+
+[station]
+45279
+211
+Kwai Chung Public School
+244
+-4.827
+4500.080
+29.007
+0.000
+
+[station]
+45281
+245
+Kwai Chun Court
+249
+-1.534
+5628.899
+46.495
+2.000
+
+[station]
+45293
+269
+Kwai Shun House Kwai Fong Estate
+253
+-0.803
+6276.080
+29.186
+4.000
+
+[station]
+45306
+297
+Metroplaza
+255
+-5.034
+6786.191
+8.956
+6.000
+
+[station]
+45309
+309
+Kwai Tsing Theatre 30
+259
+-1.388
+6992.333
+19.918
+3.000
+
+[station]
+45314
+345
+Ha Kwai Chung Polyclinic
+432
+-2.841
+7848.242
+44.827
+5.000
+
+[station]
+45319
+363
+Wing Yiu House
+434
+-3.017
+8496.216
+28.702
+7.000
+
+[station]
+45324
+371
+Lai Yiu Bus Terminus
+435
+-1.406
+8713.390
+5.159
+7.000
+
+[station]
+45320
+383
+Wing Yiu House
+430
+-2.935
+9051.435
+21.087
+0.000
+
+[station]
+45317
+398
+Ha Kwai Chung Polyclinic
+432
+-2.897
+9555.640
+15.293
+0.000
+
+[station]
+45326
+409
+Joint Street
+433
+-6.302
+9829.648
+4.803
+2.000
+
+[station]
+45331
+417
+Lai King Station
+433
+-3.174
+10106.165
+44.150
+4.000
+
+[station]
+45337
+435
+Cho Yiu Chuen Commerical Centre
+440
+-4.432
+10553.043
+16.638
+7.000
+
+[station]
+45338
+451
+Morninghope School
+439
+-2.490
+10900.107
+5.829
+2.000
+
+[station]
+45340
+457
+Kwai Chung Hospital
+442
+-2.378
+11165.773
+19.495
+2.000
+
+[station]
+45342
+472
+Princess Margaret Hospital
+442
+-1.968
+11454.574
+29.115
+5.000
+
+[station]
+45346
+479
+Ching Lai Court
+445
+-4.269
+11670.770
+24.312
+4.000
+
+[station]
+45350
+488
+Ching Lai Commercial Centre
+445
+-1.099
+11954.183
+20.224
+2.000
+
+[station]
+45355
+510
+Kau Wa Keng
+449
+-6.647
+12467.809
+19.851
+3.000
+
+[station]
+45358
+523
+Wah Lai Estate
+448
+-4.632
+12702.838
+11.418
+1.000
+
+[station]
+45361
+536
+Lai Wan Road
+451
+-1.099
+13078.985
+57.495
+3.000
+
+[station]
+45362
+543
+Nassau Street
+451
+-1.196
+13260.878
+47.989
+4.000
+
+[station]
+45369
+600
+Cheung Sha Wan End
+459
+-1.349
+14592.399
+12.977
+7.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+50.000
+

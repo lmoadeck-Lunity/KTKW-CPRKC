@@ -1,0 +1,105 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S52_YT_AM_AMEX
+S52_AMA_AM
+S52
+
+.........................
+        Stations
+.........................
+
+[station]
+40779
+0
+Yat Tung Estate S52 AM
+199
+-0.742
+2.363
+2.363
+0.000
+
+[station]
+9270
+0
+North Lantau Hospital
+196
+-323.533
+23.935
+23.935
+0.000
+
+[station]
+22777
+0
+CTB Tung Chung Fire Station
+192
+-715.123
+18.807
+18.807
+0.000
+
+[station]
+22772
+0
+CTB Tung Chung Crescent
+187
+-697.452
+16.038
+16.038
+2.000
+
+[station]
+22756
+0
+CTB Tung Chung MTR Station
+187
+-1016.857
+16.471
+16.471
+5.000
+
+[station]
+23825
+0
+DHL's Central Asia Hub
+348
+-2320.699
+6.028
+6.028
+20.000
+
+[station]
+23819
+0
+Government Flying Services
+350
+-2865.358
+5.177
+5.177
+5.000
+
+[station]
+23803
+0
+Aircraft Maintenance Area End
+360
+-4393.693
+5.531
+5.531
+40.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+16.000
+

@@ -1,0 +1,273 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+CTB S56
+1023
+
+------------------------------------
+
+  Dep.: 11:33:22
+[addtrip]
+A17_SW
+0
+693.367
+
+  Dep.: 12:3:22
+[addtrip]
+A17_SW
+0
+723.367
+
+  Dep.: 12:33:22
+[addtrip]
+A17_SW
+0
+753.367
+
+  Dep.: 13:3:22
+[addtrip]
+A17_SW
+0
+783.367
+
+  Dep.: 13:33:22
+[addtrip]
+A17_SW
+0
+813.367
+
+  Dep.: 14:3:22
+[addtrip]
+A17_SW
+0
+843.367
+
+  Dep.: 14:33:22
+[addtrip]
+A17_SW
+0
+873.367
+
+  Dep.: 15:3:22
+[addtrip]
+A17_SW
+0
+903.367
+
+  Dep.: 15:33:22
+[addtrip]
+A17_SW
+0
+933.367
+
+  Dep.: 16:3:22
+[addtrip]
+A17_SW
+0
+963.367
+
+  Dep.: 16:33:22
+[addtrip]
+A17_SW
+0
+993.367
+
+  Dep.: 17:3:22
+[addtrip]
+A17_SW
+0
+1023.367
+
+  Dep.: 17:33:22
+[addtrip]
+A17_SW
+0
+1053.367
+
+  Dep.: 18:3:22
+[addtrip]
+A17_SW
+0
+1083.367
+
+  Dep.: 18:33:22
+[addtrip]
+A17_SW
+0
+1113.367
+
+  Dep.: 19:3:22
+[addtrip]
+A17_SW
+0
+1143.367
+
+  Dep.: 19:33:22
+[addtrip]
+A17_SW
+0
+1173.367
+
+  Dep.: 20:3:22
+[addtrip]
+A17_SW
+0
+1203.367
+
+  Dep.: 20:33:22
+[addtrip]
+A17_SW
+0
+1233.367
+
+  Dep.: 21:3:22
+[addtrip]
+A17_SW
+0
+1263.367
+
+  Dep.: 21:33:22
+[addtrip]
+A17_SW
+0
+1293.367
+
+  Dep.: 22:3:22
+[addtrip]
+A17_SW
+0
+1323.367
+
+  Dep.: 22:33:22
+[addtrip]
+A17_SW
+0
+1353.367
+
+  Dep.: 23:3:22
+[addtrip]
+A17_SW
+0
+1383.367
+
+  Dep.: 23:33:22
+[addtrip]
+A17_SW
+0
+1413.367
+
+------------------------------------
+
+[newtour]
+2
+CTB S56
+1023
+
+------------------------------------
+
+  Dep.: 6:11:0
+[addtrip]
+A17_GTC
+0
+371.000
+
+  Dep.: 7:11:0
+[addtrip]
+A17_GTC
+0
+431.000
+
+  Dep.: 8:11:0
+[addtrip]
+A17_GTC
+0
+491.000
+
+  Dep.: 9:11:0
+[addtrip]
+A17_GTC
+0
+551.000
+
+  Dep.: 10:11:0
+[addtrip]
+A17_GTC
+0
+611.000
+
+  Dep.: 11:11:0
+[addtrip]
+A17_GTC
+0
+671.000
+
+  Dep.: 12:11:0
+[addtrip]
+A17_GTC
+0
+731.000
+
+  Dep.: 13:11:0
+[addtrip]
+A17_GTC
+0
+791.000
+
+  Dep.: 14:11:0
+[addtrip]
+A17_GTC
+0
+851.000
+
+  Dep.: 15:11:0
+[addtrip]
+A17_GTC
+0
+911.000
+
+  Dep.: 16:11:0
+[addtrip]
+A17_GTC
+0
+971.000
+
+  Dep.: 17:11:0
+[addtrip]
+A17_GTC
+0
+1031.000
+
+  Dep.: 18:11:0
+[addtrip]
+A17_GTC
+0
+1091.000
+
+  Dep.: 19:11:0
+[addtrip]
+A17_GTC
+0
+1151.000
+
+  Dep.: 20:11:0
+[addtrip]
+A17_GTC
+0
+1211.000
+
+  Dep.: 21:11:0
+[addtrip]
+A17_GTC
+0
+1271.000
+

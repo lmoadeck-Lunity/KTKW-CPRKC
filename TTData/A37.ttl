@@ -1,0 +1,231 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+LWB A
+1023
+
+------------------------------------
+
+  Dep.: 11:3:21
+[addtrip]
+A37_HSK
+0
+663.350
+
+  Dep.: 12:3:21
+[addtrip]
+A37_HSK
+0
+723.350
+
+  Dep.: 13:3:21
+[addtrip]
+A37_HSK
+0
+783.350
+
+  Dep.: 14:3:21
+[addtrip]
+A37_HSK
+0
+843.350
+
+  Dep.: 15:3:21
+[addtrip]
+A37_HSK
+0
+903.350
+
+  Dep.: 16:3:21
+[addtrip]
+A37_HSK
+0
+963.350
+
+  Dep.: 17:3:21
+[addtrip]
+A37_HSK
+0
+1023.350
+
+  Dep.: 17:33:21
+[addtrip]
+A37_HSK
+0
+1053.350
+
+  Dep.: 18:3:21
+[addtrip]
+A37_HSK
+0
+1083.350
+
+  Dep.: 18:33:21
+[addtrip]
+A37_HSK
+0
+1113.350
+
+  Dep.: 19:3:21
+[addtrip]
+A37_HSK
+0
+1143.350
+
+  Dep.: 20:3:21
+[addtrip]
+A37_HSK
+0
+1203.350
+
+  Dep.: 21:3:21
+[addtrip]
+A37_HSK
+0
+1263.350
+
+  Dep.: 22:3:21
+[addtrip]
+A37_HSK
+0
+1323.350
+
+  Dep.: 23:3:21
+[addtrip]
+A37_HSK
+0
+1383.350
+
+  Dep.: 24:3:21
+[addtrip]
+A37_HSK
+0
+1443.350
+
+------------------------------------
+
+[newtour]
+2
+LWB A
+1023
+
+------------------------------------
+
+  Dep.: 5:55:22
+[addtrip]
+A37_GTC
+0
+355.367
+
+  Dep.: 6:35:22
+[addtrip]
+A37_GTC
+0
+395.367
+
+  Dep.: 7:5:22
+[addtrip]
+A37_GTC
+0
+425.367
+
+  Dep.: 7:35:22
+[addtrip]
+A37_GTC
+0
+455.367
+
+  Dep.: 8:5:22
+[addtrip]
+A37_GTC
+0
+485.367
+
+  Dep.: 9:5:22
+[addtrip]
+A37_GTC
+0
+545.367
+
+  Dep.: 10:5:22
+[addtrip]
+A37_GTC
+0
+605.367
+
+  Dep.: 11:5:22
+[addtrip]
+A37_GTC
+0
+665.367
+
+  Dep.: 12:5:22
+[addtrip]
+A37_GTC
+0
+725.367
+
+  Dep.: 13:5:22
+[addtrip]
+A37_GTC
+0
+785.367
+
+  Dep.: 14:5:22
+[addtrip]
+A37_GTC
+0
+845.367
+
+  Dep.: 15:5:22
+[addtrip]
+A37_GTC
+0
+905.367
+
+  Dep.: 16:5:22
+[addtrip]
+A37_GTC
+0
+965.367
+
+  Dep.: 17:5:22
+[addtrip]
+A37_GTC
+0
+1025.367
+
+  Dep.: 18:5:22
+[addtrip]
+A37_GTC
+0
+1085.367
+
+  Dep.: 19:5:22
+[addtrip]
+A37_GTC
+0
+1145.367
+
+  Dep.: 20:5:22
+[addtrip]
+A37_GTC
+0
+1205.367
+
+  Dep.: 21:5:22
+[addtrip]
+A37_GTC
+0
+1265.367
+

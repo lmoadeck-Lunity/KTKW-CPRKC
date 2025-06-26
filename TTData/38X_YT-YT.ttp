@@ -1,0 +1,145 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+38X_YT-YT
+38X_YT
+38X
+
+.........................
+        Stations
+.........................
+
+[station]
+35630
+0
+Yung Yat House Yat Tung Estate 38X
+198
+-1.098
+57.762
+57.762
+0.000
+
+[station]
+35621
+9
+North Lantau Hospital (North Bound)
+196
+-5.187
+420.400
+73.640
+0.000
+
+[station]
+9270
+43
+North Lantau Hospital
+196
+-5.077
+881.402
+41.544
+0.000
+
+[station]
+9245
+74
+38 Tung Chung Fire Station
+192
+-5.669
+1726.463
+32.243
+8.000
+
+[station]
+9202
+98
+Tung Chung Cable Car Terminal
+187
+-0.984
+2303.495
+49.965
+15.000
+
+[station]
+35624
+111
+Tung Chung MTR Station
+187
+-1.903
+2675.269
+7.239
+15.000
+
+[station]
+35625
+157
+Fu Tung Plaza
+186
+-4.811
+3377.577
+17.107
+15.000
+
+[station]
+9235
+177
+LWB Yu Tung Court back
+192
+-4.989
+3705.574
+-4.006
+0.000
+
+[station]
+35546
+242
+Chung Yat Street Back
+235
+0.360
+5886.433
+12.298
+25.000
+
+[station]
+35544
+253
+Chung Mun Road Back
+202
+-3.647
+6010.843
+0.289
+5.000
+
+[station]
+9268
+270
+Fuk Yat House Yat Tung Estate Back
+201
+-4.194
+6280.712
+3.768
+8.000
+
+[station]
+35629
+275
+Yung Yat House Yat Tung Estate 38X End
+198
+-1.134
+6723.720
+56.777
+8.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+20.000
+

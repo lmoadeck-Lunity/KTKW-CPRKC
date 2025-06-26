@@ -1,0 +1,175 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+46X_HIK
+46X_HIK
+46X
+
+.........................
+        Stations
+.........................
+
+[station]
+49943
+0
+Mei Foo
+453
+-0.842
+16.590
+16.590
+0.000
+
+[station]
+45363
+29
+Nassau Street
+451
+-4.418
+454.137
+93.402
+0.000
+
+[station]
+45359
+52
+Lai Wan Road
+448
+-8.306
+810.613
+20.098
+0.000
+
+[station]
+45356
+76
+Kau Wa Keng
+449
+-6.970
+1326.035
+33.829
+0.000
+
+[station]
+45353
+93
+Lai Chi Kok Bay Garden
+448
+-5.725
+1655.666
+5.959
+0.000
+
+[station]
+45351
+97
+Ching Lai Commercial Centre
+445
+-5.245
+1767.485
+64.219
+0.000
+
+[station]
+45348
+105
+Ching Lai Court
+445
+-5.029
+1918.261
+34.495
+0.000
+
+[station]
+45343
+115
+Princess Margaret Hospital
+442
+-6.075
+2207.907
+29.141
+5.000
+
+[station]
+45339
+133
+Kwai Chung Hospital
+439
+-1.908
+2681.902
+44.483
+1.000
+
+[station]
+49919
+144
+Lok King House Lai King Estate
+438
+-2.319
+2972.021
+18.152
+5.000
+
+[station]
+45332
+156
+Lai King Station
+437
+-6.166
+3396.310
+28.441
+5.000
+
+[station]
+45328
+164
+Yat King House
+433
+-2.749
+3663.801
+58.432
+2.000
+
+[station]
+45311
+224
+Kwai Fong Station
+255
+-1.459
+4921.794
+19.924
+5.000
+
+[station]
+49946
+240
+Kwai Fong Plaza
+254
+-5.300
+5682.750
+67.596
+0.000
+
+[station]
+49948
+264
+Kwong Fai Circuit
+248
+-5.437
+6645.878
+71.125
+1.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+19.000
+

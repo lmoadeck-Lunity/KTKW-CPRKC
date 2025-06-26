@@ -1,0 +1,453 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+CTB S56
+1023
+
+------------------------------------
+
+  Dep.: 6:52:43
+[addtrip]
+A10_ALC
+0
+412.733
+
+  Dep.: 7:22:43
+[addtrip]
+A10_ALC
+0
+442.733
+
+  Dep.: 7:52:43
+[addtrip]
+A10_ALC
+0
+472.733
+
+  Dep.: 8:22:43
+[addtrip]
+A10_ALC
+0
+502.733
+
+  Dep.: 8:52:43
+[addtrip]
+A10_ALC
+0
+532.733
+
+  Dep.: 9:22:43
+[addtrip]
+A10_ALC
+0
+562.733
+
+  Dep.: 9:52:43
+[addtrip]
+A10_ALC
+0
+592.733
+
+  Dep.: 10:22:43
+[addtrip]
+A10_ALC
+0
+622.733
+
+  Dep.: 10:52:43
+[addtrip]
+A10_ALC
+0
+652.733
+
+  Dep.: 11:22:43
+[addtrip]
+A10_ALC
+0
+682.733
+
+  Dep.: 11:52:43
+[addtrip]
+A10_ALC
+0
+712.733
+
+  Dep.: 12:22:43
+[addtrip]
+A10_ALC
+0
+742.733
+
+  Dep.: 12:52:43
+[addtrip]
+A10_ALC
+0
+772.733
+
+  Dep.: 13:22:43
+[addtrip]
+A10_ALC
+0
+802.733
+
+  Dep.: 13:52:43
+[addtrip]
+A10_ALC
+0
+832.733
+
+  Dep.: 14:22:43
+[addtrip]
+A10_ALC
+0
+862.733
+
+  Dep.: 14:52:43
+[addtrip]
+A10_ALC
+0
+892.733
+
+  Dep.: 15:22:43
+[addtrip]
+A10_ALC
+0
+922.733
+
+  Dep.: 15:52:43
+[addtrip]
+A10_ALC
+0
+952.733
+
+  Dep.: 16:22:43
+[addtrip]
+A10_ALC
+0
+982.733
+
+  Dep.: 16:52:43
+[addtrip]
+A10_ALC
+0
+1012.733
+
+  Dep.: 17:22:43
+[addtrip]
+A10_ALC
+0
+1042.733
+
+  Dep.: 17:52:43
+[addtrip]
+A10_ALC
+0
+1072.733
+
+  Dep.: 18:22:43
+[addtrip]
+A10_ALC
+0
+1102.733
+
+  Dep.: 18:52:43
+[addtrip]
+A10_ALC
+0
+1132.733
+
+  Dep.: 19:22:43
+[addtrip]
+A10_ALC
+0
+1162.733
+
+  Dep.: 19:52:43
+[addtrip]
+A10_ALC
+0
+1192.733
+
+  Dep.: 20:22:43
+[addtrip]
+A10_ALC
+0
+1222.733
+
+  Dep.: 20:52:43
+[addtrip]
+A10_ALC
+0
+1252.733
+
+  Dep.: 21:22:43
+[addtrip]
+A10_ALC
+0
+1282.733
+
+  Dep.: 21:52:43
+[addtrip]
+A10_ALC
+0
+1312.733
+
+  Dep.: 22:22:43
+[addtrip]
+A10_ALC
+0
+1342.733
+
+  Dep.: 22:52:43
+[addtrip]
+A10_ALC
+0
+1372.733
+
+  Dep.: 23:22:43
+[addtrip]
+A10_ALC
+0
+1402.733
+
+  Dep.: 23:52:43
+[addtrip]
+A10_ALC
+0
+1432.733
+
+  Dep.: 24:22:43
+[addtrip]
+A10_ALC
+0
+1462.733
+
+------------------------------------
+
+[newtour]
+2
+CTB S56
+1023
+
+------------------------------------
+
+  Dep.: 6:30:25
+[addtrip]
+A10_GTC
+0
+390.417
+
+  Dep.: 7:0:25
+[addtrip]
+A10_GTC
+0
+420.417
+
+  Dep.: 7:30:25
+[addtrip]
+A10_GTC
+0
+450.417
+
+  Dep.: 8:0:25
+[addtrip]
+A10_GTC
+0
+480.417
+
+  Dep.: 8:30:25
+[addtrip]
+A10_GTC
+0
+510.417
+
+  Dep.: 9:0:25
+[addtrip]
+A10_GTC
+0
+540.417
+
+  Dep.: 9:30:25
+[addtrip]
+A10_GTC
+0
+570.417
+
+  Dep.: 10:0:25
+[addtrip]
+A10_GTC
+0
+600.417
+
+  Dep.: 10:30:25
+[addtrip]
+A10_GTC
+0
+630.417
+
+  Dep.: 11:0:25
+[addtrip]
+A10_GTC
+0
+660.417
+
+  Dep.: 11:30:25
+[addtrip]
+A10_GTC
+0
+690.417
+
+  Dep.: 12:0:25
+[addtrip]
+A10_GTC
+0
+720.417
+
+  Dep.: 12:30:25
+[addtrip]
+A10_GTC
+0
+750.417
+
+  Dep.: 13:0:25
+[addtrip]
+A10_GTC
+0
+780.417
+
+  Dep.: 13:30:25
+[addtrip]
+A10_GTC
+0
+810.417
+
+  Dep.: 14:0:25
+[addtrip]
+A10_GTC
+0
+840.417
+
+  Dep.: 14:30:25
+[addtrip]
+A10_GTC
+0
+870.417
+
+  Dep.: 15:0:25
+[addtrip]
+A10_GTC
+0
+900.417
+
+  Dep.: 15:30:25
+[addtrip]
+A10_GTC
+0
+930.417
+
+  Dep.: 16:0:25
+[addtrip]
+A10_GTC
+0
+960.417
+
+  Dep.: 16:30:25
+[addtrip]
+A10_GTC
+0
+990.417
+
+  Dep.: 17:0:25
+[addtrip]
+A10_GTC
+0
+1020.417
+
+  Dep.: 17:30:25
+[addtrip]
+A10_GTC
+0
+1050.417
+
+  Dep.: 18:0:25
+[addtrip]
+A10_GTC
+0
+1080.417
+
+  Dep.: 18:30:25
+[addtrip]
+A10_GTC
+0
+1110.417
+
+  Dep.: 19:0:25
+[addtrip]
+A10_GTC
+0
+1140.417
+
+  Dep.: 19:30:25
+[addtrip]
+A10_GTC
+0
+1170.417
+
+  Dep.: 20:0:25
+[addtrip]
+A10_GTC
+0
+1200.417
+
+  Dep.: 20:30:25
+[addtrip]
+A10_GTC
+0
+1230.417
+
+  Dep.: 21:0:25
+[addtrip]
+A10_GTC
+0
+1260.417
+
+  Dep.: 21:30:25
+[addtrip]
+A10_GTC
+0
+1290.417
+
+  Dep.: 22:0:25
+[addtrip]
+A10_GTC
+0
+1320.417
+
+  Dep.: 22:30:25
+[addtrip]
+A10_GTC
+0
+1350.417
+
+  Dep.: 23:0:25
+[addtrip]
+A10_GTC
+0
+1380.417
+
+  Dep.: 23:30:25
+[addtrip]
+A10_GTC
+0
+1410.417
+

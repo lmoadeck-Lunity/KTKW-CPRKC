@@ -1,0 +1,49 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+
+S52X_AMA
+S52
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+22790
+
+[station_typ2]
+9270
+
+[station_typ2]
+22777
+
+[station_typ2]
+22772
+
+[station_typ2]
+22756
+
+[station_typ2]
+23825
+
+[station_typ2]
+23819
+
+[station_typ2]
+23803
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+15.000
+

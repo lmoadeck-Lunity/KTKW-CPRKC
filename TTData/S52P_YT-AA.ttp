@@ -1,0 +1,125 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S52P_YT-AA
+S52P_AAT
+S52P
+
+.........................
+        Stations
+.........................
+
+[station]
+22790
+0
+CTB Yat Tung Estate
+199
+-1.587
+11.589
+11.589
+0.000
+
+[station]
+9270
+40
+North Lantau Hospital
+196
+-5.077
+428.429
+41.544
+0.000
+
+[station]
+22777
+71
+CTB Tung Chung Fire Station
+192
+-5.509
+1292.789
+51.542
+0.000
+
+[station]
+22772
+81
+CTB Tung Chung Crescent
+187
+-4.762
+1594.415
+42.068
+2.000
+
+[station]
+22756
+109
+CTB Tung Chung MTR Station
+187
+-1.733
+2178.319
+0.792
+5.000
+
+[station]
+22643
+183
+Aviation Fuel Tank Farm
+262
+-4.748
+3859.340
+33.651
+2.000
+
+[station]
+22658
+210
+CTB Cathay City
+264
+-1.894
+4515.734
+35.461
+25.000
+
+[station]
+22693
+237
+Chun Wan Road South
+273
+-3.943
+5264.118
+42.021
+150.000
+
+[station]
+22726
+251
+Airport Freight Forwarding Centre
+283
+-4.393
+5642.810
+44.544
+18.000
+
+[station]
+22748
+278
+Asia Airfreight Terminal - Tung Chung
+287
+-6.254
+6527.311
+22.542
+50.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+18.000
+

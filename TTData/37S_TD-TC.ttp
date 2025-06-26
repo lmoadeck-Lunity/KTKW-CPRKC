@@ -1,0 +1,55 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+37S_TD-TC
+37S_Tung Chung
+37S
+
+.........................
+        Stations
+.........................
+
+[station]
+25326
+0
+S64P Tung Chung Development Pier
+207
+-1.209
+16.276
+16.276
+30.000
+
+[station]
+9202
+59
+Tung Chung Cable Car Terminal
+187
+-0.984
+1160.376
+49.965
+15.000
+
+[station]
+9217
+73
+Tung Chung MTR Station End
+187
+-0.982
+1538.599
+0.918
+50.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+4.000
+

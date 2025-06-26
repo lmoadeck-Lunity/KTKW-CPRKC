@@ -1,0 +1,49 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+
+S52_Yat Tung
+S52
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+22673
+
+[station_typ2]
+22642
+
+[station_typ2]
+28714
+
+[station_typ2]
+22775
+
+[station_typ2]
+9234
+
+[station_typ2]
+9276
+
+[station_typ2]
+9277
+
+[station_typ2]
+22791
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+12.000
+

@@ -1,0 +1,105 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E33P_SH
+E33P_SH
+E33P
+
+.........................
+        Stations
+.........................
+
+[station]
+24990
+28
+LWB Cathay City
+264
+-1.906
+488.879
+44.504
+25.000
+
+[station]
+49681
+66
+Airport Police Station
+281
+-5.428
+1396.117
+13.104
+0.000
+
+[station]
+49682
+99
+Chun Wan Road South
+273
+-4.113
+2441.744
+51.617
+0.000
+
+[station]
+49684
+113
+Airport Freight Forwarding Centre
+283
+-4.420
+2810.058
+43.761
+0.000
+
+[station]
+49686
+140
+Asia Airfreight Terminal - Tung Chung
+287
+-6.254
+3694.633
+21.834
+0.000
+
+[station]
+49687
+232
+Tung Chung Cable Car Terminal
+187
+-5.998
+6102.051
+28.196
+0.000
+
+[station]
+49689
+264
+Fu Tung Plaza
+186
+-5.166
+6723.490
+11.034
+0.000
+
+[station]
+49692
+285
+CTB Yu Tung Court
+185
+-5.232
+7119.219
+52.814
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+31.500
+

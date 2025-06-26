@@ -1,0 +1,605 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+LWB
+1023
+
+------------------------------------
+
+  Dep.: 5:30:0
+[addtrip]
+E31NL_TW-YT
+0
+330.000
+
+  Dep.: 6:45:0
+[addtrip]
+E31NL_YT-TW
+0
+405.000
+
+  Dep.: 8:0:0
+[addtrip]
+E31NL_TW-YT
+0
+480.000
+
+  Dep.: 9:15:0
+[addtrip]
+E31NL_YT-TW
+0
+555.000
+
+  Dep.: 10:30:0
+[addtrip]
+E31NL_TW-YT
+0
+630.000
+
+  Dep.: 11:45:0
+[addtrip]
+E31NL_YT-TW
+0
+705.000
+
+  Dep.: 13:0:0
+[addtrip]
+E31NL_TW-YT
+0
+780.000
+
+  Dep.: 14:15:0
+[addtrip]
+E31NL_YT-TW
+0
+855.000
+
+  Dep.: 15:30:0
+[addtrip]
+E31NL_TW-YT
+0
+930.000
+
+  Dep.: 16:45:0
+[addtrip]
+E31NL_YT-TW
+0
+1005.000
+
+  Dep.: 18:0:0
+[addtrip]
+E31NL_TW-YT
+0
+1080.000
+
+  Dep.: 19:15:0
+[addtrip]
+E31NL_YT-TW
+0
+1155.000
+
+  Dep.: 20:30:0
+[addtrip]
+E31NL_TW-YT
+0
+1230.000
+
+  Dep.: 21:45:0
+[addtrip]
+E31NL_YT-TW
+0
+1305.000
+
+  Dep.: 23:0:0
+[addtrip]
+E31NL_TW-YT
+0
+1380.000
+
+------------------------------------
+
+[newtour]
+2
+LWB
+1023
+
+------------------------------------
+
+  Dep.: 5:30:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+330.000
+
+  Dep.: 6:45:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+405.000
+
+  Dep.: 8:0:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+480.000
+
+  Dep.: 9:15:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+555.000
+
+  Dep.: 10:30:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+630.000
+
+  Dep.: 11:45:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+705.000
+
+  Dep.: 13:0:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+780.000
+
+  Dep.: 14:15:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+855.000
+
+  Dep.: 15:30:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+930.000
+
+  Dep.: 16:45:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+1005.000
+
+  Dep.: 18:0:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+1080.000
+
+  Dep.: 19:15:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+1155.000
+
+  Dep.: 20:30:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+1230.000
+
+  Dep.: 21:45:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+1305.000
+
+  Dep.: 23:0:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+1380.000
+
+------------------------------------
+
+[newtour]
+3
+LWB
+1023
+
+------------------------------------
+
+  Dep.: 5:55:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+355.000
+
+  Dep.: 7:10:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+430.000
+
+  Dep.: 8:25:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+505.000
+
+  Dep.: 9:40:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+580.000
+
+  Dep.: 10:55:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+655.000
+
+  Dep.: 12:10:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+730.000
+
+  Dep.: 13:25:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+805.000
+
+  Dep.: 14:40:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+880.000
+
+  Dep.: 15:55:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+955.000
+
+  Dep.: 17:10:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+1030.000
+
+  Dep.: 18:25:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+1105.000
+
+  Dep.: 19:40:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+1180.000
+
+  Dep.: 20:55:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+1255.000
+
+  Dep.: 22:10:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+1330.000
+
+  Dep.: 23:25:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+1405.000
+
+------------------------------------
+
+[newtour]
+4
+LWB
+1023
+
+------------------------------------
+
+  Dep.: 5:55:0
+[addtrip]
+E31NL_YT-TW
+0
+355.000
+
+  Dep.: 7:10:0
+[addtrip]
+E31NL_TW-YT
+0
+430.000
+
+  Dep.: 8:25:0
+[addtrip]
+E31NL_YT-TW
+0
+505.000
+
+  Dep.: 9:40:0
+[addtrip]
+E31NL_TW-YT
+0
+580.000
+
+  Dep.: 10:55:0
+[addtrip]
+E31NL_YT-TW
+0
+655.000
+
+  Dep.: 12:10:0
+[addtrip]
+E31NL_TW-YT
+0
+730.000
+
+  Dep.: 13:25:0
+[addtrip]
+E31NL_YT-TW
+0
+805.000
+
+  Dep.: 14:40:0
+[addtrip]
+E31NL_TW-YT
+0
+880.000
+
+  Dep.: 15:55:0
+[addtrip]
+E31NL_YT-TW
+0
+955.000
+
+  Dep.: 17:10:0
+[addtrip]
+E31NL_TW-YT
+0
+1030.000
+
+  Dep.: 18:25:0
+[addtrip]
+E31NL_YT-TW
+0
+1105.000
+
+  Dep.: 19:40:0
+[addtrip]
+E31NL_TW-YT
+0
+1180.000
+
+  Dep.: 20:55:0
+[addtrip]
+E31NL_YT-TW
+0
+1255.000
+
+  Dep.: 22:10:0
+[addtrip]
+E31NL_TW-YT
+0
+1330.000
+
+  Dep.: 23:25:0
+[addtrip]
+E31NL_YT-TW
+0
+1405.000
+
+------------------------------------
+
+[newtour]
+5
+LWB
+1023
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+E31NL_TW-YT
+0
+380.000
+
+  Dep.: 7:35:0
+[addtrip]
+E31NL_YT-TW
+0
+455.000
+
+  Dep.: 8:50:0
+[addtrip]
+E31NL_TW-YT
+0
+530.000
+
+  Dep.: 10:5:0
+[addtrip]
+E31NL_YT-TW
+0
+605.000
+
+  Dep.: 11:20:0
+[addtrip]
+E31NL_TW-YT
+0
+680.000
+
+  Dep.: 12:35:0
+[addtrip]
+E31NL_YT-TW
+0
+755.000
+
+  Dep.: 13:50:0
+[addtrip]
+E31NL_TW-YT
+0
+830.000
+
+  Dep.: 15:5:0
+[addtrip]
+E31NL_YT-TW
+0
+905.000
+
+  Dep.: 16:20:0
+[addtrip]
+E31NL_TW-YT
+0
+980.000
+
+  Dep.: 17:35:0
+[addtrip]
+E31NL_YT-TW
+0
+1055.000
+
+  Dep.: 18:50:0
+[addtrip]
+E31NL_TW-YT
+0
+1130.000
+
+  Dep.: 20:5:0
+[addtrip]
+E31NL_YT-TW
+0
+1205.000
+
+  Dep.: 21:20:0
+[addtrip]
+E31NL_TW-YT
+0
+1280.000
+
+  Dep.: 22:35:0
+[addtrip]
+E31NL_YT-TW
+0
+1355.000
+
+  Dep.: 23:50:0
+[addtrip]
+E31NL_TW-YT
+0
+1430.000
+
+------------------------------------
+
+[newtour]
+6
+LWB
+1023
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+380.000
+
+  Dep.: 7:35:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+455.000
+
+  Dep.: 8:50:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+530.000
+
+  Dep.: 10:5:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+605.000
+
+  Dep.: 11:20:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+680.000
+
+  Dep.: 12:35:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+755.000
+
+  Dep.: 13:50:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+830.000
+
+  Dep.: 15:5:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+905.000
+
+  Dep.: 16:20:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+980.000
+
+  Dep.: 17:35:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+1055.000
+
+  Dep.: 18:50:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+1130.000
+
+  Dep.: 20:5:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+1205.000
+
+  Dep.: 21:20:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+1280.000
+
+  Dep.: 22:35:0
+[addtrip]
+E31NL_TW-YTParkB
+0
+1355.000
+
+  Dep.: 23:50:0
+[addtrip]
+E31NL_YT-TWParkB
+0
+1430.000
+

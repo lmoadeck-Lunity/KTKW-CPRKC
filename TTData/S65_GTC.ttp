@@ -1,0 +1,105 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S65_GTC
+S65_GTC
+S65
+
+.........................
+        Stations
+.........................
+
+[station]
+49672
+0
+Mun Tung Estate S65
+201
+-5.671
+59.263
+59.263
+0.000
+
+[station]
+35603
+16
+Yung Yat House Yat Tung Estate 37
+198
+-1.149
+740.308
+46.975
+0.000
+
+[station]
+9270
+59
+North Lantau Hospital
+196
+-5.077
+1708.645
+41.544
+0.000
+
+[station]
+9244
+90
+LWB Tung Chung Fire Station
+192
+-5.666
+2552.299
+30.836
+0.000
+
+[station]
+28557
+100
+Tung Chung Crescent E31
+187
+-4.813
+2862.516
+29.953
+0.000
+
+[station]
+22643
+146
+Aviation Fuel Tank Farm
+262
+-4.748
+4109.034
+33.651
+2.000
+
+[station]
+24990
+173
+LWB Cathay City
+264
+-1.906
+4774.471
+44.504
+25.000
+
+[station]
+24991
+208
+LWB Cathay City2
+263
+-3.989
+5499.014
+67.463
+2.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+15.000
+

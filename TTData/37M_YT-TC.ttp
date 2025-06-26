@@ -1,0 +1,75 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+37M_YT-TC
+37M_TungChungStation
+37M
+
+.........................
+        Stations
+.........................
+
+[station]
+28493
+0
+Ying Tung Estate 37M
+393
+-1.119
+12.403
+12.403
+0.000
+
+[station]
+28479
+11
+E32A The Visionary
+230
+-5.490
+293.551
+57.571
+0.000
+
+[station]
+28476
+25
+E32A Ying Hei Road
+179
+-1.677
+562.392
+37.212
+0.000
+
+[station]
+9202
+90
+Tung Chung Cable Car Terminal
+187
+-0.984
+2775.046
+49.965
+15.000
+
+[station]
+28537
+105
+Tung Chung Town Centre 
+187
+-1.139
+3125.862
+19.111
+60.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+9.000
+

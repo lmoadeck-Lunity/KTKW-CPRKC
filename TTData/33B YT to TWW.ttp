@@ -1,0 +1,285 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+33B YT to TWW
+33B Tsuen Wan West
+33B
+
+.........................
+        Stations
+.........................
+
+[station]
+1643809
+798
+Yau Tong terminus Start
+620
+2029.964
+5943.150
+-16619.254
+5.000
+
+[station]
+1643811
+798
+Lei Yue Mun Plaza
+620
+2165.550
+5932.033
+-16630.371
+5.000
+
+[station]
+1643813
+798
+Yau Tong Estate (N)
+619
+2333.519
+6185.887
+-16376.518
+5.000
+
+[station]
+1643815
+798
+St. Antonius Girls College (W)
+617
+2457.565
+6451.426
+-16110.979
+5.000
+
+[station]
+1643818
+798
+Lam Tin Station (W)
+614
+0.000
+22562.405
+0.000
+5.000
+
+[station]
+1643827
+798
+Kwun Tong Law Courts
+611
+0.000
+22562.405
+0.000
+5.000
+
+[station]
+1643834
+798
+Tsun Yip Lane
+607
+2531.322
+8469.821
+-14092.583
+5.000
+
+[station]
+1643840
+798
+Millennium City (W)
+604
+2357.084
+8868.627
+-13693.777
+5.000
+
+[station]
+1643847
+798
+Ting Fu Street (W)
+602
+2152.794
+9467.318
+-13095.086
+5.000
+
+[station]
+1643851
+798
+(L) Ngau Tau Kok Estate (W)
+600
+2380.785
+9810.555
+-12751.850
+5.000
+
+[station]
+1643853
+798
+Telford Gardens
+599
+2615.832
+10041.577
+-12520.828
+5.000
+
+[station]
+1643784
+798
+Kowloon Bay Station (W)
+598
+0.000
+22562.405
+0.000
+5.000
+
+[station]
+1643779
+798
+Wong Tai Sin Temple (W)
+576
+0.000
+22562.405
+0.000
+5.000
+
+[station]
+1643780
+798
+Morse Park Swimming Pool
+574
+0.000
+22562.405
+0.000
+5.000
+
+[station]
+1643770
+798
+Phoenix House (W)
+553
+0.000
+22562.405
+0.000
+5.000
+
+[station]
+1643765
+798
+Lung Tak Street (W)
+399
+91.781
+22070.904
+-491.500
+5.000
+
+[station]
+1643757
+798
+Luen Yan Street (N)
+9
+429.111
+22125.632
+-436.772
+5.000
+
+[station]
+45269
+798
+Ham Tin Street
+6
+575.148
+22230.957
+-331.447
+2.000
+
+[station]
+1643863
+798
+Lady Trench Polyclinic (W)
+6
+550.814
+22324.292
+-238.114
+5.000
+
+[station]
+1643861
+798
+Tsuen Wan West drop
+400
+-5.162
+22479.426
+-82.978
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+58.600
+
+[profile_man_arr_time]
+0
+0.050
+[profile_man_arr_time]
+1
+2.300
+[profile_man_arr_time]
+2
+4.500
+[profile_man_arr_time]
+3
+6.000
+[profile_man_arr_time]
+4
+8.300
+[profile_man_arr_time]
+5
+10.200
+[profile_man_arr_time]
+6
+14.500
+[profile_man_arr_time]
+7
+16.500
+[profile_man_arr_time]
+8
+18.450
+[profile_man_arr_time]
+9
+19.500
+[profile_man_arr_time]
+10
+20.550
+[profile_man_arr_time]
+11
+22.000
+[profile_man_arr_time]
+12
+26.000
+[profile_man_arr_time]
+13
+27.250
+[profile_man_arr_time]
+14
+30.500
+[profile_man_arr_time]
+15
+42.250
+[profile_man_arr_time]
+16
+46.000
+[profile_man_arr_time]
+17
+49.600
+[profile_man_arr_time]
+18
+51.200
+[profile_man_arr_time]
+19
+58.500

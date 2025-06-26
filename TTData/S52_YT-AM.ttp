@@ -1,0 +1,155 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S52_YT_AM
+S52_AMA
+S52
+
+.........................
+        Stations
+.........................
+
+[station]
+22790
+0
+CTB Yat Tung Estate
+199
+-1.587
+11.589
+11.589
+0.000
+
+[station]
+9270
+41
+North Lantau Hospital
+196
+-5.077
+454.129
+41.544
+0.000
+
+[station]
+22777
+72
+CTB Tung Chung Fire Station
+192
+-5.509
+1318.489
+51.542
+0.000
+
+[station]
+22772
+82
+CTB Tung Chung Crescent
+187
+-4.762
+1620.115
+42.068
+2.000
+
+[station]
+22756
+109
+CTB Tung Chung MTR Station
+187
+-1.677
+2209.492
+11.985
+5.000
+
+[station]
+22643
+184
+Aviation Fuel Tank Farm
+262
+-4.748
+3889.740
+33.651
+2.000
+
+[station]
+22658
+211
+CTB Cathay City
+264
+-1.894
+4546.134
+35.461
+25.000
+
+[station]
+22693
+238
+Chun Wan Road South
+273
+-3.943
+5294.518
+42.021
+150.000
+
+[station]
+22726
+252
+Airport Freight Forwarding Centre
+283
+-4.393
+5673.211
+44.544
+18.000
+
+[station]
+23838
+279
+Asia Airfreight Terminal
+287
+-4.749
+6558.077
+22.908
+20.000
+
+[station]
+23825
+306
+DHL's Central Asia Hub
+348
+-1.221
+7267.243
+160.855
+20.000
+
+[station]
+23819
+327
+Government Flying Services
+350
+-4.857
+7960.879
+26.890
+5.000
+
+[station]
+23803
+372
+Aircraft Maintenance Area End
+360
+-4.673
+10821.114
+-4.055
+40.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+22.000
+

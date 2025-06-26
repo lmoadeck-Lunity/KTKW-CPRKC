@@ -1,0 +1,285 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+33B TWW to YT
+33B Yau Tong
+33B
+
+.........................
+        Stations
+.........................
+
+[station]
+1643718
+910
+Tsuen Wan West 33 Start
+400
+-2362.175
+6591.539
+-16602.246
+0.000
+
+[station]
+49754
+910
+Lady Trench Polyclinic 235
+8
+-2842.365
+6936.621
+-16257.164
+1.000
+
+[station]
+1643860
+910
+Ham Tin Street (E)
+6
+-2842.051
+7096.100
+-16097.685
+5.000
+
+[station]
+1643754
+910
+Luen Yan Street (S)
+9
+-2685.954
+7196.770
+-15997.016
+5.000
+
+[station]
+1643760
+910
+Ma Tau Pa Road
+9
+-2534.800
+7105.334
+-16088.451
+5.000
+
+[station]
+1643761
+910
+Lung Tak Street (E)
+399
+-2324.091
+7141.439
+-16052.346
+5.000
+
+[station]
+1643766
+910
+Beacon Heights (E)
+549
+-2451.120
+13939.542
+-9254.243
+5.000
+
+[station]
+1643769
+910
+Phoenix House (E)
+553
+0.000
+23193.785
+0.000
+5.000
+
+[station]
+1643775
+910
+Wong Tai Sin Temple (E)
+574
+-2608.276
+16373.907
+-6819.878
+5.000
+
+[station]
+1643776
+910
+Shatin Pass Road (E)
+576
+-2778.621
+16979.112
+-6214.674
+5.000
+
+[station]
+1643782
+910
+Kowloon Bay Station (E)
+598
+0.000
+23193.785
+0.000
+5.000
+
+[station]
+1643787
+910
+(L) Ngau Tau Kok Estate (E)
+599
+-1439.125
+19532.212
+-3661.572
+5.000
+
+[station]
+1643788
+910
+Kwun Tong Road SOA
+600
+-1153.282
+19717.992
+-3475.794
+5.000
+
+[station]
+1643791
+910
+Millennium City (E)
+606
+-1115.899
+20503.490
+-2690.295
+5.000
+
+[station]
+1643795
+910
+ Kwun Tong Town Centre
+607
+-1165.387
+20835.500
+-2358.285
+5.000
+
+[station]
+1643798
+910
+Kwun Tong Swimming Pool
+610
+-1133.484
+21551.897
+-1641.889
+5.000
+
+[station]
+1643821
+910
+Lam Tin Station (E)
+613
+-908.891
+22241.770
+-952.015
+5.000
+
+[station]
+1643803
+910
+St. Antonius Girls College (E)
+618
+-537.178
+22873.194
+-320.591
+5.000
+
+[station]
+1643805
+910
+Yau Tong Estate (S)
+619
+-261.231
+23154.706
+-39.079
+5.000
+
+[station]
+1643810
+910
+Yau Tong terminus End
+620
+-1.213
+23200.085
+6.300
+5.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+51.000
+
+[profile_man_arr_time]
+0
+0.060
+[profile_man_arr_time]
+1
+6.500
+[profile_man_arr_time]
+2
+8.500
+[profile_man_arr_time]
+3
+11.000
+[profile_man_arr_time]
+4
+13.000
+[profile_man_arr_time]
+5
+16.000
+[profile_man_arr_time]
+6
+25.500
+[profile_man_arr_time]
+7
+26.500
+[profile_man_arr_time]
+8
+29.000
+[profile_man_arr_time]
+9
+31.600
+[profile_man_arr_time]
+10
+35.500
+[profile_man_arr_time]
+11
+36.500
+[profile_man_arr_time]
+12
+37.200
+[profile_man_arr_time]
+13
+39.900
+[profile_man_arr_time]
+14
+40.500
+[profile_man_arr_time]
+15
+42.500
+[profile_man_arr_time]
+16
+45.000
+[profile_man_arr_time]
+17
+46.500
+[profile_man_arr_time]
+18
+48.300
+[profile_man_arr_time]
+19
+50.820

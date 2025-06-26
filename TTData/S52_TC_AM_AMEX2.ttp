@@ -1,0 +1,79 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S52_TC_AM_AMEX2
+S52_AMA_AM
+S52
+
+.........................
+        Stations
+.........................
+
+[station]
+22772
+0
+CTB Tung Chung Crescent
+187
+-4.762
+42.068
+42.068
+2.000
+
+[station]
+22756
+13
+CTB Tung Chung MTR Station
+187
+133.744
+488.713
+265.503
+5.000
+
+[station]
+23825
+13
+DHL's Central Asia Hub
+348
+-2091.135
+0.000
+-925.003
+20.000
+
+[station]
+23819
+13
+Government Flying Services
+350
+-2574.174
+0.000
+-1451.289
+5.000
+
+[station]
+23803
+13
+Aircraft Maintenance Area End
+360
+-4102.813
+0.000
+-1741.550
+40.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+12.000
+
+[profile]
+standard1
+12.000
+

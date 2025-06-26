@@ -1,0 +1,39 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E32A_KF-TD_P
+
+
+
+.........................
+        Stations
+.........................
+
+[station]
+25325
+457
+Tung Chung Development Pier End E32A
+207
+-1.600
+24642.093
+5.755
+2.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+30.000
+
+[profile]
+Fast
+20.000
+

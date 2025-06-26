@@ -1,0 +1,395 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+30_AG12
+30_Allway Gardens
+30
+
+.........................
+        Stations
+.........................
+
+[station]
+45368
+0
+Cheung Sha Wan
+459
+-1.357
+14.839
+14.839
+0.000
+
+[station]
+45365
+46
+Mei Foo Station
+453
+-3.773
+1139.291
+11.131
+0.000
+
+[station]
+45363
+60
+Nassau Street
+451
+-4.418
+1510.532
+93.402
+0.000
+
+[station]
+45359
+83
+Lai Wan Road
+448
+-8.306
+1867.008
+20.098
+0.000
+
+[station]
+45356
+107
+Kau Wa Keng
+449
+-6.970
+2382.430
+33.829
+0.000
+
+[station]
+45353
+124
+Lai Chi Kok Bay Garden
+448
+-5.725
+2712.061
+5.959
+0.000
+
+[station]
+45351
+128
+Ching Lai Commercial Centre
+445
+-5.245
+2823.880
+64.219
+0.000
+
+[station]
+45348
+136
+Ching Lai Court
+445
+-5.029
+2974.657
+34.495
+0.000
+
+[station]
+45343
+146
+Princess Margaret Hospital
+442
+-6.075
+3264.303
+29.141
+5.000
+
+[station]
+45339
+164
+Kwai Chung Hospital
+439
+-1.908
+3738.297
+44.483
+1.000
+
+[station]
+49919
+175
+Lok King House Lai King Estate
+438
+-2.319
+4028.416
+18.152
+5.000
+
+[station]
+45332
+187
+Lai King Station
+437
+-6.166
+4452.705
+28.441
+5.000
+
+[station]
+45328
+195
+Yat King House
+433
+-2.749
+4720.196
+58.432
+2.000
+
+[station]
+45314
+212
+Ha Kwai Chung Polyclinic
+432
+-2.841
+5068.640
+44.827
+5.000
+
+[station]
+45319
+230
+Wing Yiu House
+434
+-3.017
+5716.615
+28.702
+7.000
+
+[station]
+45325
+238
+Lai Yiu Bus Terminus
+435
+-1.337
+5949.781
+21.151
+7.000
+
+[station]
+45320
+250
+Wing Yiu House
+430
+-2.935
+6271.835
+21.087
+0.000
+
+[station]
+45315
+265
+Ha Kwai Chung Polyclinic
+432
+-3.010
+6789.947
+29.199
+0.000
+
+[station]
+45311
+321
+Kwai Fong Station
+255
+-1.459
+8006.323
+19.924
+5.000
+
+[station]
+45304
+340
+Che Fong Street
+253
+-1.479
+8401.374
+80.085
+7.000
+
+[station]
+45296
+347
+Osman Ramju Sadick Memorial Sports Centre
+253
+-1.054
+8618.485
+74.696
+2.000
+
+[station]
+45378
+365
+Kwai Hing Station
+252
+-1.062
+8959.670
+7.987
+3.000
+
+[station]
+45388
+376
+Kwai Hing Estate Kwai Hing Road
+250
+-2.875
+9310.083
+34.800
+3.000
+
+[station]
+45283
+399
+Kwong Fai Circuit
+248
+-1.421
+9659.215
+23.100
+4.000
+
+[station]
+45280
+422
+Kin Chuen Street 30
+242
+-1.363
+10332.896
+6.042
+1.000
+
+[station]
+45278
+436
+Tai Wo Hau Station 30
+13
+-5.544
+10923.286
+56.432
+2.000
+
+[station]
+45273
+467
+Panda Hotel 30
+11
+-5.337
+11463.756
+16.690
+5.000
+
+[station]
+45269
+482
+Ham Tin Street
+6
+-1.421
+11956.698
+18.503
+2.000
+
+[station]
+45270
+491
+Lady Trench Polyclinic
+8
+-1.490
+12120.629
+13.433
+5.000
+
+[station]
+45271
+522
+Fu Wah Street 30
+5
+-1.536
+12751.334
+21.719
+5.000
+
+[station]
+15764
+532
+Wing Hong House Fuk Loi Estate
+2
+-1.515
+13076.815
+56.199
+0.000
+
+[station]
+45251
+550
+Mei Wan Street
+0
+-1.714
+13612.391
+22.674
+2.000
+
+[station]
+45246
+561
+Tsuen King Garden 30
+237
+-3.004
+13805.739
+3.321
+5.000
+
+[station]
+45247
+569
+Tsuen Wan Centre 30
+237
+-6.212
+13949.211
+21.995
+6.000
+
+[station]
+45248
+590
+Church of the Annunciation 30
+239
+-1.437
+14287.180
+30.414
+2.000
+
+[station]
+45249
+599
+Tsuen Wan Adventist Hospital 30
+239
+-1.490
+14461.378
+30.862
+2.000
+
+[station]
+45239
+607
+Allway Gardens B/T End
+239
+-0.933
+14703.553
+13.556
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+50.000
+

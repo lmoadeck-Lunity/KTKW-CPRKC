@@ -1,0 +1,265 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E32AN_TD-KF
+E32A_Kwai Fong (South)
+E32A
+
+.........................
+        Stations
+.........................
+
+[station]
+28557
+52
+Tung Chung Crescent E31
+187
+-4.813
+1009.918
+29.953
+0.000
+
+[station]
+25324
+104
+Tung Chung Development Pier E32A
+207
+-1.581
+2192.135
+14.340
+0.000
+
+[station]
+25913
+126
+E32A Seaview Crescent
+208
+-1.443
+2696.760
+70.205
+0.000
+
+[station]
+26193
+141
+E32A Coastal Skyline
+388
+-5.725
+3146.030
+42.924
+0.000
+
+[station]
+26480
+150
+E32A Caribbean Coast Phase 2
+179
+-5.647
+3553.781
+47.676
+0.000
+
+[station]
+28474
+160
+E32A Caribbean Coast Phase 1
+179
+-5.448
+3848.693
+15.368
+0.000
+
+[station]
+28509
+207
+E32A Ying Tung Estate Go
+393
+-1.493
+4687.528
+23.042
+0.000
+
+[station]
+28479
+217
+E32A The Visionary
+230
+-5.490
+4934.787
+57.571
+0.000
+
+[station]
+28476
+231
+E32A Ying Hei Road
+179
+-1.677
+5253.629
+37.212
+0.000
+
+[station]
+32415
+591
+Clague Garden Estate
+397
+-5.074
+25869.308
+13.362
+3.000
+
+[station]
+32419
+606
+Fuk Loi Estate Tai Chung Rd.
+3
+-5.286
+26135.759
+28.872
+2.000
+
+[station]
+32423
+618
+E32A Discovery Park
+0
+-5.185
+26471.225
+34.515
+5.000
+
+[station]
+32424
+640
+Tsuen Wan Station E32A
+5
+-5.047
+26950.490
+51.182
+10.000
+
+[station]
+32426
+661
+Tai Ho Road E32A
+6
+-4.988
+27482.547
+27.018
+10.000
+
+[station]
+32432
+681
+E32A Chuen Lung Street
+6
+-1.485
+27779.873
+53.482
+10.000
+
+[station]
+32436
+689
+E32A Bo Shek Mansion
+9
+-1.533
+27963.470
+50.080
+8.000
+
+[station]
+32439
+702
+New Haven E32A
+10
+-1.501
+28223.891
+47.860
+2.000
+
+[station]
+21258
+771
+E32A Tai Wo Hau Station
+13
+-4.930
+29412.317
+37.766
+10.000
+
+[station]
+20918
+794
+Kwai Chung Public School
+243
+-4.843
+30281.471
+18.422
+2.000
+
+[station]
+20953
+828
+Kwai Chun Court
+249
+-1.507
+31355.553
+37.979
+10.000
+
+[station]
+20961
+836
+Sun Kwai Hing Gardens
+251
+-1.737
+31642.347
+4.772
+5.000
+
+[station]
+21010
+886
+Metroplaza
+255
+-4.921
+32767.213
+2.162
+10.000
+
+[station]
+21018
+898
+Kwai Tsing Theatre
+259
+-1.381
+32981.085
+20.857
+3.000
+
+[station]
+46906
+921
+Kwai Fong (South) End
+259
+0.433
+33448.996
+26.053
+3.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+55.000
+

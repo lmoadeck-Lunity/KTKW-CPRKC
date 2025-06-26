@@ -1,0 +1,85 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+39M_MT-TC
+39M_Tung Chung Station
+39M
+
+.........................
+        Stations
+.........................
+
+[station]
+9247
+0
+Mun Tung Estate
+201
+-5.729
+37.756
+37.756
+0.000
+
+[station]
+9262
+12
+Fuk Yat House Yat Tung Estate
+201
+-0.244
+378.114
+4.781
+0.000
+
+[station]
+9265
+18
+Yung Yat House Yat Tung Estate
+198
+-1.114
+883.043
+49.710
+0.000
+
+[station]
+9245
+55
+38 Tung Chung Fire Station
+192
+-5.669
+2030.466
+32.243
+8.000
+
+[station]
+9202
+79
+Tung Chung Cable Car Terminal
+187
+-0.984
+2606.598
+49.965
+15.000
+
+[station]
+9204
+93
+Tung Chung Town Centre End
+187
+-1.412
+2971.309
+2.095
+50.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+8.000
+

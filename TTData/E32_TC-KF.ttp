@@ -1,0 +1,155 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E32_TC-KF
+E32_Kwai Fong (South)
+E32
+
+.........................
+        Stations
+.........................
+
+[station]
+9198
+15
+Tung Chung Cable Car Terminal
+187
+-6.132
+316.718
+18.508
+0.000
+
+[station]
+9229
+48
+Fu Tung Plaza
+186
+-4.704
+942.186
+0.536
+0.000
+
+[station]
+9238
+68
+LWB Yu Tung Court go
+192
+-4.851
+1316.056
+25.296
+0.000
+
+[station]
+9187
+352
+Ching Wah Court
+44
+-1.465
+18625.765
+-2.163
+12.000
+
+[station]
+9179
+371
+Cheung Hang Estate
+41
+-1.536
+19240.847
+20.811
+12.000
+
+[station]
+9178
+424
+Cheung On 
+33
+-2.030
+20546.098
+39.354
+15.000
+
+[station]
+21258
+564
+E32A Tai Wo Hau Station
+13
+-4.930
+24147.720
+37.766
+10.000
+
+[station]
+20918
+588
+Kwai Chung Public School
+243
+-4.843
+25023.876
+18.422
+2.000
+
+[station]
+20953
+620
+Kwai Chun Court
+249
+-1.507
+26011.760
+37.979
+10.000
+
+[station]
+20961
+629
+Sun Kwai Hing Gardens
+251
+-1.552
+26299.976
+-2.735
+5.000
+
+[station]
+21010
+678
+Metroplaza
+255
+-4.921
+27485.418
+2.162
+10.000
+
+[station]
+21018
+690
+Kwai Tsing Theatre
+259
+-1.381
+27699.294
+20.857
+3.000
+
+[station]
+21023
+712
+Kwai Fong (South) End
+259
+-1.102
+28148.551
+30.824
+3.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+45.000
+

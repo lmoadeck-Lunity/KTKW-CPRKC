@@ -1,0 +1,245 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E31NL_YT-TW
+E31_Tsuen Wan
+E31
+
+.........................
+        Stations
+.........................
+
+[station]
+9288
+19
+E31 Yat Tung Estate
+197
+-1.336
+217.589
+9.199
+0.000
+
+[station]
+9270
+52
+North Lantau Hospital
+196
+-5.077
+601.150
+41.544
+0.000
+
+[station]
+9244
+83
+LWB Tung Chung Fire Station
+192
+-5.666
+1444.804
+30.836
+0.000
+
+[station]
+9198
+108
+Tung Chung Cable Car Terminal
+187
+-6.132
+2016.786
+18.508
+0.000
+
+[station]
+9229
+138
+Fu Tung Plaza
+186
+-4.704
+2649.544
+0.536
+0.000
+
+[station]
+28557
+162
+Tung Chung Crescent E31
+187
+-4.813
+3239.398
+29.953
+0.000
+
+[station]
+40103
+212
+Tung Chung Development Pier E31
+207
+-0.678
+4402.969
+10.694
+0.000
+
+[station]
+25913
+230
+E32A Seaview Crescent
+208
+-1.443
+4924.060
+70.205
+0.000
+
+[station]
+26193
+245
+E32A Coastal Skyline
+388
+-5.725
+5373.328
+42.924
+0.000
+
+[station]
+26480
+254
+E32A Caribbean Coast Phase 2
+179
+-5.647
+5781.080
+47.676
+0.000
+
+[station]
+28474
+264
+E32A Caribbean Coast Phase 1
+179
+-5.448
+6075.993
+15.368
+0.000
+
+[station]
+28509
+312
+E32A Ying Tung Estate Go
+393
+-1.493
+6949.355
+16.750
+0.000
+
+[station]
+28479
+321
+E32A The Visionary
+230
+-5.490
+7198.486
+57.571
+0.000
+
+[station]
+28476
+335
+E32A Ying Hei Road
+179
+-1.677
+7517.327
+37.212
+0.000
+
+[station]
+9187
+600
+Ching Wah Court
+44
+-1.465
+24695.327
+-2.163
+12.000
+
+[station]
+9179
+619
+Cheung Hang Estate
+41
+-1.536
+25310.409
+20.811
+12.000
+
+[station]
+9178
+672
+Cheung On 
+33
+-2.030
+26615.658
+39.354
+15.000
+
+[station]
+9165
+811
+E31 Panda Hotel
+11
+-5.349
+30166.823
+1.508
+15.000
+
+[station]
+9159
+821
+E31 Bo Shek Mansion
+9
+-1.523
+30488.695
+30.577
+15.000
+
+[station]
+9154
+829
+E31 Chuen Lung Street
+6
+-1.497
+30747.283
+34.165
+20.000
+
+[station]
+9145
+865
+E31 Fu Wah Street
+5
+-1.534
+31452.908
+24.370
+15.000
+
+[station]
+9139
+903
+Discovery Park End
+0
+-1.076
+32482.432
+3.916
+15.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+65.000
+

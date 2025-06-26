@@ -1,0 +1,215 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S52A_SC_AM
+S52A_AMA
+S52A
+
+.........................
+        Stations
+.........................
+
+[station]
+28701
+0
+Seaview Crescent S52A
+208
+-1.510
+58.322
+58.322
+0.000
+
+[station]
+28700
+15
+Coastal Skyline S52A
+388
+-5.762
+443.842
+27.292
+0.000
+
+[station]
+28703
+24
+Caribbean Coast Phase 2 S52A
+178
+-5.585
+846.582
+27.032
+0.000
+
+[station]
+28471
+33
+Caribbean Coast Phase 1 S52A
+179
+-5.434
+1136.261
+14.491
+0.000
+
+[station]
+28484
+51
+The Visionary S52A
+230
+-5.485
+1528.841
+44.891
+0.000
+
+[station]
+28487
+62
+Ying Tung Estate
+393
+-1.495
+1791.165
+9.525
+0.000
+
+[station]
+28479
+92
+E32A The Visionary
+230
+-5.490
+2284.061
+57.571
+0.000
+
+[station]
+28715
+106
+Ying Hei Road S52A
+179
+-1.617
+2615.427
+49.737
+0.000
+
+[station]
+22777
+180
+CTB Tung Chung Fire Station
+192
+-5.509
+4766.375
+51.542
+0.000
+
+[station]
+28557
+190
+Tung Chung Crescent E31
+187
+-4.813
+5055.887
+29.953
+0.000
+
+[station]
+22756
+217
+CTB Tung Chung MTR Station
+187
+-1.677
+5657.378
+11.985
+5.000
+
+[station]
+22643
+292
+Aviation Fuel Tank Farm
+262
+-4.748
+7337.627
+33.651
+2.000
+
+[station]
+22658
+319
+CTB Cathay City
+264
+-1.894
+7994.021
+35.461
+25.000
+
+[station]
+22693
+346
+Chun Wan Road South
+273
+-3.943
+8742.405
+42.021
+150.000
+
+[station]
+22726
+360
+Airport Freight Forwarding Centre
+283
+-4.393
+9121.098
+44.544
+18.000
+
+[station]
+23838
+387
+Asia Airfreight Terminal
+287
+-4.749
+10005.965
+22.908
+20.000
+
+[station]
+23825
+414
+DHL's Central Asia Hub
+348
+-1.221
+10715.131
+160.855
+20.000
+
+[station]
+23819
+435
+Government Flying Services
+350
+-4.857
+11408.765
+26.890
+5.000
+
+[station]
+23803
+480
+Aircraft Maintenance Area End
+360
+-4.673
+14269.001
+-4.055
+40.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+27.000
+

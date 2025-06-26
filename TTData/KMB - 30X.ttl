@@ -1,0 +1,725 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+KMB 30X
+1023
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+30X_AG-WG
+0
+360.000
+
+  Dep.: 7:20:0
+[addtrip]
+30X_WG-AG
+0
+440.000
+
+  Dep.: 8:40:0
+[addtrip]
+30X_AG-WG
+0
+520.000
+
+  Dep.: 10:0:0
+[addtrip]
+30X_WG-AG
+0
+600.000
+
+  Dep.: 11:20:0
+[addtrip]
+30X_AG-WG
+0
+680.000
+
+  Dep.: 12:40:0
+[addtrip]
+30X_WG-AG
+0
+760.000
+
+  Dep.: 14:0:0
+[addtrip]
+30X_AG-WG
+0
+840.000
+
+  Dep.: 15:20:0
+[addtrip]
+30X_WG-AG
+0
+920.000
+
+  Dep.: 16:40:0
+[addtrip]
+30X_AG-WG
+0
+1000.000
+
+  Dep.: 18:0:0
+[addtrip]
+30X_WG-AG
+0
+1080.000
+
+  Dep.: 19:20:0
+[addtrip]
+30X_AG-WG
+0
+1160.000
+
+  Dep.: 20:40:0
+[addtrip]
+30X_WG-AG
+0
+1240.000
+
+  Dep.: 22:0:0
+[addtrip]
+30X_AG-WG
+0
+1320.000
+
+  Dep.: 23:20:0
+[addtrip]
+30X_WG-AG
+0
+1400.000
+
+------------------------------------
+
+[newtour]
+2
+KMB 30X
+1023
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+30X_AG-WG
+0
+380.000
+
+  Dep.: 7:40:0
+[addtrip]
+30X_WG-AG
+0
+460.000
+
+  Dep.: 9:0:0
+[addtrip]
+30X_AG-WG
+0
+540.000
+
+  Dep.: 10:20:0
+[addtrip]
+30X_WG-AG
+0
+620.000
+
+  Dep.: 11:40:0
+[addtrip]
+30X_AG-WG
+0
+700.000
+
+  Dep.: 13:0:0
+[addtrip]
+30X_WG-AG
+0
+780.000
+
+  Dep.: 14:20:0
+[addtrip]
+30X_AG-WG
+0
+860.000
+
+  Dep.: 15:40:0
+[addtrip]
+30X_WG-AG
+0
+940.000
+
+  Dep.: 17:0:0
+[addtrip]
+30X_AG-WG
+0
+1020.000
+
+  Dep.: 18:20:0
+[addtrip]
+30X_WG-AG
+0
+1100.000
+
+  Dep.: 19:40:0
+[addtrip]
+30X_AG-WG
+0
+1180.000
+
+  Dep.: 21:0:0
+[addtrip]
+30X_WG-AG
+0
+1260.000
+
+  Dep.: 22:20:0
+[addtrip]
+30X_AG-WG
+0
+1340.000
+
+  Dep.: 23:40:0
+[addtrip]
+30X_WG-AG
+0
+1420.000
+
+------------------------------------
+
+[newtour]
+3
+KMB 30X
+1023
+
+------------------------------------
+
+  Dep.: 6:40:0
+[addtrip]
+30X_AG-WG
+0
+400.000
+
+  Dep.: 8:0:0
+[addtrip]
+30X_WG-AG
+0
+480.000
+
+  Dep.: 9:20:0
+[addtrip]
+30X_AG-WG
+0
+560.000
+
+  Dep.: 10:40:0
+[addtrip]
+30X_WG-AG
+0
+640.000
+
+  Dep.: 12:0:0
+[addtrip]
+30X_AG-WG
+0
+720.000
+
+  Dep.: 13:20:0
+[addtrip]
+30X_WG-AG
+0
+800.000
+
+  Dep.: 14:40:0
+[addtrip]
+30X_AG-WG
+0
+880.000
+
+  Dep.: 16:0:0
+[addtrip]
+30X_WG-AG
+0
+960.000
+
+  Dep.: 17:20:0
+[addtrip]
+30X_AG-WG
+0
+1040.000
+
+  Dep.: 18:40:0
+[addtrip]
+30X_WG-AG
+0
+1120.000
+
+  Dep.: 20:0:0
+[addtrip]
+30X_AG-WG
+0
+1200.000
+
+  Dep.: 21:20:0
+[addtrip]
+30X_WG-AG
+0
+1280.000
+
+  Dep.: 22:40:0
+[addtrip]
+30X_AG-WG
+0
+1360.000
+
+  Dep.: 24:0:0
+[addtrip]
+30X_WG-AG
+0
+1440.000
+
+------------------------------------
+
+[newtour]
+4
+KMB 30X
+1023
+
+------------------------------------
+
+  Dep.: 6:40:0
+[addtrip]
+30X_WG-AG
+0
+400.000
+
+  Dep.: 8:0:0
+[addtrip]
+30X_AG-WG
+0
+480.000
+
+  Dep.: 9:20:0
+[addtrip]
+30X_WG-AG
+0
+560.000
+
+  Dep.: 10:40:0
+[addtrip]
+30X_AG-WG
+0
+640.000
+
+  Dep.: 12:0:0
+[addtrip]
+30X_WG-AG
+0
+720.000
+
+  Dep.: 13:20:0
+[addtrip]
+30X_AG-WG
+0
+800.000
+
+  Dep.: 14:40:0
+[addtrip]
+30X_WG-AG
+0
+880.000
+
+  Dep.: 16:0:0
+[addtrip]
+30X_AG-WG
+0
+960.000
+
+  Dep.: 17:20:0
+[addtrip]
+30X_WG-AG
+0
+1040.000
+
+  Dep.: 18:40:0
+[addtrip]
+30X_AG-WG
+0
+1120.000
+
+  Dep.: 20:0:0
+[addtrip]
+30X_WG-AG
+0
+1200.000
+
+  Dep.: 21:20:0
+[addtrip]
+30X_AG-WG
+0
+1280.000
+
+  Dep.: 22:40:0
+[addtrip]
+30X_WG-AG
+0
+1360.000
+
+------------------------------------
+
+[newtour]
+5
+KMB 30X
+1023
+
+------------------------------------
+
+  Dep.: 7:20:0
+[addtrip]
+30X_AG-WG
+0
+440.000
+
+  Dep.: 8:40:0
+[addtrip]
+30X_WG-AG
+0
+520.000
+
+  Dep.: 10:0:0
+[addtrip]
+30X_AG-WG
+0
+600.000
+
+  Dep.: 11:20:0
+[addtrip]
+30X_WG-AG
+0
+680.000
+
+  Dep.: 12:40:0
+[addtrip]
+30X_AG-WG
+0
+760.000
+
+  Dep.: 14:0:0
+[addtrip]
+30X_WG-AG
+0
+840.000
+
+  Dep.: 15:20:0
+[addtrip]
+30X_AG-WG
+0
+920.000
+
+  Dep.: 16:40:0
+[addtrip]
+30X_WG-AG
+0
+1000.000
+
+  Dep.: 18:0:0
+[addtrip]
+30X_AG-WG
+0
+1080.000
+
+  Dep.: 19:20:0
+[addtrip]
+30X_WG-AG
+0
+1160.000
+
+  Dep.: 20:40:0
+[addtrip]
+30X_AG-WG
+0
+1240.000
+
+  Dep.: 22:0:0
+[addtrip]
+30X_WG-AG
+0
+1320.000
+
+  Dep.: 23:20:0
+[addtrip]
+30X_AG-WG
+0
+1400.000
+
+------------------------------------
+
+[newtour]
+6
+KMB 30X
+1023
+
+------------------------------------
+
+  Dep.: 7:40:0
+[addtrip]
+30X_AG-WG
+0
+460.000
+
+  Dep.: 9:0:0
+[addtrip]
+30X_WG-AG
+0
+540.000
+
+  Dep.: 10:20:0
+[addtrip]
+30X_AG-WG
+0
+620.000
+
+  Dep.: 11:40:0
+[addtrip]
+30X_WG-AG
+0
+700.000
+
+  Dep.: 13:0:0
+[addtrip]
+30X_AG-WG
+0
+780.000
+
+  Dep.: 14:20:0
+[addtrip]
+30X_WG-AG
+0
+860.000
+
+  Dep.: 15:40:0
+[addtrip]
+30X_AG-WG
+0
+940.000
+
+  Dep.: 17:0:0
+[addtrip]
+30X_WG-AG
+0
+1020.000
+
+  Dep.: 18:20:0
+[addtrip]
+30X_AG-WG
+0
+1100.000
+
+  Dep.: 19:40:0
+[addtrip]
+30X_WG-AG
+0
+1180.000
+
+  Dep.: 21:0:0
+[addtrip]
+30X_AG-WG
+0
+1260.000
+
+  Dep.: 22:20:0
+[addtrip]
+30X_WG-AG
+0
+1340.000
+
+  Dep.: 23:40:0
+[addtrip]
+30X_AG-WG
+0
+1420.000
+
+------------------------------------
+
+[newtour]
+7
+KMB 30X
+1023
+
+------------------------------------
+
+  Dep.: 7:0:0
+[addtrip]
+30X_AG-WG
+0
+420.000
+
+  Dep.: 8:20:0
+[addtrip]
+30X_WG-AG
+0
+500.000
+
+  Dep.: 9:40:0
+[addtrip]
+30X_AG-WG
+0
+580.000
+
+  Dep.: 11:0:0
+[addtrip]
+30X_WG-AG
+0
+660.000
+
+  Dep.: 12:20:0
+[addtrip]
+30X_AG-WG
+0
+740.000
+
+  Dep.: 13:40:0
+[addtrip]
+30X_WG-AG
+0
+820.000
+
+  Dep.: 15:0:0
+[addtrip]
+30X_AG-WG
+0
+900.000
+
+  Dep.: 16:20:0
+[addtrip]
+30X_WG-AG
+0
+980.000
+
+  Dep.: 17:40:0
+[addtrip]
+30X_AG-WG
+0
+1060.000
+
+  Dep.: 19:0:0
+[addtrip]
+30X_WG-AG
+0
+1140.000
+
+  Dep.: 20:20:0
+[addtrip]
+30X_AG-WG
+0
+1220.000
+
+  Dep.: 21:40:0
+[addtrip]
+30X_WG-AG
+0
+1300.000
+
+  Dep.: 23:0:0
+[addtrip]
+30X_AG-WG
+0
+1380.000
+
+------------------------------------
+
+[newtour]
+8
+KMB 30X
+1023
+
+------------------------------------
+
+  Dep.: 7:0:0
+[addtrip]
+30X_WG-AG
+0
+420.000
+
+  Dep.: 8:20:0
+[addtrip]
+30X_AG-WG
+0
+500.000
+
+  Dep.: 9:40:0
+[addtrip]
+30X_WG-AG
+0
+580.000
+
+  Dep.: 11:0:0
+[addtrip]
+30X_AG-WG
+0
+660.000
+
+  Dep.: 12:20:0
+[addtrip]
+30X_WG-AG
+0
+740.000
+
+  Dep.: 13:40:0
+[addtrip]
+30X_AG-WG
+0
+820.000
+
+  Dep.: 15:0:0
+[addtrip]
+30X_WG-AG
+0
+900.000
+
+  Dep.: 16:20:0
+[addtrip]
+30X_AG-WG
+0
+980.000
+
+  Dep.: 17:40:0
+[addtrip]
+30X_WG-AG
+0
+1060.000
+
+  Dep.: 19:0:0
+[addtrip]
+30X_AG-WG
+0
+1140.000
+
+  Dep.: 20:20:0
+[addtrip]
+30X_WG-AG
+0
+1220.000
+
+  Dep.: 21:40:0
+[addtrip]
+30X_AG-WG
+0
+1300.000
+
+  Dep.: 23:0:0
+[addtrip]
+30X_WG-AG
+0
+1380.000
+

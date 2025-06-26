@@ -1,0 +1,175 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+S64_YT
+S64_YT
+S64
+
+.........................
+        Stations
+.........................
+
+[station]
+24990
+28
+LWB Cathay City
+264
+-1.906
+488.879
+44.504
+25.000
+
+[station]
+22693
+57
+Chun Wan Road South
+273
+-3.943
+1256.220
+42.021
+150.000
+
+[station]
+22687
+88
+HACTL
+273
+-4.194
+1838.417
+49.898
+0.000
+
+[station]
+24796
+109
+Air Mail Centre
+281
+-5.455
+2496.233
+10.804
+8.000
+
+[station]
+24797
+118
+Airport Police Station
+281
+-5.414
+2802.389
+12.166
+15.000
+
+[station]
+24873
+132
+Chek Lap Kok Fire Station
+270
+-4.804
+3246.535
+34.392
+5.000
+
+[station]
+24870
+143
+Cathay Pacific Catering Service
+280
+-1.242
+3573.266
+16.582
+9.000
+
+[station]
+49676
+169
+LWB Cathay City
+263
+-4.449
+4138.227
+25.834
+0.000
+
+[station]
+22642
+193
+Aviation Fuel Tank Farm
+262
+-4.856
+4723.117
+32.963
+2.000
+
+[station]
+24904
+259
+Tung Chung MTR Station B
+187
+-0.137
+6420.965
+11.332
+30.000
+
+[station]
+22775
+298
+Tung Chung Crescent
+187
+-4.792
+7106.651
+40.054
+2.000
+
+[station]
+9234
+307
+CTB Yu Tung Court
+192
+-4.963
+7354.259
+8.162
+10.000
+
+[station]
+9276
+334
+Mei Yat House, Yat Tung Estate
+196
+-5.190
+8321.243
+4.720
+25.000
+
+[station]
+9277
+347
+Kui Yat House Yat Tung Estate
+197
+-1.523
+8689.296
+9.053
+25.000
+
+[station]
+24884
+362
+S64C Yat Tung Estate End
+197
+-1.637
+8952.811
+1.947
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+20.000
+

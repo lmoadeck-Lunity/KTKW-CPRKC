@@ -1,0 +1,285 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E31NL_TW-YT
+E31_Yat Tung
+E31
+
+.........................
+        Stations
+.........................
+
+[station]
+9137
+1
+Discovery Park
+0
+-0.914
+8.519
+8.519
+0.000
+
+[station]
+9142
+28
+E31 Tsuen Wan Station
+5
+-5.048
+683.695
+52.085
+0.000
+
+[station]
+9146
+51
+E31 Tai Ho Road
+6
+-4.899
+1331.207
+28.380
+0.000
+
+[station]
+9150
+71
+Chuen Lung Street E31
+6
+-1.498
+1628.268
+54.581
+0.000
+
+[station]
+9155
+79
+Bo Shek Mansion E31
+9
+-1.544
+1811.515
+50.828
+0.000
+
+[station]
+9162
+92
+New Haven
+10
+-1.498
+2072.611
+49.284
+0.000
+
+[station]
+9166
+106
+Tsuen Fu Street Garden
+10
+-1.443
+2365.949
+3.172
+0.000
+
+[station]
+9170
+132
+E31 Tai Wo Hau Station
+13
+-4.961
+2892.057
+24.559
+0.000
+
+[station]
+9177
+269
+Cheung On 
+33
+-2.527
+6615.588
+16.362
+0.000
+
+[station]
+9180
+313
+Cheung Hang Estate
+41
+-1.343
+7743.858
+1.912
+0.000
+
+[station]
+9184
+337
+Ching Wah Court
+44
+-1.350
+8564.223
+5.577
+0.000
+
+[station]
+28475
+595
+Century Link E31
+230
+-5.477
+26081.837
+37.622
+30.000
+
+[station]
+28558
+603
+LWB The Visionary
+230
+-5.419
+26308.869
+31.614
+10.000
+
+[station]
+32443
+634
+Ying Tung Estate E32A Back
+393
+-1.414
+26819.978
+7.922
+40.000
+
+[station]
+28559
+673
+Caribbean Coast Phase 2 E31
+179
+-5.711
+27592.799
+53.644
+5.000
+
+[station]
+27420
+678
+Yi Tung Road E32A
+181
+-5.398
+27846.249
+30.593
+10.000
+
+[station]
+26192
+687
+E Wun Secondary School E32A
+388
+-5.986
+28242.849
+84.195
+5.000
+
+[station]
+25917
+700
+Seaview Crescent E32A
+208
+-1.660
+28588.687
+28.681
+5.000
+
+[station]
+27430
+719
+Tung Chung Development Pier
+207
+-1.268
+29315.165
+15.088
+2.000
+
+[station]
+9201
+776
+Tung Chung Cable Car Terminal
+190
+-1.174
+30404.943
+35.456
+10.000
+
+[station]
+9228
+800
+Citygate
+186
+-5.590
+30919.394
+1.978
+15.000
+
+[station]
+9234
+830
+CTB Yu Tung Court
+192
+-4.963
+31395.201
+8.162
+10.000
+
+[station]
+9276
+857
+Mei Yat House, Yat Tung Estate
+196
+-5.190
+32321.986
+4.720
+25.000
+
+[station]
+9277
+870
+Kui Yat House Yat Tung Estate
+197
+-1.523
+32690.037
+9.053
+25.000
+
+[station]
+9295
+883
+E31 Yat Tung Estate End
+197
+-1.377
+32957.882
+8.231
+15.000
+
+[station]
+40072
+896
+LWB Yat Tung Parking C1
+197
+-0.964
+33116.991
+24.530
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+65.000
+

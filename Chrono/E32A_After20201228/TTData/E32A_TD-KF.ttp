@@ -1,0 +1,259 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+E32A_TD-KF
+E32A_Kwai Fong (South)
+E32A
+
+.........................
+        Stations
+.........................
+
+[station]
+25324
+0
+Tung Chung Development Pier E32A
+207
+-1.581
+14.340
+14.340
+0.000
+
+[station]
+25913
+22
+E32A Seaview Crescent
+208
+-1.443
+516.015
+70.205
+0.000
+
+[station]
+26193
+37
+E32A Coastal Skyline
+388
+-5.725
+965.284
+42.924
+0.000
+
+[station]
+26480
+46
+E32A Caribbean Coast Phase 2
+179
+-5.647
+1373.036
+47.676
+0.000
+
+[station]
+28474
+56
+E32A Caribbean Coast Phase 1
+179
+-5.448
+1667.948
+15.368
+0.000
+
+[station]
+28509
+103
+E32A Ying Tung Estate Go
+393
+-1.493
+2506.782
+23.042
+0.000
+
+[station]
+28479
+113
+E32A The Visionary
+230
+-5.490
+2754.041
+57.571
+0.000
+
+[station]
+28476
+127
+E32A Ying Hei Road
+179
+-1.677
+3072.881
+37.212
+0.000
+
+[station]
+32415
+487
+Clague Garden Estate
+397
+-5.074
+23688.562
+13.362
+3.000
+
+[station]
+32419
+502
+Fuk Loi Estate Tai Chung Rd.
+3
+-5.286
+23955.013
+28.872
+2.000
+
+[station]
+32423
+514
+E32A Discovery Park
+0
+-5.185
+24290.478
+34.515
+5.000
+
+[station]
+32424
+536
+Tsuen Wan Station E32A
+5
+-5.047
+24769.745
+51.182
+10.000
+
+[station]
+32426
+557
+Tai Ho Road E32A
+6
+-4.988
+25301.800
+27.018
+10.000
+
+[station]
+32432
+577
+E32A Chuen Lung Street
+6
+-1.485
+25599.127
+53.482
+10.000
+
+[station]
+32436
+585
+E32A Bo Shek Mansion
+9
+-1.533
+25782.725
+50.080
+8.000
+
+[station]
+32439
+598
+New Haven E32A
+10
+-1.501
+26043.144
+47.860
+2.000
+
+[station]
+21258
+667
+E32A Tai Wo Hau Station
+13
+-4.930
+27231.570
+37.766
+10.000
+
+[station]
+20918
+690
+Kwai Chung Public School
+243
+-4.843
+28100.727
+18.422
+2.000
+
+[station]
+20953
+724
+Kwai Chun Court
+249
+-1.507
+29174.809
+37.979
+10.000
+
+[station]
+20961
+732
+Sun Kwai Hing Gardens
+251
+-1.737
+29461.603
+4.772
+5.000
+
+[station]
+21010
+782
+Metroplaza
+255
+-4.921
+30586.465
+2.162
+10.000
+
+[station]
+21018
+794
+Kwai Tsing Theatre
+259
+-1.381
+30800.341
+20.857
+3.000
+
+[station]
+46906
+817
+Kwai Fong (South) End
+259
+0.433
+31268.248
+26.053
+3.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+55.000
+
+[profile]
+Fast
+50.000
+

@@ -1,0 +1,165 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 24/6/2025
+
+[trip]
+37_TN-YT
+37_YT
+37
+
+.........................
+        Stations
+.........................
+
+[station]
+28492
+0
+Ying Tung Estate
+393
+-1.399
+18.444
+18.444
+0.000
+
+[station]
+28522
+30
+The Visionary 37
+230
+-5.442
+498.446
+58.026
+0.000
+
+[station]
+27285
+82
+Kin Tung Road
+179
+-5.414
+1271.938
+8.607
+0.000
+
+[station]
+27413
+96
+Caribbean Coast Phase 2
+179
+-5.599
+1536.547
+35.876
+0.000
+
+[station]
+27421
+101
+Yi Tung Road
+181
+-5.471
+1879.762
+29.091
+0.000
+
+[station]
+27425
+110
+E Wun Secondary School
+388
+-5.959
+2277.221
+83.550
+0.000
+
+[station]
+27428
+123
+Seaview Crescent
+208
+-1.619
+2608.746
+27.725
+0.000
+
+[station]
+25326
+142
+S64P Tung Chung Development Pier
+207
+-1.209
+3337.367
+16.276
+30.000
+
+[station]
+27445
+201
+Tung Chung Cable Car Terminal
+187
+-1.020
+4483.261
+48.549
+0.000
+
+[station]
+27472
+214
+Tung Chung MTR Station
+187
+-7.246
+4857.420
+5.208
+0.000
+
+[station]
+9235
+263
+LWB Yu Tung Court back
+192
+-4.989
+5874.822
+-4.006
+0.000
+
+[station]
+9276
+290
+Mei Yat House, Yat Tung Estate
+196
+-5.190
+6813.773
+4.720
+25.000
+
+[station]
+9277
+303
+Kui Yat House Yat Tung Estate
+197
+-1.523
+7181.826
+9.053
+25.000
+
+[station]
+27473
+310
+Yat Tung Estate
+198
+-0.986
+7389.302
+26.858
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+20.000
+

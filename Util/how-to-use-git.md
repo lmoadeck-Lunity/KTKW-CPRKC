@@ -1,3 +1,7 @@
+# Just use GitHub Desktop, its not worth the hassle.
+
+
+
 ## Chapter 1: Installing Git
 
 1. Download the latest version of Git from the [Git website](https://git-scm.com/downloads).
@@ -12,7 +16,7 @@
 
 ## Chapter 2: Forking the Repository
 
-1. Go to the [Kwun Tsuen City - Castle Peak Road (Kwai Chung) repository](https://github.com/FreeHK-Lunity/KTKW-CPRKC).
+1. Go to the [Kwun Tsuen City - Castle Peak Road (Kwai Chung) repository](https://github.com/lmoadeck-Lunity/KTKW-CPRKC).
 2. Click on the "Fork" button in the top right corner of the page.
 3. In the "Create a new fork" page, click on the "Create fork" button.
 

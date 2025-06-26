@@ -1,6 +1,6 @@
 ## Chapter 1: Submitting Your Pull Request
 
-1. Go to the [pull request page](https://github.com/FreeHK-Lunity/project-HONGSHING/pulls) of the repository.
+1. Go to the [pull request page](https://github.com/lmoadeck-Lunity/KTKW-CPRKC/pulls) of the repository.
 2. Click on "New pull request".
 3. Click on "compare across forks".
 4. Click on "compare".

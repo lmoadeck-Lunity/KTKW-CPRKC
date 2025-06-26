@@ -1,0 +1,1 @@
+Sceneryobjects\Generic\entrypoint_bus.sco

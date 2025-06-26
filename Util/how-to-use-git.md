@@ -12,11 +12,11 @@
 
 ## Chapter 2: Forking the Repository
 
-1. Go to the [Project-HONGSHING repository](https://github.com/FreeHK-Lunity/project-HONGSHING).
+1. Go to the [Kwun Tsuen City - Castle Peak Road (Kwai Chung) repository](https://github.com/FreeHK-Lunity/KTKW-CPRKC).
 2. Click on the "Fork" button in the top right corner of the page.
 3. In the "Create a new fork" page, click on the "Create fork" button.
 
-### Congratulations! You have successfully created a fork of the main Project-HONGSHING repository.
+### Congratulations! You have successfully created a fork of the main Kwun Tsuen City - Castle Peak Road (Kwai Chung) repository.
 
 ## Chapter 3: Using Git
 
@@ -25,10 +25,10 @@
 3. Run the following command inside the terminal:
 
 ``` git
-git clone https://github.com/[insert your username here]/project-HONGSHING.git
+git clone https://github.com/[insert your username here]/KTKW-CPRKC.git
 ```
 
-4. Move the "maps" folder from the "project-HONGSHING" folder to your OMSI 2 folder.
+4. Move the "maps" folder from the "KTKW-CPRKC" folder to your OMSI 2 folder.
 
 ### Great! You are now ready for map development.
 
@@ -37,15 +37,15 @@ git clone https://github.com/[insert your username here]/project-HONGSHING.git
 1. Install Vim from the [Vim website](https://www.vim.org/download.php).
 2. Follow the steps to install the application.
 3. Go to your Git Bash terminal.
-4. Type the following commands to change to your OMSI 2 "project-HONGSHING" folder inside the terminal:
+4. Type the following commands to change to your OMSI 2 "KTKW-CPRKC" folder inside the terminal:
 
    ``` cmd
-   cd F:
+   cd X: # Please put your drive letter here
    cd OMSI [tab]
    cd project [tab]
    ```
-### This is an example prompt to change to the OMSI 2 "project-HONGSHING" folder. The Command will change depending on where you put your OMSI folder.
-5. After you have edited the map, copy it into the "project-HONGSHING" folder.
+### This is an example prompt to change to the OMSI 2 "KTKW-CPRKC" folder. The Command will change depending on where you put your OMSI folder.
+5. After you have edited the map, copy it into the "KTKW-CPRKC" folder.
 6. Type the following commands into the Git Bash terminal:
 
    ``` cmd
